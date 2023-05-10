@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png", ESPN PREMIUM SD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/312847
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png", ESPN PREMIUM HD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/123874
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png", ESPN PREMIUM FHD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34648
+
+#EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png", TNT SPORTS HD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34683
+
+#EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png", TNT SPORTS FHD
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34684
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png", Tyc Sports
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://cabletosaguatv.com/wp-content/uploads/espn2.png", ESPN 2
+https://edge-live15-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://e7.pngegg.com/pngimages/20/364/png-clipart-espn3-watchespn-espn-com-streaming-media-espn-3-television-text.png", ESPN 3
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4
+https://edge-live15-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG", ESPN EXTRA
+https://edge4-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png", DirecTV Sports
+http://tv.teleclub.xyz/live/ABRIL_01/DIRECTV/index.m3u8
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png", DirecTV Sports 2
+http://tv.teleclub.xyz/live/ABRIL_01/DIRECTV_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmwMC19FMFgnrO2gWwvwIJr-LHrl9THmZAXl6YNfAJbm0hCPuse-4Z2gOxq_Ddw1Bncg&usqp=CAU", Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658", Bein Sports Extra
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+
+#EXTINF:-1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658", Bein Sports Extra ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
