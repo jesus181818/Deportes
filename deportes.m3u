@@ -15,9 +15,6 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34683
 #EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png", TNT SPORTS FHD
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/34684
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png", Tyc Sports HD
-http://live.budtvlight.com:25461/Luna001/18dabf00/1651
-
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png", Tyc Sports FHD
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34686
 
@@ -41,7 +38,6 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34666
 
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1920px-ESPN3_logo.svg.png", ESPN 3 FHD
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34667
-
 
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG", ESPN EXTRA HD
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312845
@@ -71,7 +67,7 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34647
 http://live.budtvlight.com:25461/Luna001/18dabf00/1643
 
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", DirecTV Sports 2
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34612
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/187724
 
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png", DirecTV Sports +
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/123871
@@ -91,7 +87,7 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/303759
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1920px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", Liga de Campeones FHD
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/303761
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/1920px-2016_beIN_Sports_logo.svg.png", Bein Sports USA
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/1200px-2016_beIN_Sports_logo.svg.png", Bein Sports USA
 http://live.budtvlight.com:25461/Luna001/18dabf00/1607
 
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bein_LaLiga.svg/1920px-Bein_LaLiga.svg.png", Bein LaLiga FHD
@@ -100,22 +96,22 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34703
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/800px-BeIN_Sports_En_Espa%C3%B1ol.png", Bein Sports Ñ
 http://live.budtvlight.com:25461/Luna001/18dabf00/11940
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/1920px-2016_beIN_Sports_logo.svg.png", Bein Sports Extra
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81q1bjgrNu8NXifowHqkEFcT5A6jbRaEiXZPiF0Zn7Pv6xOlW-ubs3-TIMqQd_a9f6pAGeYkt32mwj4YfFmrSQ1rpnutUQ=w1360-h661g", Bein Sports Extra
 http://live.budtvlight.com:25461/Luna001/18dabf00/63930
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png", DAZN LaLiga
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oyD59vC8JbJg4WUhwaAd5lSa52lIraD4YtfnBbCXEPP06zGX64pNc7AIGTp9_kkfY-3wI-4cPr4ztDgLvNm3f8KeUX=w1360-h661", DAZN LaLiga
 http://live.budtvlight.com:25461/Luna001/18dabf00/46970
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/800px-DAZN_Logo_Master.svg.png", DAZN
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81reBb8RrAd2RXJE7OsVkBZT4Wlks-LppVGMCFCuf9A5955i7E3y55CzVWjQflEoQ7-ryipEow0IeAnhCoJ8X090dziC=w1360-h661", DAZN
 http://live.budtvlight.com:25461/Luna001/18dabf00/11775
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/800px-DAZN_Logo_Master.svg.png", DAZN 2
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oKml50u9IlB3SO_NkbDVNCzj-wcqqCa4rVpp9GYFy9YQFLIhcb_bm0hi3A-fYpPAs6a-0klN0qvcoHvVsVUD0sWL5a=w1360-h661", DAZN 2
 http://live.budtvlight.com:25461/Luna001/18dabf00/11776
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/800px-DAZN_Logo_Master.svg.png", DAZN 3
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oRmEh8-RuaHlorqwMcFWHwCZgRphaBNJZETysW1HLVfoLiKCo4SIf45xp50gDprPe1CD-wvAOfB360Zlbrg8We0bbhNw=w1360-h661", DAZN 3
 http://live.budtvlight.com:25461/Luna001/18dabf00/11777
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/800px-DAZN_Logo_Master.svg.png", DAZN 4
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qKT8ZlD1PdShipxBqKqrzTDHtUC4pN5rB-zF2mPFYPIM3h9tryZbpkP_Fp1v6fCWUb0CaatiwbNRwBMUrrnLg-M2Hh=w1360-h661", DAZN 4
 http://live.budtvlight.com:25461/Luna001/18dabf00/11778
 
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/sport/bt-sport-logos/bt_sport_white.png", BT Sport 1
@@ -130,38 +126,53 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/14894
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/sport/bt-sport-logos/bt_sport_white.png", BT Sports 4
 http://live.budtvlight.com:25461/Luna001/18dabf00/2647
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1920px-Eurosport_Logo_2015.svg.png", Eurosport 1
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1
 http://live.budtvlight.com:25461/Luna001/18dabf00/90494
 
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1920px-Eurosport_2_Logo_2015.svg.png", Eurosport 2
 http://live.budtvlight.com:25461/Luna001/18dabf00/90495
 
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/1280px-Logo_Canal%2B_Sport_2013.svg.png", Canal+ Sport HD
-http://a.alcapone1.com:8080/Tommy/123456/14768
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/143
 
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/1280px-Logo_Canal%2B_Sport_2013.svg.png", Canal+ Sport FHD
-http://a.alcapone1.com:8080/Tommy/123456/14767
+http://149.56.13.218:8080/eliaseggy787/JRZpSNT6Bv/162843
 
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png", SuperSport Rugby
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/11639
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://www.lyngsat.com/logo/tv/vv/viaplay-sports-1-uk.svg", Viaplay Sports 1 HD
-http://a.alcapone1.com:8080/Tommy/123456/16814 
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://tvepg.eu/img/united_kingdom/logo/viaplay_sports_1.png", Viaplay Sports HD 
+http://elmonkey.us:25461/santana/1234/91519
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://www.lyngsat.com/logo/tv/vv/viaplay-sports-1-uk.svg", Viaplay Sports 1 FHD
-http://a.alcapone1.com:8080/Tommy/123456/16813
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://tvepg.eu/img/united_kingdom/logo/viaplay_sports_1.png", Viaplay Sports FHD
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1097
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://www.lyngsat.com/logo/tv/vv/viaplay-sports-2-uk.svg", Viaplay Sports 2 HD
-http://a.alcapone1.com:8080/Tommy/123456/16817
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://tvepg.eu/img/united_kingdom/logo/viaplay_sports_2.png", Viaplay Sports 2
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/4723
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://www.lyngsat.com/logo/tv/vv/viaplay-sports-2-uk.svg", Viaplay Sports 2 FHD
-http://a.alcapone1.com:8080/Tommy/123456/16816
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qyfAaaed_rF8M_t-8izwmjoxJR6xOr03_oDPKZefU5aqHzep8ED1eyhoCcXhoO8wSUm0FVv09XjgT3fpuQ1I8ATRbW6A=w1360-h661", Sky Sports Main Event FHD
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/283053
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png", Sky Sports Arena
-http://a.alcapone1.com:8080/Tommy/123456/16914
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81o-V1dfl8i0SAFLCi2zO8eUJM7rcW2vGIzStuCzCy5XwMSFIxKsDvCyf1HS-iBLkxcQRy1d--__hDgA2gIggB3Ua_kLCA=w1360-h661", Sky Sports Football FHD
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/266
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/2560px-Sky_Sport_Action.svg.png", Sky Sports Action
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qPfIfv5ioXSS8kHX69vufpIxJ42Cn8aOsa4VcImGeqLgUumj5I-LE4JUg7eAcK-dl4gmUizkIs6W0YnN2FnGorO_RuPA=w1360-h661", Sky Sports Arena HD
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/267
 
-#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://e0.365dm.com/tvlogos/channels/1303-Logo.png", Sky Sports Premier League
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oawglonGa86Uopjh_wFePqQrLa7fQ8hw0XqQ_ZpGUC0jM48pP79o7uQmlabvcMZO5Dm1lnSTiYlVG0gmWuW9icesfG=w1360-h661", Sky Sports Action HD
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/268
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oawglonGa86Uopjh_wFePqQrLa7fQ8hw0XqQ_ZpGUC0jM48pP79o7uQmlabvcMZO5Dm1lnSTiYlVG0gmWuW9icesfG=w1360-h661", Sky Sports Action FHD
+http://149.56.13.218:8080/eliaseggy787/JRZpSNT6Bv/88182 
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81r4bI_i9NuUo2u675WPVmEZ1bihVniiV3nH2ZuLseboBok2G25TUL2XsPJDo8_z3dwx_7pY9MaxRxg5CWtGNilLS3QBYw=w1360-h661", Sky Sports Premier League HD
 http://live.budtvlight.com:25461/Luna001/18dabf00/35478
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://lh3.googleusercontent.com/drive-viewer/AFGJ81r4bI_i9NuUo2u675WPVmEZ1bihVniiV3nH2ZuLseboBok2G25TUL2XsPJDo8_z3dwx_7pY9MaxRxg5CWtGNilLS3QBYw=w1360-h661", Sky Sports Premier League FHD
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/263
+
+#EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png", Sky Sports News
+http://149.56.13.218:8080/eliaseggy787/JRZpSNT6Bv/88133
 
 #EXTINF:-1 tvg-chno = "1" tvg-country = "ES"  tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png", Barca TV
 http://live.budtvlight.com:25461/Luna001/18dabf00/80683
