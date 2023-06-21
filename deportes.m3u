@@ -1,4 +1,4 @@
-﻿#EXTM3U
+ ﻿#EXTM3U
 
 :D
 
@@ -88,12 +88,18 @@ Espn premium
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/4193.ts
 
+Espn premium
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
+https://1125-vos.dtvott.com/DASH/manifest.mpd
 
 TNT sports
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155814.ts
 
-
+TNT sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
+https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 Tyc sports
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pEi7qDh2iJKVVol8TFhV2HyS5dMU-oMEDYjE99XlYm4MPfQO6Cou2L5ArW9MX9_b5-OoJNW1h43Tv8nE7-wVB2wIHIpA=w1360-h661" group-title="deportes", Tyc Sports
