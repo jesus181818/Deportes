@@ -69,7 +69,7 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 Ciudad TV Resistencia
 
- #EXTINF:-1 tvg-logo="http://ciudadtv.com.ar/imgs/logo2.png" group-title="noticias", Ciudad TV Resistencia
+#EXTINF:-1 tvg-logo="http://ciudadtv.com.ar/imgs/logo2.png" group-title="noticias", Ciudad TV Resistencia
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 
 
