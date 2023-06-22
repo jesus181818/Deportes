@@ -89,21 +89,6 @@ Espn premium
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/4193.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN PREMIUM AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/espnpremium.json
-https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN PREMIUM 2 AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/espnp.json
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1125
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w4n3ZSB/tntsportsar.png" tvg-group="DEPORTES", TNT SPORTS AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tntsportsar.json
-https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 
 TNT sports
