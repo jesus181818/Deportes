@@ -5,7 +5,7 @@
 America
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="noticias", America
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
 
 Telefe
@@ -17,8 +17,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?PlaylistM3UCL.m3u8
 Tv pública
 
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="noticias", Tv Pública 
-https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-
+http://gtv.best/live/Samantha/Samantha/9301.m3u8
 
 El trece
 
@@ -30,15 +29,31 @@ El nueve
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="noticias", El Nueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
+A24
+
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="noticias", A24
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+TN
+
+#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" group-title="noticias", TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+
 C5N
 
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="noticias", C5N
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
+Crónica
+
+#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/800px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="noticias", Crónica 
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+
 Canal 26
 
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-name="CA26HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="noticias", Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 Ciudad Magazine
 
@@ -91,7 +106,7 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/4193.ts
 
 TNT sports
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://sdmx.vip:8080/live/marvin/marvin/2140800.ts
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155814.ts
 
 
 Tyc sports
@@ -167,7 +182,7 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/33512.ts
 
 DirecTV Sports 2 
 #EXTINF:-1 tvg-id="612" tvg-name="DTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1091367.ts
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/32881.ts
 
 DirecTV Sports 3
 #EXTINF:-1 tvg-id="613" tvg-name="DTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
@@ -204,31 +219,31 @@ Supersport rugby
 http://kuchini.site:8080/live/iptvepic4/DzbGTtATy4DzmK8c/11639.ts
 
 HBO
-#EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="películas", HBO 
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://logodix.com/logo/95977.png" group-title="películas", HBO 
 http://gtv.best/live/Samantha/Samantha/5492.ts
 
 HBO 2
-#EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="películas", HBO 2
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.HBO2_logo.png.0ee2d4ef988bae392cf4d9e2a24fb682.png" group-title="películas", HBO 2
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155794.ts
 
 HBO PLUS
-#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/800px-Logohboplus2019.svg.png" group-title="películas", HBO PLUS
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="películas", HBO PLUS
 http://gtv.best/live/Samantha/Samantha/5499.m3u8
 
 HBO MUNDI
-#EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="películas", HBO MUNDI
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.1200px-HBO_Mundi_svg.png.ef2593b818107c6a7eca3d235e0039ff.png.4b95b4aad6d12d806ae269bbffa500fb.png" group-title="películas", HBO MUNDI
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1143815.ts
 
 HBO POP
-#EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="películas", HBO POP
+#EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1986800355_HBOPOP(varianteblanca).png.307e4bfaea022003758c873d39d77dcc.png" group-title="películas", HBO POP
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/8246.ts
 
 HBO FAMILY
-#EXTINF:-1 tvg-id="1534dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="películas", HBO FAMILY
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.HBO_Family.png.bc8b7b2a9415321ed885ae5b7fc6a46f.png.e927ae27067f2db42a7a6cc7c9977de4.png" group-title="películas", HBO FAMILY
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
 
 HBO XTREME
-#EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="películas", HBO XTREME
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.1813311820_HBOSignature.png.a53458ca72d8c5c2e475190fdb30cbd2.png.ffdd7fc3f67d991f25e9f9085209d886.png" group-title="películas", HBO XTREME
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/44341.ts
 
 HBO SIGNATURE
@@ -248,7 +263,7 @@ Space
 http://gtv.best/live/Samantha/Samantha/5513.m3u8
 
 Cinecanal
-#EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/800px-CinecanalLA.png" group-title="películas", Cinecanal
+#EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.300px-CinecanalLA.png.d7148496039272330a21020818e03e28.png" group-title="películas", Cinecanal
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155785.ts
 
 TNT
@@ -260,11 +275,11 @@ TNT SERIES
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/4050.ts
 
 FX
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="películas", FX
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.fx_logo_2008_2013_white_by_danielmedia20_deduzht-fullview.png.1accf497fbbcefd6f2013de8065f03c4.png" group-title="películas", FX
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/4044.ts
 
 STAR CHANNEL
-#EXTINF:-1 tvg-id="202dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="películas", STAR CHANNEL
+#EXTINF:-1 tvg-id="202dtv.co" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="películas", STAR CHANNEL
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/4022.ts
 
 Sony Channel
@@ -288,11 +303,11 @@ Universal TV
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/4054.ts
 
 Studio Universal
-#EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://es.m.wikipedia.org/wiki/Studio_Universal_(Latinoam%C3%A9rica)#/media/Archivo%3AStudioUniversal2016.png" group-title="películas", Studio Universal
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1200px-Logo_Studio_Universal_svg.png.4c30bd27e7971a8f85a7dc0b5f034ede.png" group-title="películas", Studio Universal
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/259
 
 Universal Reality
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.395393765_UniversalReality-Oscuro.png.e95ee829e7a7467c10b6a48cd2b82ec9.png" group-title="películas", Universal Reality
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.7d6eeaa83b77834a29fc03cb8f88ff63.png" group-title="películas", Universal Reality
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1119205.ts
 
 Universal Cinema
@@ -308,27 +323,27 @@ Universal Premiere
 http://gtv.best/live/Samantha/Samantha/218552.m3u8
 
 AXN
-#EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="películas", AXN
+#EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.5ac2806d93e3825075b97fb9ad8de7e4.png" group-title="películas", AXN
 http://gtv.best/live/Samantha/Samantha/5471.ts
 
 Golden
-#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="películas", Golden
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.984186640_GoldenLA(2020).png.6fcc5fccc997bf89d8476be008573fb9.png" group-title="películas", Golden
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155790.ts
 
 Golden Premiere
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es" group-title="películas", Golden Premiere
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.71ced96b61f7fac778f2f9c5f64e52e0.png" group-title="películas", Golden Premiere
 http://gtv.best/live/Samantha/Samantha/5489.ts
 
 Golden Edge
-#EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/800px-Golden_Edge_Logo_2020.png" group-title="películas", Golden Edge
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.949364663_GoldenEdgeLA(2020).png.47e88463b6cad6b9a1c0cc9e31e3964b.png" group-title="películas", Golden Edge
 http://gtv.best/live/Samantha/Samantha/5490.ts
 
 Golden Plus
-#EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png" group-title="películas", Golden Plus
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.92231216_GoldenPlus2020.png.3a950b6243d15066046ac5765ece2282.png" group-title="películas", Golden Plus
 http://gtv.best/live/Samantha/Samantha/5491.ts
 
 AMC
-#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="películas", AMC
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.amc_us_hd.png.e0fb77496e5732121c56cda732daf483.png" group-title="películas", AMC
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/4085.ts
 
 
