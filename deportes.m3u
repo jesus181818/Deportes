@@ -165,17 +165,22 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
 
 
 Espn 3
+
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1920px-ESPN3_logo.svg.png" group-title="deportes", ESPN 3
+http://playhispano.org:8080/digitalbox/aJ4rpws3a0/214128
+
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1920px-ESPN3_logo.svg.png" group-title="deportes", ESPN 3
 http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/228.ts
-
-
-
 
 Espn 4
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4314
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/18580.ts
 
-
+#EXTINF:-1 tvg-id="608dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
+http://tv.dominiotv.xyz:25461/live/Fran5902/68202278/137845.ts
 
 Espn extra
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
@@ -197,6 +202,21 @@ Fox Sports 3
 #EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.4f2e2a5059810309a37f5698e676a318.png" group-title="deportes", Fox Sports 3
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/33475.ts
 
+
+Fox Sports
+
+#EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/236
+
+Fox Sports 2
+
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIvuG-kbvY9EB-Wh49uarALGbNFGVEv-ZtA&usqp=CAU" group-title="deportes", Fox Sports 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/232
+
+Fox Sports 3 
+
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/237
 
 DirecTV Sports
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
@@ -226,6 +246,11 @@ Movistar Liga de campeones
 http://gtv.best/live/Samantha/Samantha/129365.ts
 
 
+#Vamos por Movistar+
+
+#EXTINF:-1 tvg-id="mplus#vamos.es" tvg-logo="https://yt3.googleusercontent.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="deportes", #Vamos por Movistar+
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/1156050.ts
+
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81reBb8RrAd2RXJE7OsVkBZT4Wlks-LppVGMCFCuf9A5955i7E3y55CzVWjQflEoQ7-ryipEow0IeAnhCoJ8X090dziC=w1360-h661" group-title="deportes", DAZN
 http://gtv.best/live/Samantha/Samantha/274688.ts
@@ -239,6 +264,8 @@ http://playhispano.org:8080/userlw/led5120/162843
 Supersport rugby 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="deportes", SuperSport Rugby
 http://playhispano.org:8080/userlw/led5120/88154
+
+
 
 HBO
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://logodix.com/logo/95977.png" group-title="películas", HBO 
@@ -375,7 +402,7 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/3958.ts
 
 
 Comedy Central
-#EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="películas", Comedy Central
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/small.279164273_Sinttulo-2.png.973c12b8dcf916ec1caca304df1efeb0.png" group-title="películas", Comedy Central
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/4039.ts
 
 
