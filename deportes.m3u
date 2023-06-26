@@ -92,7 +92,7 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 Chaco TV
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4tfEO2luj0HPjJ3G7V6JaF/c18a5880f4432157cbc2a45afac39051/51_CACHO-TV-noticias.png" group-title="noticias", Chaco TV
-https://ythls.onrender.com/video/oXFnaziBUdY.m3u8
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 Ciudad TV Resistencia
 
@@ -148,7 +148,7 @@ http://gtv.best/live/Samantha/Samantha/228244.ts
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
-http://dnsplay.xyz/live/jqrrcnjz/21fs5J9hLs/34661.ts
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090736.ts
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
 http://190.83.60.34:1414/play/a036
