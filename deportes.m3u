@@ -101,12 +101,12 @@ http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 
 Telemax
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.blanco_terminado.png.c77668d498c72e8bf660858341b2eb23.png" group-title="noticias", Telemax
+#EXTINF:-1 tvg-id="726dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/large.blanco_terminado.png.c77668d498c72e8bf660858341b2eb23.png" group-title="noticias", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 Canal Orbe 21
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="noticias", Canal Orbe 21
+#EXTINF:-1 tvg-id="351dtv.cl" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="noticias", Canal Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
 Radio María TV
@@ -174,7 +174,7 @@ http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/228.ts
 
 Espn 4
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4314
+http://190.83.60.34:1414/play/a02w
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/18580.ts
@@ -187,8 +187,7 @@ Espn extra
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/229
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/4120.ts
-
+https://bgtv.site/play/2-628.php?id=L21pZ3VlbDIwMjMvdHYxLnBocD9pZD0yOQ==
 
 Fox sports
 #EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.e4d435abe2c5fa0680f4f5fe2aa6291a.png" group-title="deportes", Fox Sports
@@ -255,6 +254,53 @@ DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81reBb8RrAd2RXJE7OsVkBZT4Wlks-LppVGMCFCuf9A5955i7E3y55CzVWjQflEoQ7-ryipEow0IeAnhCoJ8X090dziC=w1360-h661" group-title="deportes", DAZN
 http://gtv.best/live/Samantha/Samantha/274688.ts
 
+Sky Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/hosted-accounts/sky.shorthandstories.com/man-city-table/assets/logo.png" group-title="películas", Sky Sports
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/1151425.ts
+
+Eurosport 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81owG2Slc0gJfJ7kX9Bz0XDbEoEQs6UH7xTmadbbhK9N4dckZPzB6jTMX74XiL11_xv3h-lXi-2TAi0e1IxFx9m8zsCGgQ=w1360-h661" group-title="películas", Eurosport 1
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/41816.ts
+
+Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oFItSWB6VpvLDHCS0NdV6JTMS5OULD7J_gvB4Uo7aYinO-zXrWSlDjo4Po0b6WiryPiebI_mKEE3oja4qF_yhdZUIC=w1360-h661" group-title="películas", Eurosport 2
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/51352.ts
+
+Teledeporte
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="películas", Teledeporte
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/1156053.ts
+
+Sky Sports Premier League
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81r4bI_i9NuUo2u675WPVmEZ1bihVniiV3nH2ZuLseboBok2G25TUL2XsPJDo8_z3dwx_7pY9MaxRxg5CWtGNilLS3QBYw=w1360-h661" group-title="películas", Sky Sports Premier League
+http://likea8bitboss.xyz/live/5320829297/3412987056/761351.ts
+
+Sky Sports football
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81o-V1dfl8i0SAFLCi2zO8eUJM7rcW2vGIzStuCzCy5XwMSFIxKsDvCyf1HS-iBLkxcQRy1d--__hDgA2gIggB3Ua_kLCA=w1360-h661" group-title="películas", Sky Sports football
+http://likea8bitboss.xyz/live/5320829297/3412987056/761346.ts
+
+Sky Sports Arena
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qPfIfv5ioXSS8kHX69vufpIxJ42Cn8aOsa4VcImGeqLgUumj5I-LE4JUg7eAcK-dl4gmUizkIs6W0YnN2FnGorO_RuPA=w1360-h661" group-title="películas", Sky Sports Arena
+http://likea8bitboss.xyz/live/5320829297/3412987056/761343.ts
+
+Sky Sports Action
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oawglonGa86Uopjh_wFePqQrLa7fQ8hw0XqQ_ZpGUC0jM48pP79o7uQmlabvcMZO5Dm1lnSTiYlVG0gmWuW9icesfG=w1360-h661" group-title="películas", Sky Sports Action
+http://likea8bitboss.xyz/live/5320829297/3412987056/761342.ts
+
+Sky Sports main event
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qyfAaaed_rF8M_t-8izwmjoxJR6xOr03_oDPKZefU5aqHzep8ED1eyhoCcXhoO8wSUm0FVv09XjgT3fpuQ1I8ATRbW6A=w1360-h661" group-title="películas", Sky Sports main event
+http://likea8bitboss.xyz/live/5320829297/3412987056/761348.ts
+
+Sky Sports mix
+#EXTINF:-1 tvg-id="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" group-title="películas", Sky Sports mix
+http://likea8bitboss.xyz/live/5320829297/3412987056/761349.ts
+
+Sky Sports news
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="películas", Sky Sports news
+http://likea8bitboss.xyz/live/5320829297/3412987056/761350.ts
+
+Sky Sports calcio
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="películas", Sky Sports calcio
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/1151425.ts
 
 Canal+ sports
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/1280px-Logo_Canal%2B_Sport_2013.svg.png" group-title="deportes", Canal+ Sport
@@ -409,6 +455,8 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/4039.ts
 Paramount
 #EXTINF:-1 tvg-id="510dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="películas", Paramount
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155799.ts
+
+
 
 
 
