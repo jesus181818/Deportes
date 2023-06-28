@@ -127,12 +127,12 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 Espn premium
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/81254
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/8330.ts
 
 
 TNT sports
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/81251
+http://gtv.best/live/Samantha/Samantha/228194.m3u8
 
 
 Tyc sports
@@ -148,7 +148,7 @@ http://gtv.best/live/Samantha/Samantha/228244.ts
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/81256
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/14857.m3u8
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
 http://190.83.60.34:1414/play/a036
