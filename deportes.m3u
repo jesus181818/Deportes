@@ -127,12 +127,12 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 Espn premium
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/4193.ts
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/81254
 
 
 TNT sports
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155814.ts
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/81251
 
 
 Tyc sports
@@ -148,7 +148,7 @@ http://gtv.best/live/Samantha/Samantha/228244.ts
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090736.ts
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/81256
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
 http://190.83.60.34:1414/play/a036
@@ -157,12 +157,13 @@ http://190.83.60.34:1414/play/a036
 Espn 2
 
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1089695.ts
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155889.ts
 
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
 
-
+#EXTINF:-1 tvg-id="622dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/144629
 
 Espn 3
 
@@ -251,7 +252,7 @@ http://gtv.best/live/Samantha/Samantha/129365.ts
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1156050.ts
 
 DAZN
-#EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81reBb8RrAd2RXJE7OsVkBZT4Wlks-LppVGMCFCuf9A5955i7E3y55CzVWjQflEoQ7-ryipEow0IeAnhCoJ8X090dziC=w1360-h661" group-title="deportes", DAZN
+#EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-2-1.png" group-title="deportes", DAZN
 http://gtv.best/live/Samantha/Samantha/274688.ts
 
 Sky Sports
@@ -259,11 +260,11 @@ Sky Sports
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1151425.ts
 
 Eurosport 1
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81owG2Slc0gJfJ7kX9Bz0XDbEoEQs6UH7xTmadbbhK9N4dckZPzB6jTMX74XiL11_xv3h-lXi-2TAi0e1IxFx9m8zsCGgQ=w1360-h661" group-title="películas", Eurosport 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd235buUjSiOsdTYuVRqUfQBQQ810x8mpXg&usqp=CAU" group-title="películas", Eurosport 1
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/41816.ts
 
 Eurosport 2
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oFItSWB6VpvLDHCS0NdV6JTMS5OULD7J_gvB4Uo7aYinO-zXrWSlDjo4Po0b6WiryPiebI_mKEE3oja4qF_yhdZUIC=w1360-h661" group-title="películas", Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPof6UUYu5jzdH_nXAUcfDAHl3beHUho5nfg&usqp=CAU" group-title="películas", Eurosport 2
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/51352.ts
 
 Teledeporte
@@ -271,36 +272,33 @@ Teledeporte
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1156053.ts
 
 Sky Sports Premier League
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81r4bI_i9NuUo2u675WPVmEZ1bihVniiV3nH2ZuLseboBok2G25TUL2XsPJDo8_z3dwx_7pY9MaxRxg5CWtGNilLS3QBYw=w1360-h661" group-title="películas", Sky Sports Premier League
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoAmSj8kYr9ZFzRmVCMK_uEuOmZddIVIw7SA&usqp=CAU" group-title="películas", Sky Sports Premier League
 http://likea8bitboss.xyz/live/5320829297/3412987056/761351.ts
 
 Sky Sports football
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81o-V1dfl8i0SAFLCi2zO8eUJM7rcW2vGIzStuCzCy5XwMSFIxKsDvCyf1HS-iBLkxcQRy1d--__hDgA2gIggB3Ua_kLCA=w1360-h661" group-title="películas", Sky Sports football
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmaBLntPfEkh0UoAXj-b2IjE2meRph3b_Cvw&usqp=CAU" group-title="películas", Sky Sports football
 http://likea8bitboss.xyz/live/5320829297/3412987056/761346.ts
 
 Sky Sports Arena
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qPfIfv5ioXSS8kHX69vufpIxJ42Cn8aOsa4VcImGeqLgUumj5I-LE4JUg7eAcK-dl4gmUizkIs6W0YnN2FnGorO_RuPA=w1360-h661" group-title="películas", Sky Sports Arena
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvO58IyE2l80dR0YsJQJhiV6Rby8-6qusA-g&usqp=CAU" group-title="películas", Sky Sports Arena
 http://likea8bitboss.xyz/live/5320829297/3412987056/761343.ts
 
 Sky Sports Action
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oawglonGa86Uopjh_wFePqQrLa7fQ8hw0XqQ_ZpGUC0jM48pP79o7uQmlabvcMZO5Dm1lnSTiYlVG0gmWuW9icesfG=w1360-h661" group-title="películas", Sky Sports Action
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvc4vNWMznm3epwD70YuDU62gzUYtua6kZ9g&usqp=CAU" group-title="películas", Sky Sports Action
 http://likea8bitboss.xyz/live/5320829297/3412987056/761342.ts
 
 Sky Sports main event
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qyfAaaed_rF8M_t-8izwmjoxJR6xOr03_oDPKZefU5aqHzep8ED1eyhoCcXhoO8wSUm0FVv09XjgT3fpuQ1I8ATRbW6A=w1360-h661" group-title="películas", Sky Sports main event
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVfVKV_WDj2Q3fob7ys3obK7lxYfU04ZnaA&usqp=CAU" group-title="películas", Sky Sports main event
 http://likea8bitboss.xyz/live/5320829297/3412987056/761348.ts
 
 Sky Sports mix
-#EXTINF:-1 tvg-id="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" group-title="películas", Sky Sports mix
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuL3L4ZIFfqiPrHIkKhvCbXDa3C5mCMgABA&usqp=CAU" group-title="películas", Sky Sports mix
 http://likea8bitboss.xyz/live/5320829297/3412987056/761349.ts
 
 Sky Sports news
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="películas", Sky Sports news
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPjrImg6MviBuOunfxCXH9M87lVTuvqBGkCg&usqp=CAU" group-title="películas", Sky Sports news
 http://likea8bitboss.xyz/live/5320829297/3412987056/761350.ts
 
-Sky Sports calcio
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="películas", Sky Sports calcio
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1151425.ts
 
 Canal+ sports
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/1280px-Logo_Canal%2B_Sport_2013.svg.png" group-title="deportes", Canal+ Sport
