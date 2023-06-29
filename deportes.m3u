@@ -160,7 +160,7 @@ Espn 2
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155889.ts
 
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
+http://190.83.60.34:1414/play/a02c
 
 #EXTINF:-1 tvg-id="622dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
 http://daleplay.club:8080/Yolanda23/527aBzvSY896/144629
@@ -168,10 +168,10 @@ http://daleplay.club:8080/Yolanda23/527aBzvSY896/144629
 Espn 3
 
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1920px-ESPN3_logo.svg.png" group-title="deportes", ESPN 3
-http://playhispano.org:8080/digitalbox/aJ4rpws3a0/214128
+http://playhispano.org:8080/userlw/led5120/86266
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1920px-ESPN3_logo.svg.png" group-title="deportes", ESPN 3
-http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/228.ts
+http://190.83.60.34:1414/play/a026
 
 Espn 4
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
@@ -185,7 +185,7 @@ http://tv.dominiotv.xyz:25461/live/Fran5902/68202278/137845.ts
 
 Espn extra
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/229
+http://190.83.60.34:1414/play/a03n
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
 https://bgtv.site/play/2-628.php?id=L21pZ3VlbDIwMjMvdHYxLnBocD9pZD0yOQ==
@@ -454,9 +454,29 @@ Paramount
 #EXTINF:-1 tvg-id="510dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="películas", Paramount
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155799.ts
 
+The pet collective
+#EXTINF:-1 tvg-id="" tvg-logo="https://v.fastcdn.co/u/ce0680fc/57609977-0-TPC-OTT-SQUARE.jpg" group-title="entretenimiento", The pet collective
+https://stitcher.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+Failarmy
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.shopify.com/s/files/1/0041/9194/4817/t/15/assets/logo-image-file.png?v=88203441892567631601625151959" group-title="entretenimiento", Failarmy
+https://stitcher.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+Gran Hermano Chile
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radioagricultura.cl/wp-content/uploads/2023/06/foto_0000000220230228190959_GH-HERO-MOBILE-OLD.png" group-title="entretenimiento", Gran Hermano Chile
+https://stitcher.pluto.tv/stitch/hls/channel/647f7f8d8e3c0a0008d552cb/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+Wipeout
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.io/bQBkAa3_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="entretenimiento", Wipeout
+https://stitcher.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+LoveNature
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="entretenimiento", 
+https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+Paisajes
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/Stingray-Naturescape_Artwork_Horizontal.jpg" group-title="entretenimiento", 
+https://stitcher.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true&profilesFromStream=true
 
 
 
