@@ -134,7 +134,7 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/8330.ts
 
 TNT sports
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155814.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/146030.ts
 
 
 Tyc sports
@@ -150,12 +150,12 @@ http://gtv.best/live/Samantha/Samantha/228244.ts
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090736.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/65660.ts
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1068348.ts
 
-#EXTINF:-1 tvg-id="1621dtv.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
+#EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1080111.ts
 
 Espn 2
@@ -163,11 +163,11 @@ Espn 2
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1089694.ts
 
-#EXTINF:-1 tvg-id="622dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
-http://190.83.60.34:1414/play/a02c
-
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/43637.ts
+
+#EXTINF:-1 tvg-id="622dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
+http://190.83.60.34:1414/play/a02c
 
 Espn 3
 
@@ -251,7 +251,7 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/1156050.ts
 
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-2-1.png" group-title="deportes", DAZN
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/53380.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/20587.ts
 
 Sky Sports
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/hosted-accounts/sky.shorthandstories.com/man-city-table/assets/logo.png" group-title="películas", Sky Sports
