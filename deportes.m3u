@@ -34,7 +34,7 @@ A24
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/1550442810653.png.36a9c714f121b216133d810e568e02d7.png" group-title="noticias", A24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
-TN
+TN 
 
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" group-title="noticias", TN
 https://ythls.onrender.com/video/HPiv1pzIPRc.m3u8
@@ -150,10 +150,10 @@ http://gtv.best/live/Samantha/Samantha/228244.ts
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090736.ts
+http://45.160.12.253:8000/play/212
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1068348.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/65646.ts
 
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1080111.ts
@@ -161,10 +161,10 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/1080111.ts
 Espn 2
 
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1089694.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/65647.ts
 
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/43637.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/65672.ts
 
 #EXTINF:-1 tvg-id="622dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
 http://190.83.60.34:1414/play/a02c
@@ -172,7 +172,7 @@ http://190.83.60.34:1414/play/a02c
 Espn 3
 
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1920px-ESPN3_logo.svg.png" group-title="deportes", ESPN 3
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155890.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/65648.ts
 
 Espn 4
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
@@ -186,7 +186,7 @@ http://tv.dominiotv.xyz:25461/live/Fran5902/68202278/137845.ts
 
 Espn extra
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/7940.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/139956.ts
 
 Fox sports
 #EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.e4d435abe2c5fa0680f4f5fe2aa6291a.png" group-title="deportes", Fox Sports
