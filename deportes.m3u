@@ -129,12 +129,33 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 Espn premium
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/8330.ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cb49df341423cb597bf3e79b78f2a52:11ad69d2c84f41dbb520abfe38b19fe7
+https://1125-vos.dtvott.com/DASH/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 group-title="HD" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN_Premium.png",ESPN Premium
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cb49df341423cb597bf3e79b78f2a52:11ad69d2c84f41dbb520abfe38b19fe7
+https://1125-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM 2
+https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
 
 TNT sports
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xGl79FjaUvi5azbM52HVcQ","k":"pN7ndhUnnIWLGeW7aatnVQ"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://gotv.vip:8880/live/juvenal/juvenal123/146030.ts
+https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 
 Tyc sports
@@ -152,11 +173,17 @@ Espn
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090736.ts
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/espnar.json
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1104
+#KODIPROP:inputstream.adaptive.license_key=66a61cf22e5956c49b89ecbc56049248:51fc45f5a6f184b9916631ac31f95653
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
+https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
+
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -173,15 +200,25 @@ https://1109-vos.dtvott.com/DASH/manifest.mpd
 http://gotv.vip:8880/live/juvenal/juvenal123/65646.ts
 
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
-http://premiumultra.xyz:8080/86055689/ZpHk8574/518
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/1119288.ts
 
 Espn 2
 
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
 http://gotv.vip:8880/live/juvenal/juvenal123/65647.ts
 
+#EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"kz3o6RVTWuGMJVilp2MYyQ" group-title="Lista 27 solo OTT", "k":"4fwe7U6ug-DcGzcFy2LKZA"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
+
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
-http://gotv.vip:8880/live/juvenal/juvenal123/65672.ts
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/227.ts
 
 #EXTINF:-1 tvg-id="622dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
 http://190.83.60.34:1414/play/a02c
@@ -203,7 +240,7 @@ http://tv.dominiotv.xyz:25461/live/Fran5902/68202278/137845.ts
 
 Espn extra
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-http://gotv.vip:8880/live/juvenal/juvenal123/139956.ts
+http://190.83.60.34:1414/play/a03n
 
 Fox sports
 #EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.e4d435abe2c5fa0680f4f5fe2aa6291a.png" group-title="deportes", Fox Sports
