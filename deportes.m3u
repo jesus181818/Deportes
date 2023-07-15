@@ -5,7 +5,7 @@
 America
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="noticias", America
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/413.ts
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
 Telefe
@@ -32,7 +32,7 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 A24
 
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/1550442810653.png.36a9c714f121b216133d810e568e02d7.png" group-title="noticias", A24
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/414.ts
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 TN 
 
@@ -43,12 +43,12 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 C5N
 
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="noticias", C5N
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/415.ts
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 Crónica
 
 #EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/800px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="noticias", Crónica 
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/416.ts
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
 Canal 26
 
@@ -150,13 +150,13 @@ http://gtv.best/live/Samantha/Samantha/228244.ts
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/438.ts
+http://premiumultra.xyz:8080/86055689/ZpHk8574/522
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
 http://gotv.vip:8880/live/juvenal/juvenal123/65646.ts
 
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1080111.ts
+http://premiumultra.xyz:8080/86055689/ZpHk8574/518
 
 Espn 2
 
