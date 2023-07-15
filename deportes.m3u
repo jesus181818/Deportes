@@ -152,9 +152,12 @@ Espn
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090736.ts
 
-
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/762.m3u8|user-agent=SyS1stemAp0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/espnar.json
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1104
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
