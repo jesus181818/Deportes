@@ -125,3 +125,21 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1109
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/espnplus.json
 https://dtvott-cbc.akamaized.net/dash_live_1107/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="DEPORTES", ESPN AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/espnar.json
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1104
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66a61cf22e5956c49b89ecbc56049248:51fc45f5a6f184b9916631ac31f95653
+#EXTINF:-1 group-title="HD" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN.webp" , ESPN
+https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
+ 
