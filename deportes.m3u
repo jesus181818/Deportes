@@ -2,7 +2,7 @@
 
 :D
 
-America🟢
+America
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="noticias", America
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -12,7 +12,6 @@ America🟢
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="HD" ,AMERICA TV
 https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
 
 
@@ -22,7 +21,7 @@ Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?PlaylistM3UCL.m3u8
 
 
-Tv pública🟢
+Tv pública
 
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="noticias", Tv Pública 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -30,7 +29,6 @@ Tv pública🟢
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="HD" ,TV PUBLICA
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
 El trece
@@ -43,7 +41,7 @@ El nueve
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="noticias", El Nueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
-A24🟢
+A24
 
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/1550442810653.png.36a9c714f121b216133d810e568e02d7.png" group-title="noticias", A24
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -53,7 +51,6 @@ A24🟢
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="HD" ,AMERICA 24
 https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
 
 TN 
@@ -62,7 +59,7 @@ TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 
-C5N🟢
+C5N
 
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="noticias", C5N
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -72,7 +69,6 @@ C5N🟢
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", C5N
 https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 
 Crónica
@@ -349,7 +345,7 @@ Movistar Deportes
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090600.ts
 
 
-Movistar LaLiga TV🟢
+Movistar LaLiga TV
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar LaLiga TV
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1115758.ts
 
@@ -424,7 +420,7 @@ http://playhispano.org:8080/userlw/led5120/88154
 
 
 
-HBO✅
+HBO
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://logodix.com/logo/95977.png" group-title="películas", HBO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -437,11 +433,23 @@ https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
 
 HBO 2
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.HBO2_logo.png.0ee2d4ef988bae392cf4d9e2a24fb682.png" group-title="películas", HBO 2
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155794.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "usWBim4RNds8nyT7dS9pnw","kid": "KirtF9xgUPud7m5loGs5JQ"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
 
-HBO PLUS✅
+HBO PLUS
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="películas", HBO PLUS
-http://gtv.best/live/Samantha/Samantha/5499.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "G9sxcikGatLXTEgUoTjhNg","kid": "Z5WjA6noUX+8o4N2wK8vdg"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.1200px-HBO_Mundi_svg.png.ef2593b818107c6a7eca3d235e0039ff.png.4b95b4aad6d12d806ae269bbffa500fb.png" group-title="películas", HBO MUNDI
@@ -451,9 +459,16 @@ HBO POP
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1986800355_HBOPOP(varianteblanca).png.307e4bfaea022003758c873d39d77dcc.png" group-title="películas", HBO POP
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/8246.ts
 
-HBO FAMILY✅
+HBO FAMILY
 #EXTINF:-1 tvg-id="1534dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.HBO_Family.png.bc8b7b2a9415321ed885ae5b7fc6a46f.png.e927ae27067f2db42a7a6cc7c9977de4.png" group-title="películas", HBO FAMILY
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "kFrMVfNmMUMvJC4njxuwtQ","kid": "jLo/buFyURGgSSjYHFOAQA"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
 
 HBO XTREME
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Xtreme.webp" group-title="películas", HBO XTREME
@@ -461,13 +476,20 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/44341.ts
 
 HBO SIGNATURE
 #EXTINF:-1 tvg-id="528dtv.cl" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Signature.webp" group-title="películas", HBO SIGNATURE
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155796.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "tKbS+M3TK+ZlN/GmL/pi1g","kid": "cjSOB2JUUNOAY5cbhVsyJA"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
 
-Cine AR🟢
+Cine AR
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58e1c72423ee1_logo-sin-bajada-copia-copia.png.1791df79095f4e3a2ad9811ee5b17580.png" group-title="películas", Cine AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-Cinemax✅
+Cinemax
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="películas", Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -478,9 +500,16 @@ Cinemax✅
 #EXTVLCOPT--http-reconnect=true
 https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
 
-Space✅
+Space
 #EXTINF:-1 tvg-id="518dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="películas", Space
-http://gtv.best/live/Samantha/Samantha/5513.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7UNH9JX5stg61Ta1tebIhQ","kid":"r3fvc7qjSfuwQWZiBBirIQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
 
 Cinecanal
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.300px-CinecanalLA.png.d7148496039272330a21020818e03e28.png" group-title="películas", Cinecanal
@@ -488,23 +517,56 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155785.ts
 
 TNT
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88e30824-3c9a-4957-b6ab-394cb783aa20/ddie1xl-d42ee9a6-bbc9-48d4-9ddc-e5fe97ddcd89.png/v1/fill/w_894,h_894/tnt__2016__logo_by_darkvoidpictures_ddie1xl-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDk5OSIsInBhdGgiOiJcL2ZcLzg4ZTMwODI0LTNjOWEtNDk1Ny1iNmFiLTM5NGNiNzgzYWEyMFwvZGRpZTF4bC1kNDJlZTlhNi1iYmM5LTQ4ZDQtOWRkYy1lNWZlOTdkZGNkODkucG5nIiwid2lkdGgiOiI8PTUwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.pjATDnVoPKhiV8BFlhxVJ_gePnUJoXrbrDDQra23DfM" group-title="películas", TNT
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/4103.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GU1KWZniFiJ8NkLsyAQ4Qg","kid":"e8Ow1qNqTcmqi17hVMGITg"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd
 
 TNT SERIES
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="películas", TNT SERIES
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/4050.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "p+vgzB2mncwwDxn3tKYoxw","kid": "jMuK9Kh4Vw2IeJIbhKvuGQ"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
 
 FX
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.fx_logo_2008_2013_white_by_danielmedia20_deduzht-fullview.png.1accf497fbbcefd6f2013de8065f03c4.png" group-title="películas", FX
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/4044.ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9EZ3Cx0QEyHyFJeG6C1Rfw","kid":"uoOI7Af7SBq29AcNBH0hPA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd
 
 STAR CHANNEL
 #EXTINF:-1 tvg-id="202dtv.co" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="películas", STAR CHANNEL
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/4022.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9DM9-w5wjsmGW5pv8qjgaA","kid":"fDjZMQ08W0ajejm77G3Wig"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 
 Sony Channel
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="películas", Sony Channel
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/4048.ts
+KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GXXGvMlWam6UqyY9yPBLVw","kid":"EBC5n7EkVAqqR1pBJZdR6w"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 
 Sony Movies
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png" group-title="películas", Sony Movies
@@ -514,19 +576,26 @@ Sony cine
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="películas", Sony Cine
 http://gtv.best/live/Samantha/Samantha/276700.m3u8
 
-Warner Channel✅
+Warner Channel
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="películas", Warner Channel
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/267
 
 Universal TV
 #EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/800px-Universal_TV_logo.svg.png" group-title="películas", Universal TV
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/4054.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"egfz401vp2mTkMaHuB5VNg","kid":"2MBRGPBjT6a3qMaZAhELvA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd
 
-Studio Universal✅
+Studio Universal
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1200px-Logo_Studio_Universal_svg.png.4c30bd27e7971a8f85a7dc0b5f034ede.png" group-title="películas", Studio Universal
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/259
 
-Universal Reality✅
+Universal Reality
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.7d6eeaa83b77834a29fc03cb8f88ff63.png" group-title="películas", Universal Reality
 http://gotv.vip:8880/live/juvenal/juvenal123/73.ts
 
@@ -538,18 +607,27 @@ Universal Comedy
 #EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title="películas", Universal Comedy
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1119202.ts
 
-Universal Premiere✅
+Universal Premiere
 #EXTINF:-1 tvg-id="571dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="películas", Universal Premiere
 http://gtv.best/live/Samantha/Samantha/218552.m3u8
 
 A&E
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-logo="https://yt3.googleusercontent.com/LWHuZKD8w4lncIe7zBjCT8x3gBPveOg7OYjCdOTD4X-aVodzdtvm4MsdRmcyslRBQOa5cDyK=s900-c-k-c0x00ffffff-no-rj" group-title="películas", A&E
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/4037.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E0-FEsdgUODVitWHiX6Xhw","kid":"Qw4l82G4QU62OYgvnSZzSA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd
 
 
-AXN✅
+AXN
 #EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.5ac2806d93e3825075b97fb9ad8de7e4.png" group-title="películas", AXN
-http://gtv.best/live/Samantha/Samantha/5471.ts
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c152bb4696563d6d9369c375e328a8fd:c077f09e3a9dfef0580c9ae9f29e3bf2
+https://1019-vos.dtvott.com/DASH/manifest.mpd
 
 DHE
 #EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://yt3.googleusercontent.com/B33lIlcVcwd_1hlnlhxCiPKX1jYLopw-cCfuoNVGeJ0n4oCltAIbTenaSTRvkEucz071nF3Cgg=s900-c-k-c0x00ffffff-no-rj" group-title="películas", DHE
@@ -559,33 +637,61 @@ Golden
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.984186640_GoldenLA(2020).png.6fcc5fccc997bf89d8476be008573fb9.png" group-title="películas", Golden
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155790.ts
 
-Golden Premiere✅
+Golden Premiere
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.71ced96b61f7fac778f2f9c5f64e52e0.png" group-title="películas", Golden Premiere
 http://gtv.best/live/Samantha/Samantha/5489.ts
 
-Golden Edge✅
+Golden Edge
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.949364663_GoldenEdgeLA(2020).png.47e88463b6cad6b9a1c0cc9e31e3964b.png" group-title="películas", Golden Edge
 http://gtv.best/live/Samantha/Samantha/5490.ts
 
-Golden Plus✅
+Golden Plus
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.92231216_GoldenPlus2020.png.3a950b6243d15066046ac5765ece2282.png" group-title="películas", Golden Plus
 http://gtv.best/live/Samantha/Samantha/5491.ts
 
 AMC
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.amc_us_hd.png.e0fb77496e5732121c56cda732daf483.png" group-title="películas", AMC
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/4085.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7FQRgmHzhNytuA5B704-Ew","kid":"VyuwXpwjQIW_DA7wRA3HFA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://anbalancer.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd
 
 
 Syfy
 #EXTINF:-1 tvg-id="219dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.Module08_LOGO_Issues_25_CROPPED-2152x973.png.aaac514edb92c50d88635303c37fce0d.png" group-title="películas", Syfy
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/3958.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "mx5B6KVaGC9pAAvckwTjzA","kid": "P5Cq/Qq4XG2S6TEU4niRew"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 
 
 Comedy Central
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/small.279164273_Sinttulo-2.png.973c12b8dcf916ec1caca304df1efeb0.png" group-title="películas", Comedy Central
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/4039.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g_vIGYkn_cRp55aNdQPE9g","kid":"zvSOfP29VwGHo5v_PkM_BQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-cbc.akamaized.net/dash_live_1053/manifest.mpd
 
 
 Paramount
 #EXTINF:-1 tvg-id="510dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="películas", Paramount
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155799.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "YQyVFzfLniIfB8mGtsZvfQ","kid": "aBiLO7eUU8q3sm7pKaJe1A"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
