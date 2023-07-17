@@ -81,6 +81,16 @@ Canal 26
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-name="CA26HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="noticias", Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
+La Nación+
+#EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="noticias", La Nación+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lBC6rySf-PDNbc7QHs8vXQ","kid":"QLfWxCj0U0mLuO_R6p9Lhw"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 
 Ciudad Magazine
 
@@ -140,13 +150,22 @@ Radio María TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-maria-argentina/fb_cover.jpg" group-title="noticias", Radio María TV
 https://5f700d5b2c46f.streamlock.net/maria720/maria720/playlist.m3u8?DVR
 
+Canal Santa María
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="noticias", Canal Santa María
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
+Canal Rural
+#EXTINF:-1 tvg-id="728dtv.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logocanalrural2016.png/revision/latest?cb=20170805004919" group-title="noticias", Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 DeportTV
 
 #EXTINF:-1 tvg-id="656dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/1024px-Deportv.svg.png" group-title="deportes", DeportTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
+El Garage
+#EXTINF:-1 tvg-id="el-garage.ar" tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="deportes", El Garage TV
+http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/340.ts
 
 
 
@@ -189,7 +208,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/348.ts
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090736.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/65646.ts
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -337,8 +356,14 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 
 DirecTV Sports 3
 #EXTINF:-1 tvg-id="613" tvg-name="DTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/27879.ts
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
@@ -453,11 +478,11 @@ https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.1200px-HBO_Mundi_svg.png.ef2593b818107c6a7eca3d235e0039ff.png.4b95b4aad6d12d806ae269bbffa500fb.png" group-title="películas", HBO MUNDI
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1143815.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/250.ts
 
 HBO POP
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1986800355_HBOPOP(varianteblanca).png.307e4bfaea022003758c873d39d77dcc.png" group-title="películas", HBO POP
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/8246.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/98.ts
 
 HBO FAMILY
 #EXTINF:-1 tvg-id="1534dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.HBO_Family.png.bc8b7b2a9415321ed885ae5b7fc6a46f.png.e927ae27067f2db42a7a6cc7c9977de4.png" group-title="películas", HBO FAMILY
@@ -472,7 +497,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
 
 HBO XTREME
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Xtreme.webp" group-title="películas", HBO XTREME
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/44341.ts
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/4183.ts
 
 HBO SIGNATURE
 #EXTINF:-1 tvg-id="528dtv.cl" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Signature.webp" group-title="películas", HBO SIGNATURE
@@ -487,7 +512,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
 
 Cine AR
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58e1c72423ee1_logo-sin-bajada-copia-copia.png.1791df79095f4e3a2ad9811ee5b17580.png" group-title="películas", Cine AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/81320
 
 Cinemax
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="películas", Cinemax
@@ -513,7 +538,7 @@ https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
 
 Cinecanal
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.300px-CinecanalLA.png.d7148496039272330a21020818e03e28.png" group-title="películas", Cinecanal
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155785.ts
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/217.ts
 
 TNT
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88e30824-3c9a-4957-b6ab-394cb783aa20/ddie1xl-d42ee9a6-bbc9-48d4-9ddc-e5fe97ddcd89.png/v1/fill/w_894,h_894/tnt__2016__logo_by_darkvoidpictures_ddie1xl-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDk5OSIsInBhdGgiOiJcL2ZcLzg4ZTMwODI0LTNjOWEtNDk1Ny1iNmFiLTM5NGNiNzgzYWEyMFwvZGRpZTF4bC1kNDJlZTlhNi1iYmM5LTQ4ZDQtOWRkYy1lNWZlOTdkZGNkODkucG5nIiwid2lkdGgiOiI8PTUwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.pjATDnVoPKhiV8BFlhxVJ_gePnUJoXrbrDDQra23DfM" group-title="películas", TNT
@@ -568,7 +593,7 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT--http-reconnect=true
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 
-Sony Movies
+Sony Moviesv
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png" group-title="películas", Sony Movies
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155800.ts
 
@@ -601,18 +626,32 @@ http://gotv.vip:8880/live/juvenal/juvenal123/73.ts
 
 Universal Cinema
 #EXTINF:-1 tvg-id="1572dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="películas", Universal Cinema
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1119206.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"4w3UkI5mdjc2nftlgvVNZA" group-title="Lista 27 solo OTT", "kid":"zgp8iD4qVDC7qXo9aODa-A"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
 
 Universal Comedy
 #EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title="películas", Universal Comedy
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1119202.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"8gUfOGEvCnHN5xdKPGxFJg" group-title="Lista 27 solo OTT", "kid":"JS3bbnndU1G7lerBEV1BkQ"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
 
 Universal Premiere
 #EXTINF:-1 tvg-id="571dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="películas", Universal Premiere
 http://gtv.best/live/Samantha/Samantha/218552.m3u8
 
 A&E
-#EXTINF:-1 tvg-id="207dtv.cl" tvg-logo="https://yt3.googleusercontent.com/LWHuZKD8w4lncIe7zBjCT8x3gBPveOg7OYjCdOTD4X-aVodzdtvm4MsdRmcyslRBQOa5cDyK=s900-c-k-c0x00ffffff-no-rj" group-title="películas", A&E
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3szqiPDiW-lTX-Q8n8LRmVj4KNpOOtty_xQ&usqp=CAU" group-title="películas", A&E
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -630,12 +669,12 @@ AXN
 https://1019-vos.dtvott.com/DASH/manifest.mpd
 
 DHE
-#EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://yt3.googleusercontent.com/B33lIlcVcwd_1hlnlhxCiPKX1jYLopw-cCfuoNVGeJ0n4oCltAIbTenaSTRvkEucz071nF3Cgg=s900-c-k-c0x00ffffff-no-rj" group-title="películas", DHE
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/24180.ts
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.DHE2019.png.be75a2c42509ce867904653d7cac2714.png" group-title="películas", DHE
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/220.ts
 
 Golden
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.984186640_GoldenLA(2020).png.6fcc5fccc997bf89d8476be008573fb9.png" group-title="películas", Golden
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155790.ts
+http://gtv.best/live/Samantha/Samantha/5488.m3u8
 
 Golden Premiere
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.71ced96b61f7fac778f2f9c5f64e52e0.png" group-title="películas", Golden Premiere
@@ -643,7 +682,7 @@ http://gtv.best/live/Samantha/Samantha/5489.ts
 
 Golden Edge
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.949364663_GoldenEdgeLA(2020).png.47e88463b6cad6b9a1c0cc9e31e3964b.png" group-title="películas", Golden Edge
-http://gtv.best/live/Samantha/Samantha/5490.ts
+http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/281.ts
 
 Golden Plus
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.92231216_GoldenPlus2020.png.3a950b6243d15066046ac5765ece2282.png" group-title="películas", Golden Plus
@@ -695,3 +734,77 @@ Paramount
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
+
+Lifetime
+#EXTINF:-1 tvg-id="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="Estilo de vida", Lifetime
+http://gotv.vip:8880/live/juvenal/juvenal123/95.ts
+
+Gourmet 
+#EXTINF:-1 tvg-id="232dtv.cl" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="Estilo de vida", El Gourmet
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/231.ts
+
+Foodnetwork
+#EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Estilo de vida", Food Network
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/235.ts
+
+Mas Chic
+#EXTINF:-1 tvg-id="230dtv.cl" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68c41ede02cb91875fe_maschic.png" group-title="Estilo de vida", Mas Chic
+http://gotv.vip:8880/live/juvenal/juvenal123/96.ts
+
+HGTV
+#EXTINF:-1 tvg-id="hgtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Estilo de vida", HGTV
+http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/343.ts
+
+TLC
+#EXTINF:-1 tvg-id="740dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" group-title="Estilo de vida", TLC
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155820.ts
+
+Animal Planet
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png" group-title="Documentales", Animal Planet
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/211
+
+National Geographic
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="https://i.natgeofe.com/n/4da26b5c-18ee-413f-96dd-4cf3fb4a68a0/2fl-white.png" group-title="Documentales", National Geographic
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/245
+
+Discovery Channel
+#EXTINF:-1 tvg-id="732dtv.ar" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-2-1.png" group-title="Documentales", Discovery Channel
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/222.ts
+
+Discovery Home & Health
+#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Documentales", Discovery Home & Health
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/221.ts
+
+Discovery Theater 
+#EXTINF:-1 tvg-id="1731dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentales", Discovery Theater 
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/224.ts
+
+Discovery World
+#EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Documentales", Discovery World
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/225.ts
+
+Discovery Science
+#EXTINF:-1 tvg-id="discovery-science.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1256266003_DiscoveryScience.png.e138efa601a4a48f46f4c00916294aa8.png" group-title="Documentales", Discovery Science
+http://gtv.best/live/Samantha/Samantha/5578.m3u8
+
+Discovery Turbo
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales", Discovery Turbo
+http://gtv.best/live/Samantha/Samantha/5581.m3u8
+
+History
+#EXTINF:-1 tvg-id="1742dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png" group-title="Documentales", History
+http://gotv.vip:8880/live/juvenal/juvenal123/92.ts
+
+History 2
+#EXTINF:-1 tvg-id="744dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="Documentales", History 2
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/240.ts
+
+TruTV
+#EXTINF:-1 tvg-id="220dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/s10153_h3_ba.png.b9008428baa049b400a6947dd993d8eb.png" group-title="Documentales", TruTV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/264
+
+
+
+
+
+
