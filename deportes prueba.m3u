@@ -106,3 +106,12 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
+
+#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58e1c72423ee1_logo-sin-bajada-copia-copia.png.1791df79095f4e3a2ad9811ee5b17580.png" group-title="películas", Cine AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58e1c72423ee1_logo-sin-bajada-copia-copia.png.1791df79095f4e3a2ad9811ee5b17580.png" group-title="películas", Cine AR 2
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/81320
+
+#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58e1c72423ee1_logo-sin-bajada-copia-copia.png.1791df79095f4e3a2ad9811ee5b17580.png" group-title="películas", Cine AR 3
+http://gtv.best/live/Samantha/Samantha/276702.m3u8
