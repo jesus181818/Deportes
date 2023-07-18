@@ -208,7 +208,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/348.ts
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-http://gotv.vip:8880/live/juvenal/juvenal123/65646.ts
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/81256
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -250,7 +250,7 @@ https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 http://190.83.60.34:1414/play/a02c
 
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Per
-http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/227.ts
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/228115
 
 #EXTINF:-1 tvg-id="622dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Col
 #EXTVLCOPT:network-caching=1000
@@ -298,7 +298,7 @@ https://1116-vos.dtvott.com/DASH/manifest.mpd
 
 Espn extra
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-http://190.83.60.34:1414/play/a03n
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/228203
 
 Fox sports
 #EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.e4d435abe2c5fa0680f4f5fe2aa6291a.png" group-title="deportes", Fox Sports
@@ -313,7 +313,7 @@ https://1118-vos.dtvott.com/DASH/manifest.mpd
 
 Fox sports 2
 #EXTINF:-1 tvg-id="606dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1344882745_FOXSports2ARG(2023-).png.4560f799f517d9a16ea1337296a0c940.png" group-title="deportes", Fox Sports 2
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090741.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/145878.ts
 
 Fox Sports 3
 #EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.4f2e2a5059810309a37f5698e676a318.png" group-title="deportes", Fox Sports 3
@@ -323,17 +323,25 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/33475.ts
 Fox Sports
 
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/236
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/100115
 
 Fox Sports 2
 
 #EXTINF:-1 tvg-id="3082dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIvuG-kbvY9EB-Wh49uarALGbNFGVEv-ZtA&usqp=CAU" group-title="deportes", Fox Sports 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/232
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6MVaVb+X450iOAVs82hXOw","kid":"CMPmVA3PVrqZwShgZfwNFA"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 Fox Sports 3 
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/237
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nh0ICbXpZph96u1V_SYxrQ","kid":"KQHEHb_IWqaibbKcxWvCxg"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1123/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 DirecTV Sports
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
@@ -372,7 +380,7 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090600.ts
 
 Movistar LaLiga TV
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar LaLiga TV
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1115758.ts
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/144026
 
 
 Movistar Liga de campeones
@@ -388,6 +396,10 @@ http://tv.fullytv.com:8080/live/lucianouruguay/840407/1156050.ts
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-2-1.png" group-title="deportes", DAZN
 http://gotv.vip:8880/live/juvenal/juvenal123/20587.ts
+
+DAZN LaLiga
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliganuevo.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN LaLiga
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/144035
 
 Sky Sports
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/hosted-accounts/sky.shorthandstories.com/man-city-table/assets/logo.png" group-title="películas", Sky Sports
@@ -436,7 +448,7 @@ http://likea8bitboss.xyz/live/5320829297/3412987056/761350.ts
 
 Canal+ sports
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/1280px-Logo_Canal%2B_Sport_2013.svg.png" group-title="deportes", Canal+ Sport
-http://playhispano.org:8080/userlw/led5120/162843
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110331
 
 
 Supersport rugby 
@@ -497,7 +509,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
 
 HBO XTREME
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Xtreme.webp" group-title="películas", HBO XTREME
-http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/4183.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/97.ts
 
 HBO SIGNATURE
 #EXTINF:-1 tvg-id="528dtv.cl" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Signature.webp" group-title="películas", HBO SIGNATURE
