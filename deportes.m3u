@@ -152,7 +152,7 @@ https://5f700d5b2c46f.streamlock.net/maria720/maria720/playlist.m3u8?DVR
 
 Canal Santa María
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="noticias", Canal Santa María
-https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 
 Canal Rural
 #EXTINF:-1 tvg-id="728dtv.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logocanalrural2016.png/revision/latest?cb=20170805004919" group-title="noticias", Canal Rural
@@ -208,7 +208,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/348.ts
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/81256
+http://zeuspro.xyz:25461/live/santambrogioj00/A67kgxa5WM/166827.ts
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -298,7 +298,7 @@ https://1116-vos.dtvott.com/DASH/manifest.mpd
 
 Espn extra
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/228203
+http://gotv.vip:8880/live/juvenal/juvenal123/139956.ts
 
 Fox sports
 #EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.e4d435abe2c5fa0680f4f5fe2aa6291a.png" group-title="deportes", Fox Sports
@@ -375,7 +375,8 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090600.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÃ‘A",M DEPORTES
+https://vivo.lamtv.tv:8081/a/0203/playlist.m3u8|user-agent=Xskdnjoksdna34nm
 
 
 Movistar LaLiga TV
