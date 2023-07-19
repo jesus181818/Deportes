@@ -306,9 +306,7 @@ https://1116-vos.dtvott.com/DASH/manifest.mpd
 Espn extra
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
 http://daleplay.club:8080/Yolanda23/527aBzvSY896/228203
-
-#EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/721.m3u8|user-agent=SyS1stemAp0
+ 
 
 
 Fox sports
