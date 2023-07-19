@@ -208,7 +208,16 @@ http://gotv.vip:8880/live/juvenal/juvenal123/348.ts
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-http://zeuspro.xyz:25461/live/santambrogioj00/A67kgxa5WM/166827.ts
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/81256
+
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6IS3EasRG+uKe6HnvL3Jvw","k":"y4nuOWFZnj5kilqtYIlfNA"}],"type":"temporary"}
+https://edge-mix01-mps.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -298,7 +307,7 @@ https://1116-vos.dtvott.com/DASH/manifest.mpd
 
 Espn extra
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-http://gotv.vip:8880/live/juvenal/juvenal123/146112.ts
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/228203
 
 Fox sports
 #EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.e4d435abe2c5fa0680f4f5fe2aa6291a.png" group-title="deportes", Fox Sports
@@ -313,11 +322,17 @@ https://1118-vos.dtvott.com/DASH/manifest.mpd
 
 Fox sports 2
 #EXTINF:-1 tvg-id="606dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1344882745_FOXSports2ARG(2023-).png.4560f799f517d9a16ea1337296a0c940.png" group-title="deportes", Fox Sports 2
-http://gotv.vip:8880/live/juvenal/juvenal123/145878.ts
+http://dnsplay.xyz/live/jqrrcnjz/21fs5J9hLs/34644.ts
 
 Fox Sports 3
 #EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.4f2e2a5059810309a37f5698e676a318.png" group-title="deportes", Fox Sports 3
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/33475.ts
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VbRzkM+eSZfa5trIXgV4dQ","k":"+jnoVVQ8XXDzBgDVnl5MGw"}],"type":"temporary"}
+https://edge-mix01-mps.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
 
 Fox Sports
