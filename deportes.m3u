@@ -308,15 +308,6 @@ Espn extra
 http://daleplay.club:8080/Yolanda23/527aBzvSY896/228203
 
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zI1EQG7WvxiYrZ96LWTyng","k":"+4XQWWh6sPxngFgGIE7b3w"}],"type":"temporary"}
-https://edge-mix01-mps.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
-
-#EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
 http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/721.m3u8|user-agent=SyS1stemAp0
 
 
