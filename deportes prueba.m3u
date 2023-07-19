@@ -1,35 +1,15 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA",M DEPORTES
-https://vivo.lamtv.tv:8081/a/0203/playlist.m3u8|user-agent=Xskdnjoksdna34nm
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
+http://tv.fullytv.com:8080/live/lucianouruguay/840407/1090736.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1024px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA",VAMOS ES
-http://95.129.250.139:9981/stream/channelid/1647922213?profile=pass
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
+http://zeuspro.xyz:25461/live/santambrogioj00/A67kgxa5WM/166827.ts
 
-#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/640px-LaLiga_TV_Por_M%2B_Logo.png" group-title="ESPAÑA",Movistar LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium34/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
+http://tv.iprotv.live:25461/live/ecu333888444/5Eu8pJq6bL/1915.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/640px-LaLiga_TV_Por_M%2B_Logo.png" group-title="RUSSIA",Movis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AMN-LX3 Build/HUAWEIAMN-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.130 Mobile Safari/537.36
-https://channel03.tigosports.com.sv/out/v1/d0abc0c933de40b98810915c4e82462c/index.m3u8
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
+http://186.31.37.98:8000/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://prod.cms.col.movistar.es/static/images/channels/laliga-pp.svg" group-title="DEPORTES", LA LIGA TV 🇪🇸
-http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/81256
 
-#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" ,LaLiga TV BAR
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=cleark ey
-#KODIPROP:inputstream.adaptive.license_key={"d2e15 fc39d9052a0bf5edf17498785ea":"543ddd241709882d8cbb 162c2c11b964","e2c88c1cec785475ab6b05a1c4d15a78":" 06b891b1953211c8286bb312ad05e9e5","4435432010f45dd 9967dce3cde18664b":"0d0bf2e2e7799ff26c8bb82b1be67c 8a"}
-https://tvup-live.secure.footprint.net/laligatv/laligatv.mpd
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DEPORTES" tvg-id="",Ligatvbar
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","kid":"0uFfw52QUqC/Xt8XSYeF6g","k":"VD3dJBcJiC2MuxYsLBG5ZA"},{"kty":" oct","kid":"4siMHOx4VHWrawWhxNFaeA","k":"BriRsZUyE cgoa7MSrQXp5Q"},{"kty":"oct","kid":"RDVDIBD0XdmWfc 483hhmSw","k":"DQvy4ud5n/Jsi7grG+Z8ig"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvup-live.secure.footprint.net/laligatv/laligatv.mpd
-
-#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" group-title="|Sport",LaLiga TV BAR
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys" :[ {"kty":"oct","k":"VD3dJBcJiC2MuxYsLBG5ZA","kid":"0 uFfw52QUqC/Xt8XSYeF6g"}, {"kty":"oct","k":"VD3dJBcJiC2MuxYsLBG5ZA","kid":"0 uFfw52QUqC/Xt8XSYeF6g"}, {"kty":"oct","k":"BriRsZUyEcgoa7MSrQXp5Q","kid":"4 siMHOx4VHWrawWhxNFaeA"}, {"kty":"oct","k":"DQvy4ud5n/Jsi7grG+Z8ig","kid":"RDVDIBD0XdmWfc483hhmSw"} ],"type":"temporary" }
-https://tvup-live.secure.footprint.net/laligatv/laligatv.mpd
