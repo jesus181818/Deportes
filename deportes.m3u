@@ -95,7 +95,14 @@ https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 Ciudad Magazine
 
 #EXTINF:-1 tvg-id="236dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="noticias", Ciudad Magazine
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/410.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "jx8qlXYqMCWjC9FKU9dCyw","kid": "X2XE8MgjXFekYIXMeneUMg"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 
 
 Net TV
@@ -163,7 +170,7 @@ DeportTV
 #EXTINF:-1 tvg-id="656dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/1024px-Deportv.svg.png" group-title="deportes", DeportTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-El Garage
+El Garage🥎
 #EXTINF:-1 tvg-id="el-garage.ar" tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="deportes", El Garage TV
 http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/340.ts
 
@@ -210,15 +217,6 @@ Espn
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
 http://daleplay.club:8080/Yolanda23/527aBzvSY896/81256
 
-#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6IS3EasRG+uKe6HnvL3Jvw","k":"y4nuOWFZnj5kilqtYIlfNA"}],"type":"temporary"}
-https://edge-mix01-mps.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
-
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -237,7 +235,7 @@ https://1105-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 https://1109-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
-http://181.78.24.187:8006/play/a09w/index.m3u8
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156143.ts
 
 
 
@@ -256,7 +254,7 @@ Espn 2
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Chi 
-http://190.83.60.34:1414/play/a02c
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/81258.ts
 
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Per
 http://daleplay.club:8080/Yolanda23/527aBzvSY896/228115
@@ -396,7 +394,7 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/606.tshttp://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/606.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/144051.ts
 
 
 Movistar LaLiga TV
@@ -424,19 +422,19 @@ http://daleplay.club:8080/Yolanda23/527aBzvSY896/144035
 
 Sky Sports
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/hosted-accounts/sky.shorthandstories.com/man-city-table/assets/logo.png" group-title="deportes", Sky Sports
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/593.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/145929.ts
 
 Eurosport 1
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd235buUjSiOsdTYuVRqUfQBQQ810x8mpXg&usqp=CAU" group-title="deportes", Eurosport 1
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/1000.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/17186.ts
 
 Eurosport 2
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPof6UUYu5jzdH_nXAUcfDAHl3beHUho5nfg&usqp=CAU" group-title="deportes", Eurosport 2
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/919.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/17187.ts
 
 GOL PLAY
 #EXTINF:-1 tvg-id="gol.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" group-title="deportes", GOL PLAY
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/599.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/144071.ts
 
 Teledeporte
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="deportes", Teledeporte
@@ -445,6 +443,17 @@ Teledeporte
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2WLDZ110X9q1kmkeS_uTYw","k":"OmuhwsGGHqjw-qwQf9cg9g"},{"kty":"oct","kid":"sEt3kU2vVcq11B3QuHOKHA","k":"VsMz9paB0a4_n7cSYfNEJA"},{"kty":"oct","kid":"39LHR_UXVGeaA_6qR6fheQ","k":"jM4jjLQrEtGlfKb-PsBn0A"}]}
 https://tvup-live.secure.footprint.net/teledeporte/teledeporte.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+
+Tennis Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/129.ts
+
+Super Tennis
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="deportes", Super Tennis
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 
 Sky Sports Premier League
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoAmSj8kYr9ZFzRmVCMK_uEuOmZddIVIw7SA&usqp=CAU" group-title="deportes", Sky Sports Premier League
@@ -482,7 +491,7 @@ http://daleplay.club:8080/Yolanda23/527aBzvSY896/110331
 
 Supersport rugby 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="deportes", SuperSport Rugby
-http://playhispano.org:8080/userlw/led5120/88154
+http://gotv.vip:8880/live/juvenal/juvenal123/54815.ts
 
 
 
@@ -577,7 +586,7 @@ Space
 #EXTVLCOPT--http-reconnect=true
 https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
 
-Cinecanal
+Cinecanal🥎
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.300px-CinecanalLA.png.d7148496039272330a21020818e03e28.png" group-title="películas", Cinecanal
 http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/217.ts
 
@@ -634,7 +643,7 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT--http-reconnect=true
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 
-Sony Movies
+Sony Movies🥎
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png" group-title="películas", Sony Movies
 http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155800.ts
 
@@ -720,7 +729,7 @@ AXN
 #KODIPROP:inputstream.adaptive.license_key=c152bb4696563d6d9369c375e328a8fd:c077f09e3a9dfef0580c9ae9f29e3bf2
 https://1019-vos.dtvott.com/DASH/manifest.mpd
 
-DHE
+DHE🥎
 #EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.DHE2019.png.be75a2c42509ce867904653d7cac2714.png" group-title="películas", DHE
 http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/220.ts
 
@@ -732,7 +741,7 @@ Golden Premiere
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.71ced96b61f7fac778f2f9c5f64e52e0.png" group-title="películas", Golden Premiere
 http://gtv.best/live/Samantha/Samantha/5489.ts
 
-Golden Edge
+Golden Edge🥎
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.949364663_GoldenEdgeLA(2020).png.47e88463b6cad6b9a1c0cc9e31e3964b.png" group-title="películas", Golden Edge
 http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/281.ts
 
@@ -801,7 +810,7 @@ https://1093-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 
 Foodnetwork
 #EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Estilo de vida", Food Network
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/338.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/67.ts
 
 Mas Chic
 #EXTINF:-1 tvg-id="230dtv.cl" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68c41ede02cb91875fe_maschic.png" group-title="Estilo de vida", Mas Chic
@@ -877,7 +886,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
 
 Discovery Theater 
 #EXTINF:-1 tvg-id="1731dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentales", Discovery Theater 
-http://play.streamgoldtv.com:80/live/Nicolas2023/Nicolas2023/326.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/50.ts
 
 Discovery World
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Documentales", Discovery World
@@ -925,7 +934,14 @@ https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd|User-Agent="Mozilla
 
 TruTV
 #EXTINF:-1 tvg-id="220dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/s10153_h3_ba.png.b9008428baa049b400a6947dd993d8eb.png" group-title="Documentales", TruTV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/264
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "rcrQFSObMJn9QOYCDrV6GA" group-title="Lista 27 solo OTT", "kid": "Q4TIUEa1Wvq9iQU3AtPTKA"}] group-title="Lista 27 solo OTT", "type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
 
 
 
