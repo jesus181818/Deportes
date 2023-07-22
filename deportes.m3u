@@ -215,7 +215,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/348.ts
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/81256
+http://gotv.vip:8880/live/juvenal/juvenal123/65646.ts
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -643,9 +643,9 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT--http-reconnect=true
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 
-Sony Movies🥎
+Sony Movies
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png" group-title="películas", Sony Movies
-http://tv.fullytv.com:8080/live/lucianouruguay/840407/1155800.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/251046.ts
 
 Sony cine
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="películas", Sony Cine
@@ -729,9 +729,9 @@ AXN
 #KODIPROP:inputstream.adaptive.license_key=c152bb4696563d6d9369c375e328a8fd:c077f09e3a9dfef0580c9ae9f29e3bf2
 https://1019-vos.dtvott.com/DASH/manifest.mpd
 
-DHE🥎
+DHE
 #EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.DHE2019.png.be75a2c42509ce867904653d7cac2714.png" group-title="películas", DHE
-http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/220.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156129.ts
 
 Golden
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.984186640_GoldenLA(2020).png.6fcc5fccc997bf89d8476be008573fb9.png" group-title="películas", Golden
