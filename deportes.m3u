@@ -234,6 +234,7 @@ https://1105-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key=534d488852b3330284307d1a3ca0fd3b:2d1d2a12454b682df197ff26ff5253a5
 https://1109-vos.dtvott.com/DASH/manifest.mpd
 
+🥎
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
 http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156143.ts
 
@@ -342,7 +343,7 @@ https://edge-mix01-mps.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A
 Fox Sports
 
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/100115
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156151.ts
 
 Fox Sports 2
 
@@ -394,12 +395,12 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/144051.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/145980.ts
 
 
 Movistar LaLiga TV
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar LaLiga TV
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/144026
+http://gotv.vip:8880/live/juvenal/juvenal123/145987.ts
 
 
 Movistar Liga de campeones
@@ -418,7 +419,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/20587.ts
 
 DAZN LaLiga
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliganuevo.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN LaLiga
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/144035
+http://gotv.vip:8880/live/juvenal/juvenal123/145985.ts
 
 Sky Sports
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/hosted-accounts/sky.shorthandstories.com/man-city-table/assets/logo.png" group-title="deportes", Sky Sports
@@ -432,10 +433,6 @@ Eurosport 2
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPof6UUYu5jzdH_nXAUcfDAHl3beHUho5nfg&usqp=CAU" group-title="deportes", Eurosport 2
 http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/17187.ts
 
-GOL PLAY
-#EXTINF:-1 tvg-id="gol.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" group-title="deportes", GOL PLAY
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/144071.ts
-
 Teledeporte
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="deportes", Teledeporte
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -444,20 +441,28 @@ Teledeporte
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2WLDZ110X9q1kmkeS_uTYw","k":"OmuhwsGGHqjw-qwQf9cg9g"},{"kty":"oct","kid":"sEt3kU2vVcq11B3QuHOKHA","k":"VsMz9paB0a4_n7cSYfNEJA"},{"kty":"oct","kid":"39LHR_UXVGeaA_6qR6fheQ","k":"jM4jjLQrEtGlfKb-PsBn0A"}]}
 https://tvup-live.secure.footprint.net/teledeporte/teledeporte.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 
+GOL PLAY
+#EXTINF:-1 tvg-id="gol.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" group-title="deportes", GOL PLAY
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/144071.ts
+
 Tennis Channel
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/129.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/1460.ts
 
 Super Tennis
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="deportes", Super Tennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 
+Sky Sports Tennis 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvANQxpFGhQp6Ti6vA0SsgsharkRbHsFA8Agz6MzzwZkUk99jA" group-title="deportes", Sky Sports Tennis
+http://nvdprotv.xyz:8080/live/n7PUTnhqwNvr/ZwneArRq2Rcm/252379.ts
+
 Sky Sports Premier League
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoAmSj8kYr9ZFzRmVCMK_uEuOmZddIVIw7SA&usqp=CAU" group-title="deportes", Sky Sports Premier League
-http://likea8bitboss.xyz/live/5320829297/3412987056/761351.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/54795.ts
 
 Sky Sports football
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmaBLntPfEkh0UoAXj-b2IjE2meRph3b_Cvw&usqp=CAU" group-title="deportes", Sky Sports football
@@ -494,6 +499,52 @@ Supersport rugby
 http://gotv.vip:8880/live/juvenal/juvenal123/54815.ts
 
 
+ESPN Deportes
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/bba8fb76-57ff-3c63-998b-90fef8f4f8b6.png" group-title="deportes", ESPN Deportes
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d846f13c5bd43f3a456d9e958447f17:47e59e0ccb28b0ffa7ce830fd2519539
+https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
+
+TUDN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="deportes", TUDN
+http://gtv.best/live/Samantha/Samantha/325079.ts
+
+Fox soccer plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="deportes", Fox Soccer Plus
+http://gotv.vip:8880/live/juvenal/juvenal123/1385.ts
+
+FS1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="deportes", FS1
+http://gotv.vip:8880/live/juvenal/juvenal123/1303.ts
+
+FS2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="deportes", FS2
+http://gotv.vip:8880/live/juvenal/juvenal123/1308.ts
+
+Telemundo Este
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="deportes", Telemundo Este
+http://gotv.vip:8880/live/juvenal/juvenal123/69756.ts
+
+Telemundo Oeste
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="deportes", Telemundo Oeste
+http://gotv.vip:8880/live/juvenal/juvenal123/69767.ts
+
+Tigo Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="deportes", Tigo Sports
+http://gotv.vip:8880/live/juvenal/juvenal123/331.ts
+
+NBA TV
+#EXTINF:-1 tvg-id="1677dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="deportes", NBA TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4czKtAGp9MTUkm6xPU9TFQ","kid":"BTVZ0SK4XyuJJe6KYhIlAg"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 HBO
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://logodix.com/logo/95977.png" group-title="películas", HBO 
