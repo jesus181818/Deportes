@@ -215,7 +215,7 @@ http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156189.m3u8
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-http://gotv.vip:8880/live/juvenal/juvenal123/65660.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/81256.m3u8
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -234,7 +234,6 @@ https://1105-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key=534d488852b3330284307d1a3ca0fd3b:2d1d2a12454b682df197ff26ff5253a5
 https://1109-vos.dtvott.com/DASH/manifest.mpd
 
-🥎
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
 http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156143.ts
 
@@ -405,13 +404,13 @@ http://gotv.vip:8880/live/juvenal/juvenal123/145987.ts
 
 Movistar Liga de campeones
 #EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1920px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Liga de Campeones 
-http://gtv.best/live/Samantha/Samantha/129365.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/145938.ts
 
 
 #Vamos por Movistar+
 
 #EXTINF:-1 tvg-id="mplus#vamos.es" tvg-logo="https://yt3.googleusercontent.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="deportes", #Vamos por Movistar+
-http://gotv.vip:8880/live/juvenal/juvenal123/139966.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/110165.m3u8
 
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-2-1.png" group-title="deportes", DAZN
@@ -421,17 +420,21 @@ DAZN LaLiga
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliganuevo.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN LaLiga
 http://gotv.vip:8880/live/juvenal/juvenal123/145985.ts
 
+DAZN F1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/daznformula.png?resize=440%2C264&ssl=1" group-title="deportes", DAZN F1
+http://gotv.vip:8880/live/juvenal/juvenal123/138536.ts
+
 Sky Sports
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/hosted-accounts/sky.shorthandstories.com/man-city-table/assets/logo.png" group-title="deportes", Sky Sports
 http://gotv.vip:8880/live/juvenal/juvenal123/145929.ts
 
 Eurosport 1
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd235buUjSiOsdTYuVRqUfQBQQ810x8mpXg&usqp=CAU" group-title="deportes", Eurosport 1
-http://gtv.best/live/Samantha/Samantha/228226.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/17186.m3u8
 
 Eurosport 2
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPof6UUYu5jzdH_nXAUcfDAHl3beHUho5nfg&usqp=CAU" group-title="deportes", Eurosport 2
-http://gtv.best/live/Samantha/Samantha/440101.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/17187.m3u8
 
 Teledeporte
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="deportes", Teledeporte
@@ -466,7 +469,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/54795.ts
 
 Sky Sports football
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmaBLntPfEkh0UoAXj-b2IjE2meRph3b_Cvw&usqp=CAU" group-title="deportes", Sky Sports football
-http://likea8bitboss.xyz/live/5320829297/3412987056/761346.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/138537.ts
 
 Sky Sports Arena
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvO58IyE2l80dR0YsJQJhiV6Rby8-6qusA-g&usqp=CAU" group-title="deportes", Sky Sports Arena
@@ -478,11 +481,10 @@ http://gotv.vip:8880/live/juvenal/juvenal123/138535.ts
 
 Sky Sports main event
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVfVKV_WDj2Q3fob7ys3obK7lxYfU04ZnaA&usqp=CAU" group-title="deportes", Sky Sports main event
-http://likea8bitboss.xyz/live/5320829297/3412987056/761348.ts
 
 Sky Sports mix
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuL3L4ZIFfqiPrHIkKhvCbXDa3C5mCMgABA&usqp=CAU" group-title="deportes", Sky Sports mix
-http://likea8bitboss.xyz/live/5320829297/3412987056/761349.ts
+
 
 Sky Sports news
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPjrImg6MviBuOunfxCXH9M87lVTuvqBGkCg&usqp=CAU" group-title="deportes", Sky Sports news
@@ -525,18 +527,6 @@ http://gotv.vip:8880/live/juvenal/juvenal123/1303.ts
 FS2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="deportes", FS2
 http://gotv.vip:8880/live/juvenal/juvenal123/1308.ts
-
-Telemundo Este
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="deportes", Telemundo Este
-http://gotv.vip:8880/live/juvenal/juvenal123/69756.ts
-
-Telemundo Oeste
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/2427px-Telemundo_logo_2018.svg.png" group-title="deportes", Telemundo Oeste
-http://gotv.vip:8880/live/juvenal/juvenal123/69767.ts
-
-Tigo Sports
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="deportes", Tigo Sports
-http://gotv.vip:8880/live/juvenal/juvenal123/331.ts
 
 NBA TV
 #EXTINF:-1 tvg-id="1677dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="deportes", NBA TV
@@ -678,7 +668,7 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT--http-reconnect=true
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 
-Sony Movies🥎
+Sony Movies
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png" group-title="películas", Sony Movies
 http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/251046.ts
 
