@@ -500,6 +500,12 @@ Supersport rugby
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="deportes", SuperSport Rugby
 http://gotv.vip:8880/live/juvenal/juvenal123/54815.ts
 
+MLS Season Pass
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/vyELzQJnxOc3Y8NciMSJxA/1x40at.png" group-title="deportes", MLS Season Pass
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/252807.m3u8
+
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/vyELzQJnxOc3Y8NciMSJxA/1x40at.png" group-title="deportes", MLS Season Pass
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/252811.m3u8
 
 ESPN Deportes
 #EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/bba8fb76-57ff-3c63-998b-90fef8f4f8b6.png" group-title="deportes", ESPN Deportes
@@ -514,7 +520,7 @@ https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.
 
 TUDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="deportes", TUDN
-http://gtv.best/live/Samantha/Samantha/325079.ts
+
 
 Fox soccer plus
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="deportes", Fox Soccer Plus
@@ -644,7 +650,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
 
 FX
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.fx_logo_2008_2013_white_by_danielmedia20_deduzht-fullview.png.1accf497fbbcefd6f2013de8065f03c4.png" group-title="películas", FX
-http://gtv.best/live/Samantha/Samantha/5483.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156149.m3u8
 
 STAR CHANNEL
 #EXTINF:-1 tvg-id="202dtv.co" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="películas", STAR CHANNEL
@@ -674,7 +680,7 @@ http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/251046.ts
 
 Sony cine
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="películas", Sony Cine
-http://gtv.best/live/Samantha/Samantha/276700.m3u8
+http://gotv.vip:8880/live/juvenal/juvenal123/140043.ts
 
 Warner Channel
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="películas", Warner Channel
@@ -686,7 +692,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd|User-Agent="Mozilla
 
 Universal TV
 #EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/800px-Universal_TV_logo.svg.png" group-title="películas", Universal TV
-http://gotv.vip:8880/live/juvenal/juvenal123/243.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/248.ts
 
 Studio Universal
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1200px-Logo_Studio_Universal_svg.png.4c30bd27e7971a8f85a7dc0b5f034ede.png" group-title="películas", Studio Universal
@@ -720,7 +726,7 @@ https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
 
 Universal Premiere
 #EXTINF:-1 tvg-id="571dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="películas", Universal Premiere
-http://gtv.best/live/Samantha/Samantha/218552.m3u8
+http://gotv.vip:8880/live/juvenal/juvenal123/75.ts
 
 A&E
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3szqiPDiW-lTX-Q8n8LRmVj4KNpOOtty_xQ&usqp=CAU" group-title="películas", A&E
@@ -749,11 +755,11 @@ http://gotv.vip:8880/live/juvenal/juvenal123/1392.ts
 
 Golden Edge
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.949364663_GoldenEdgeLA(2020).png.47e88463b6cad6b9a1c0cc9e31e3964b.png" group-title="películas", Golden Edge
-http://gtv.best/live/Samantha/Samantha/5490.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/1289.m3u8
 
 Golden Plus
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.92231216_GoldenPlus2020.png.3a950b6243d15066046ac5765ece2282.png" group-title="películas", Golden Plus
-http://gtv.best/live/Samantha/Samantha/5491.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/53940.m3u8
 
 AMC
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.amc_us_hd.png.e0fb77496e5732121c56cda732daf483.png" group-title="películas", AMC
