@@ -215,7 +215,7 @@ http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156189.m3u8
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/81256.m3u8
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR9WlpfoJpaVFE6tqzYDvGmliZSeltKR5V5f0CvZNRpB2/ts
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -236,9 +236,6 @@ https://1109-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
 http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156143.ts
-
-
-
 
 
 Espn 2
@@ -394,7 +391,7 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
-http://gotv.vip:8880/live/juvenal/juvenal123/145980.ts
+https://vivo.lamtv.tv:8081/a/0203/playlist.m3u8|user-agent=Xskdnjoksdna34nm
 
 
 Movistar LaLiga TV
@@ -404,7 +401,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/145987.ts
 
 Movistar Liga de campeones
 #EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1920px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Liga de Campeones 
-http://gotv.vip:8880/live/juvenal/juvenal123/145938.ts
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 
 
 #Vamos por Movistar+
@@ -486,7 +483,7 @@ https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.
 
 TUDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/800px-TUDN_Logo.svg.png" group-title="deportes", TUDN
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/244018.m3u8
+http://23.237.108.234/hls/USA_TUDN.m3u8|user-agent=Roku(10.10.10)
 
 SporTV
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-5-1.png" group-title="deportes", SporTV
@@ -716,7 +713,14 @@ https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd|User-Agent="Mozilla
 
 Universal TV
 #EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/800px-Universal_TV_logo.svg.png" group-title="películas", Universal TV
-http://gotv.vip:8880/live/juvenal/juvenal123/248.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"morR3c_i0gxXhR-hIuAeOQ","kid":"8ac_DN6lTXCcdNsy0qBiKQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
 
 Studio Universal
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1200px-Logo_Studio_Universal_svg.png.4c30bd27e7971a8f85a7dc0b5f034ede.png" group-title="películas", Studio Universal
