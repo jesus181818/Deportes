@@ -556,12 +556,58 @@ TSN 5
 http://gotv.vip:8880/live/juvenal/juvenal123/343.ts
 
 NBA TV
-#EXTINF:-1 tvg-id="1677dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="deportes", NBA TV
+#EX http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR1DLtYSJOMW3o9PenESTDtt3EDi1x3MR7L_w1sjX71Za/tsTINF:-1 tvg-id="1677dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="deportes", NBA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4czKtAGp9MTUkm6xPU9TFQ","kid":"BTVZ0SK4XyuJJe6KYhIlAg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+STAR PLUS ESPN
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 1
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wRyCbEQthdZ2FCYxzS6aC6utei8WPJES_zGcmYky_hUr4/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 2
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR_g80oFlJ3c9GEEJyt6yCuuKG2V3cQBFXTaFOXiIQxql/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 3
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR1DLtYSJOMW3o9PenESTDtt3EDi1x3MR7L_w1sjX71Za/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 4
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wRw6c7VtNDO3rBgMPgRMtZr9tYJCypeUMDzW0k_RdwaiR/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 5
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR3gmigb2b45TUPW7ZQgU7oVcZO0a3-mNOUasPNP9OWgE/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 6
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR4skabuPO-NiiKVP5P6Sv0gtWtanIZg5LJAc0vDdcz34/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 7
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wRym391rCtC-GUAmOzLLCICMuu42zvUgBTd2HjfBDf4kR/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 8
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wRx1y4Ok2eLWmpNdpp9TPgh38rkjnpb7o8YuHhtp_RckG/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 9
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR7tCma5Of9ea683CYZeCKZf2ZEplQy00YDXPEiVZ3p6Q/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 10
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR4etfP1_xEnROM93yVPVzohuIY0OOsvVSIq-Dme96AiO/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 11
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR2ZnwugrkfefGtXAtdMUpMCinNMhUi-6MY99Aj0vz3-O/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 12
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR34kaFSd2zVnNivnsVqIGYgqdR1RVeKiRYx0YHjIv1zP/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 13
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR_CpvNGVWV1eKmnpDaUSFjRZ4zMvvyUqc--737AZ8av9/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 14
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR6-BT03nRH4TFxuK795qlk0Xhqmy9G1Fe-ZdxfNmurxK/ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ en ESPN EVENTO 15
+http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR7acKHbJEg7mH7WKnnOX4AfHjnGCajMcej9m_8ClBQo8/ts
 
 HBO
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://logodix.com/logo/95977.png" group-title="películas", HBO 
