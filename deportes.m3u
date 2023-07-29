@@ -215,7 +215,13 @@ http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156189.m3u8
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/81256.m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6IS3EasRG+uKe6HnvL3Jvw","k":"y4nuOWFZnj5kilqtYIlfNA"}],"type":"temporary"}
+https://edge-mix01-mps.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -235,7 +241,7 @@ https://1105-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 https://1109-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156143.ts
+http://45.181.122.145:8000/play/a01c/index.m3u8
 
 
 Espn 2
@@ -251,10 +257,10 @@ Espn 2
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Chi 
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/81258.ts
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156137.m3u8
 
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Per
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/228115
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156138.m3u8
 
 #EXTINF:-1 tvg-id="622dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Col
 #EXTVLCOPT:network-caching=1000
@@ -462,7 +468,7 @@ https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/
 
 Canal+ sports
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/1280px-Logo_Canal%2B_Sport_2013.svg.png" group-title="deportes", Canal+ Sport
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/110331.m3u8
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/110333.m3u8
 
 
 Supersport rugby 
@@ -499,14 +505,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/36564.ts
 
 Claro Sports 1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ra6cEhC6dGhKIv38sRgGW2B759FXNbjgOw&usqp=CAU" group-title="deportes", Claro Sports 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/185887.m3u8
 
 Claro Sports 2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ra6cEhC6dGhKIv38sRgGW2B759FXNbjgOw&usqp=CAU" group-title="deportes", Claro Sports 2
