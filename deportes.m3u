@@ -425,13 +425,13 @@ http://gotv.vip:8880/live/juvenal/juvenal123/145985.ts
 
 DAZN F1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/daznformula.png?resize=440%2C264&ssl=1" group-title="deportes", DAZN F1
-http://gotv.vip:8880/live/juvenal/juvenal123/138536.ts
+http://23.237.108.234/hls/ESPANA_MOVISTAR_FORMULA_1.m3u8|user-agent=Roku/DVP(10.10.10)
 
 Sky Sports
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/hosted-accounts/sky.shorthandstories.com/man-city-table/assets/logo.png" group-title="deportes", Sky Sports
 http://gotv.vip:8880/live/juvenal/juvenal123/145929.ts
 
-Sky Sports Premier League
+Sky Sports Premier League🥎
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoAmSj8kYr9ZFzRmVCMK_uEuOmZddIVIw7SA&usqp=CAU" group-title="deportes", Sky Sports Premier League
 http://gotv.vip:8880/live/juvenal/juvenal123/54795.ts
 
@@ -441,7 +441,7 @@ http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/17186.m3u8
 
 Eurosport 2
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPof6UUYu5jzdH_nXAUcfDAHl3beHUho5nfg&usqp=CAU" group-title="deportes", Eurosport 2
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/17187.m3u8
+http://gotv.vip:8880/live/juvenal/juvenal123/36317.ts
 
 Teledeporte
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="deportes", Teledeporte
@@ -466,12 +466,12 @@ Super Tennis
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="deportes", Super Tennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 
-Canal+ sports
+Canal+ sports🥎
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/1280px-Logo_Canal%2B_Sport_2013.svg.png" group-title="deportes", Canal+ Sport
 http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/110333.m3u8
 
 
-Supersport rugby 
+Supersport rugby 🥎
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="deportes", SuperSport Rugby
 http://gotv.vip:8880/live/juvenal/juvenal123/54815.ts
 
@@ -486,6 +486,41 @@ ESPN Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d846f13c5bd43f3a456d9e958447f17:47e59e0ccb28b0ffa7ce830fd2519539
 https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
+
+ESPN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3Msv8QTfC7xU3gazwnhvXA","kid":"BrOt-6mEXHySRwT9i43NZA"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+ESPN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1920px-ESPN3_logo.svg.png" group-title="deportes", ESPN 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nc7cS0VlTLirpI5BWVkGPw","kid":"ggJY42ThVwGxMzWc-GMDrw"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
+
+ESPN EXTRA
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ca7eacbf7addc05b52_espn-extra.png" group-title="deportes", ESPN EXTRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=457942dd5b773c8cafad4f486867cde4:d5a09694df94467f59aa46e24537d216
+https://1261-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+Fox Deportes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png" group-title="deportes", Fox Deportes
+http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/111540.m3u8
+
+Fox Sports Premium
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.d6c443db5ff9d9842233f9a87042b340.png" group-title="deportes", Fox Sports Premium
+http://gotv.vip:8880/live/juvenal/juvenal123/65670.ts
 
 TUDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/800px-TUDN_Logo.svg.png" group-title="deportes", TUDN
@@ -510,6 +545,10 @@ http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/185887.m3u8
 Claro Sports 2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ra6cEhC6dGhKIv38sRgGW2B759FXNbjgOw&usqp=CAU" group-title="deportes", Claro Sports 2
 http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/185888.m3u8
+
+CDO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="deportes", CDO
+http://premiumultra.xyz:8080/JulianOrozco/qtRtUnU/26000
 
 TNT Sports Chile
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png" group-title="deportes", TNT Sports Chile
@@ -555,58 +594,13 @@ TSN 5
 http://gotv.vip:8880/live/juvenal/juvenal123/343.ts
 
 NBA TV
-#EX http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR1DLtYSJOMW3o9PenESTDtt3EDi1x3MR7L_w1sjX71Za/tsTINF:-1 tvg-id="1677dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="deportes", NBA TV
+#EXTINF:-1 tvg-id="1677dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="deportes", NBA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4czKtAGp9MTUkm6xPU9TFQ","kid":"BTVZ0SK4XyuJJe6KYhIlAg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-STAR PLUS ESPN
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 1
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wRyCbEQthdZ2FCYxzS6aC6utei8WPJES_zGcmYky_hUr4/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 2
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR_g80oFlJ3c9GEEJyt6yCuuKG2V3cQBFXTaFOXiIQxql/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 3
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR1DLtYSJOMW3o9PenESTDtt3EDi1x3MR7L_w1sjX71Za/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 4
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wRw6c7VtNDO3rBgMPgRMtZr9tYJCypeUMDzW0k_RdwaiR/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 5
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR3gmigb2b45TUPW7ZQgU7oVcZO0a3-mNOUasPNP9OWgE/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 6
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR4skabuPO-NiiKVP5P6Sv0gtWtanIZg5LJAc0vDdcz34/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 7
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wRym391rCtC-GUAmOzLLCICMuu42zvUgBTd2HjfBDf4kR/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 8
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wRx1y4Ok2eLWmpNdpp9TPgh38rkjnpb7o8YuHhtp_RckG/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 9
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR7tCma5Of9ea683CYZeCKZf2ZEplQy00YDXPEiVZ3p6Q/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 10
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR4etfP1_xEnROM93yVPVzohuIY0OOsvVSIq-Dme96AiO/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 11
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR2ZnwugrkfefGtXAtdMUpMCinNMhUi-6MY99Aj0vz3-O/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 12
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR34kaFSd2zVnNivnsVqIGYgqdR1RVeKiRYx0YHjIv1zP/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 13
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR_CpvNGVWV1eKmnpDaUSFjRZ4zMvvyUqc--737AZ8av9/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 14
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR6-BT03nRH4TFxuK795qlk0Xhqmy9G1Fe-ZdxfNmurxK/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="deportes", Star+ EVENTO 15
-http://xdplayer.tv:8080/play/Dpy4uPCD3kexAhdsie0wR7acKHbJEg7mH7WKnnOX4AfHjnGCajMcej9m_8ClBQo8/ts
 
 HBO
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://logodix.com/logo/95977.png" group-title="películas", HBO 
