@@ -453,7 +453,11 @@ https://tvup-live.secure.footprint.net/teledeporte/teledeporte.mpd|User-Agent="M
 
 GOL PLAY
 #EXTINF:-1 tvg-id="gol.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" group-title="deportes", GOL PLAY
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/144071.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"40d74ba9d7b35e2cb7865012adcd2e0b":"950c6078f8fdb95d8b2451e009ecc4de","d8014a9a63e15f6abf7388de45ef7e02":"1d5efa0575fc67e8c8b0ec3edc0acba7","e48455eeaeeb50ec932d208e44012e4f":"2a2e6be1ff1dda385a7db6dc0accfc6e"}
+https://tvup-live.secure.footprint.net/goltv/goltv.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 Tennis Channel
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
@@ -486,6 +490,17 @@ ESPN Deportes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d846f13c5bd43f3a456d9e958447f17:47e59e0ccb28b0ffa7ce830fd2519539
 https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
+
+ESPN
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=591cdbc97034330b849614a6efbfdfd4:d664407707d260f93908121d84df4eba
+https://1108-vos.dtvott.com/DASH/manifest.mpd
 
 ESPN 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
