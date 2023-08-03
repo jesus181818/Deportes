@@ -209,7 +209,7 @@ https://1240-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 
 Tyc Sports Internacional
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://tus11.tycsports.com/img/logo_tyc.png" group-title="deportes", Tyc Sports Internacional
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156189.m3u8
+http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/1380.ts
 
 
 Espn
@@ -241,7 +241,7 @@ https://1105-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 https://1109-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
-http://45.181.122.145:8000/play/a01c/index.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/156143
 
 
 Espn 2
@@ -257,10 +257,10 @@ Espn 2
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Chi 
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156137.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/156137
 
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Per
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156138.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/156138
 
 #EXTINF:-1 tvg-id="622dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Col
 #EXTVLCOPT:network-caching=1000
@@ -345,7 +345,7 @@ https://edge-mix01-mps.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A
 Fox Sports
 
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156151.ts
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/156151
 
 Fox Sports 2
 
@@ -413,7 +413,7 @@ http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 #Vamos por Movistar+
 
 #EXTINF:-1 tvg-id="mplus#vamos.es" tvg-logo="https://yt3.googleusercontent.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="deportes", #Vamos por Movistar+
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/110165.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/110165
 
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-2-1.png" group-title="deportes", DAZN
@@ -431,17 +431,13 @@ Sky Sports
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/hosted-accounts/sky.shorthandstories.com/man-city-table/assets/logo.png" group-title="deportes", Sky Sports
 http://gotv.vip:8880/live/juvenal/juvenal123/145929.ts
 
-Sky Sports Premier League🥎
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoAmSj8kYr9ZFzRmVCMK_uEuOmZddIVIw7SA&usqp=CAU" group-title="deportes", Sky Sports Premier League
-http://gotv.vip:8880/live/juvenal/juvenal123/54795.ts
-
 Eurosport 1
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd235buUjSiOsdTYuVRqUfQBQQ810x8mpXg&usqp=CAU" group-title="deportes", Eurosport 1
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/17186.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/17186
 
 Eurosport 2
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPof6UUYu5jzdH_nXAUcfDAHl3beHUho5nfg&usqp=CAU" group-title="deportes", Eurosport 2
-http://gotv.vip:8880/live/juvenal/juvenal123/36317.ts
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/17187
 
 Teledeporte
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="deportes", Teledeporte
@@ -469,11 +465,6 @@ http://gotv.vip:8880/live/juvenal/juvenal123/1460.ts
 Super Tennis
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="deportes", Super Tennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
-
-Canal+ sports🥎
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/1280px-Logo_Canal%2B_Sport_2013.svg.png" group-title="deportes", Canal+ Sport
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/110333.m3u8
-
 
 Supersport rugby 🥎
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="deportes", SuperSport Rugby
@@ -531,7 +522,7 @@ https://1261-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 
 Fox Deportes
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png" group-title="deportes", Fox Deportes
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/111540.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/111540
 
 Fox Sports Premium
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.d6c443db5ff9d9842233f9a87042b340.png" group-title="deportes", Fox Sports Premium
@@ -555,11 +546,11 @@ http://gotv.vip:8880/live/juvenal/juvenal123/36564.ts
 
 Claro Sports 1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ra6cEhC6dGhKIv38sRgGW2B759FXNbjgOw&usqp=CAU" group-title="deportes", Claro Sports 1
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/185887.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/251015
 
 Claro Sports 2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ra6cEhC6dGhKIv38sRgGW2B759FXNbjgOw&usqp=CAU" group-title="deportes", Claro Sports 2
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/185888.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/251016
 
 CDO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="deportes", CDO
@@ -684,7 +675,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
 
 Cine AR
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58e1c72423ee1_logo-sin-bajada-copia-copia.png.1791df79095f4e3a2ad9811ee5b17580.png" group-title="películas", Cine AR
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/81320.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/81320
 
 Cinemax
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="películas", Cinemax
@@ -725,7 +716,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
 
 FX
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.fx_logo_2008_2013_white_by_danielmedia20_deduzht-fullview.png.1accf497fbbcefd6f2013de8065f03c4.png" group-title="películas", FX
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/156149.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/1274
 
 STAR CHANNEL
 #EXTINF:-1 tvg-id="202dtv.co" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="películas", STAR CHANNEL
@@ -751,7 +742,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 
 Sony Movies
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png" group-title="películas", Sony Movies
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/251046.ts
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/251046
 
 Sony cine
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="películas", Sony Cine
@@ -825,7 +816,7 @@ https://1019-vos.dtvott.com/DASH/manifest.mpd
 
 DHE
 #EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.DHE2019.png.be75a2c42509ce867904653d7cac2714.png" group-title="películas", DHE
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/127321.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/251018
 
 Golden
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.984186640_GoldenLA(2020).png.6fcc5fccc997bf89d8476be008573fb9.png" group-title="películas", Golden
@@ -837,11 +828,11 @@ http://gotv.vip:8880/live/juvenal/juvenal123/1392.ts
 
 Golden Edge
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.949364663_GoldenEdgeLA(2020).png.47e88463b6cad6b9a1c0cc9e31e3964b.png" group-title="películas", Golden Edge
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/1289.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/1289
 
 Golden Plus
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.92231216_GoldenPlus2020.png.3a950b6243d15066046ac5765ece2282.png" group-title="películas", Golden Plus
-http://daleplay.club:8080/live/Yolanda23/527aBzvSY896/53940.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/53940
 
 AMC
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.amc_us_hd.png.e0fb77496e5732121c56cda732daf483.png" group-title="películas", AMC
