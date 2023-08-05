@@ -342,10 +342,10 @@ Fox Sports 3
 https://edge-mix01-mps.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
 
-Fox Sports🥎
+Fox Sports
 
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
-http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/156151
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/236.ts
 
 Fox Sports 2
 
@@ -397,7 +397,7 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
-http://premiumultra.xyz:8080/JulianOrozco/qtRtUnU/60328
+http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/144049.ts
 
 
 Movistar LaLiga TV
@@ -434,7 +434,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/145985.ts
 
 DAZN F1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/daznformula.png?resize=440%2C264&ssl=1" group-title="deportes", DAZN F1
-http://23.237.108.234/hls/ESPANA_MOVISTAR_FORMULA_1.m3u8|user-agent=Roku/DVP(10.10.10)
+http://gotv.vip:8880/live/juvenal/juvenal123/20591.ts
 
 Sky Sports
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/hosted-accounts/sky.shorthandstories.com/man-city-table/assets/logo.png" group-title="deportes", Sky Sports
@@ -442,11 +442,11 @@ http://gotv.vip:8880/live/juvenal/juvenal123/145929.ts
 
 Eurosport 1
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd235buUjSiOsdTYuVRqUfQBQQ810x8mpXg&usqp=CAU" group-title="deportes", Eurosport 1
-http://magi-stv.net:8080/live/BUZZTVAS/RKVMU/158480.ts
+http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/17186.ts
 
 Eurosport 2
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPof6UUYu5jzdH_nXAUcfDAHl3beHUho5nfg&usqp=CAU" group-title="deportes", Eurosport 2
-http://premiumultra.xyz:8080/JulianOrozco/qtRtUnU/578
+http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/17187.ts
 
 Teledeporte
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="deportes", Teledeporte
@@ -531,7 +531,7 @@ https://1261-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 
 Fox Deportes
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png" group-title="deportes", Fox Deportes
-http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/111540
+http://gotv.vip:8880/live/juvenal/juvenal123/1383.ts
 
 Fox Sports Premium
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.d6c443db5ff9d9842233f9a87042b340.png" group-title="deportes", Fox Sports Premium
@@ -553,17 +553,20 @@ Premiere
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="deportes", Premiere
 http://gotv.vip:8880/live/juvenal/juvenal123/36564.ts
 
-Claro Sports 1🥎
+Claro Sports 1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ra6cEhC6dGhKIv38sRgGW2B759FXNbjgOw&usqp=CAU" group-title="deportes", Claro Sports 1
 http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/185887.ts
 
-Claro Sports 2🥎
+Claro Sports 2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ra6cEhC6dGhKIv38sRgGW2B759FXNbjgOw&usqp=CAU" group-title="deportes", Claro Sports 2
 http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/185888.ts
 
 CDO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="deportes", CDO
-http://premiumultra.xyz:8080/JulianOrozco/qtRtUnU/26000
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/154.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="deportes", CDO Premium
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/155.ts
 
 TNT Sports Chile
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png" group-title="deportes", TNT Sports Chile
