@@ -257,10 +257,10 @@ Espn 2
 https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Chi 
-http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/156137
+
 
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Per
-http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/156138
+
 
 #EXTINF:-1 tvg-id="622dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Col
 #EXTVLCOPT:network-caching=1000
@@ -306,8 +306,7 @@ https://1116-vos.dtvott.com/DASH/manifest.mpd
 
 Espn extra
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-http://gotv.vip:8880/live/juvenal/juvenal123/146112.ts
- 
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/229.ts
 
 
 Fox sports
@@ -413,21 +412,21 @@ http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 #Vamos por Movistar+
 
 #EXTINF:-1 tvg-id="mplus#vamos.es" tvg-logo="https://yt3.googleusercontent.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="deportes", #Vamos por Movistar+
-http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/110165
+http://gotv.vip:8880/live/juvenal/juvenal123/139966.ts
 
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn1.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN
 http://gotv.vip:8880/live/juvenal/juvenal123/20587.ts
 
 #EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn2.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN 2
-http://gotv.vip:8880/live/juvenal/juvenal123/20588.ts
-
+ http://gotv.vip:8880/live/juvenal/juvenal123/20588.ts
+🥎
 #EXTINF:-1 tvg-id="dazn3.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/1_0_19_74D8_3F8_1_C00000_0_0_0-2.png?ssl=1" group-title="deportes", DAZN 3
-http://gotv.vip:8880/live/juvenal/juvenal123/20589.ts
-
+ http://gotv.vip:8880/live/juvenal/juvenal123/20589.ts
+🥎
 #EXTINF:-1 tvg-id="dazn4.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?ssl=1" group-title="deportes", DAZN 4
-http://gotv.vip:8880/live/juvenal/juvenal123/20590.ts
-
+ http://gotv.vip:8880/live/juvenal/juvenal123/20590.ts
+🥎
 DAZN LaLiga
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliganuevo.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN LaLiga
 http://gotv.vip:8880/live/juvenal/juvenal123/145985.ts
@@ -494,12 +493,12 @@ https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.
 ESPN
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=591cdbc97034330b849614a6efbfdfd4:d664407707d260f93908121d84df4eba
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 https://1108-vos.dtvott.com/DASH/manifest.mpd
 
 ESPN 2
@@ -555,11 +554,18 @@ http://gotv.vip:8880/live/juvenal/juvenal123/36564.ts
 
 Claro Sports 1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ra6cEhC6dGhKIv38sRgGW2B759FXNbjgOw&usqp=CAU" group-title="deportes", Claro Sports 1
-http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/185887.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
 
 Claro Sports 2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ra6cEhC6dGhKIv38sRgGW2B759FXNbjgOw&usqp=CAU" group-title="deportes", Claro Sports 2
-http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/185888.ts
+http://138.59.177.34:8000/play/a01j/index.m3u8
 
 CDO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="deportes", CDO
@@ -585,31 +591,38 @@ http://gotv.vip:8880/live/juvenal/juvenal123/1385.ts
 
 FS1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="deportes", FS1
-http://gotv.vip:8880/live/juvenal/juvenal123/1303.ts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322e03cb37854abdb33fc10ce83a6084:685d1f88bb343563748303a5a49bada5
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(82547-FS1HD)/manifest.mpd
 
 FS2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="deportes", FS2
 http://gotv.vip:8880/live/juvenal/juvenal123/1308.ts
 
-TSN 1
+TSN 1🥎
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png" group-title="deportes", TSN 1
-http://gotv.vip:8880/live/juvenal/juvenal123/339.ts
+ http://gotv.vip:8880/live/juvenal/juvenal123/339.ts
 
-TSN 2
+TSN 2🥎
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="deportes", TSN 2
-http://gotv.vip:8880/live/juvenal/juvenal123/340.ts
+ http://gotv.vip:8880/live/juvenal/juvenal123/340.ts
 
-TSN 3
+TSN 3🥎
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1280px-TSN3.svg.png" group-title="deportes", TSN 3
-http://gotv.vip:8880/live/juvenal/juvenal123/341.ts
+ http://gotv.vip:8880/live/juvenal/juvenal123/341.ts
 
-TSN 4
+TSN 4🥎
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="deportes", TSN 4
-http://gotv.vip:8880/live/juvenal/juvenal123/342.ts
+ http://gotv.vip:8880/live/juvenal/juvenal123/342.ts
 
-TSN 5
+TSN 5🥎
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/TSN5_Logo.png" group-title="deportes", TSN 5
-http://gotv.vip:8880/live/juvenal/juvenal123/343.ts
+ http://gotv.vip:8880/live/juvenal/juvenal123/343.ts
 
 NBA TV
 #EXTINF:-1 tvg-id="1677dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="deportes", NBA TV
