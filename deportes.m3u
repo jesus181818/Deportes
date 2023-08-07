@@ -396,8 +396,7 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
-http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/144049.ts
-
+http://bokiraja.online:2082/live/paco3008/Jfjm9VznCk22/151682.ts
 
 Movistar LaLiga TV
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar LaLiga TV
@@ -416,7 +415,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/139966.ts
 
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn1.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN
-http://gotv.vip:8880/live/juvenal/juvenal123/20587.ts
+http://bokiraja.online:2082/live/paco3008/Jfjm9VznCk22/151705.ts
 
 #EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn2.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN 2
  http://gotv.vip:8880/live/juvenal/juvenal123/20588.ts
@@ -441,11 +440,11 @@ http://gotv.vip:8880/live/juvenal/juvenal123/145929.ts
 
 Eurosport 1
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd235buUjSiOsdTYuVRqUfQBQQ810x8mpXg&usqp=CAU" group-title="deportes", Eurosport 1
-http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/17186.ts
+http://bokiraja.online:2082/live/paco3008/Jfjm9VznCk22/204124.ts
 
 Eurosport 2
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPof6UUYu5jzdH_nXAUcfDAHl3beHUho5nfg&usqp=CAU" group-title="deportes", Eurosport 2
-http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/17187.ts
+http://bokiraja.online:2082/live/paco3008/Jfjm9VznCk22/204125.ts
 
 Teledeporte
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="deportes", Teledeporte
