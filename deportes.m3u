@@ -207,11 +207,6 @@ Tyc sports
 https://1240-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
-Tyc Sports Internacional
-#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://tus11.tycsports.com/img/logo_tyc.png" group-title="deportes", Tyc Sports Internacional
-http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/1380.ts
-
-
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
@@ -537,7 +532,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/65670.ts
 
 TUDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/800px-TUDN_Logo.svg.png" group-title="deportes", TUDN
-http://23.237.108.234/hls/USA_TUDN.m3u8|user-agent=Roku(10.10.10)
+http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/244018.ts
 
 SporTV
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-5-1.png" group-title="deportes", SporTV
@@ -768,9 +763,9 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT--http-reconnect=true
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 
-Sony Movies
+Sony Movies🥎
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png" group-title="películas", Sony Movies
-http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/251046
+ http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/251046
 
 Sony cine
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="películas", Sony Cine
@@ -786,7 +781,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd|User-Agent="Mozilla
 
 Universal TV
 #EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/800px-Universal_TV_logo.svg.png" group-title="películas", Universal TV
-http://gotv.vip:8880/live/juvenal/juvenal123/248.ts
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/266.ts
 
 Studio Universal
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1200px-Logo_Studio_Universal_svg.png.4c30bd27e7971a8f85a7dc0b5f034ede.png" group-title="películas", Studio Universal
@@ -838,7 +833,7 @@ https://1019-vos.dtvott.com/DASH/manifest.mpd
 
 DHE
 #EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.DHE2019.png.be75a2c42509ce867904653d7cac2714.png" group-title="películas", DHE
-http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/251018
+http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/220.ts
 
 Golden
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.984186640_GoldenLA(2020).png.6fcc5fccc997bf89d8476be008573fb9.png" group-title="películas", Golden
