@@ -391,7 +391,7 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
-http://bokiraja.online:2082/live/paco3008/Jfjm9VznCk22/151682.ts
+http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/144049.ts
 
 Movistar LaLiga TV
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar LaLiga TV
@@ -400,7 +400,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/145987.ts
 
 Movistar Liga de campeones
 #EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1920px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Liga de Campeones 
-http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
+http://gotv.vip:8880/live/juvenal/juvenal123/145937.ts
 
 
 #Vamos por Movistar+
@@ -410,20 +410,23 @@ http://gotv.vip:8880/live/juvenal/juvenal123/139966.ts
 
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn1.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN
-http://bokiraja.online:2082/live/paco3008/Jfjm9VznCk22/151705.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/20587.ts
 
 #EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn2.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN 2
-http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/110228.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/20588.ts
 
 #EXTINF:-1 tvg-id="dazn3.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/1_0_19_74D8_3F8_1_C00000_0_0_0-2.png?ssl=1" group-title="deportes", DAZN 3
-http://bokiraja.online:2082/live/paco3008/Jfjm9VznCk22/151709.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/20589.ts
 
 #EXTINF:-1 tvg-id="dazn4.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?ssl=1" group-title="deportes", DAZN 4
-http://bokiraja.online:2082/live/paco3008/Jfjm9VznCk22/151712.ts
+
 
 DAZN LaLiga
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliganuevo.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN LaLiga
-http://bokiraja.online:2082/live/paco3008/Jfjm9VznCk22/228844.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/145985.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliganuevo.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN LaLiga 2
+http://gotv.vip:8880/live/juvenal/juvenal123/145984.ts
 
 DAZN F1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/daznformula.png?resize=440%2C264&ssl=1" group-title="deportes", DAZN F1
@@ -435,11 +438,11 @@ http://gotv.vip:8880/live/juvenal/juvenal123/145929.ts
 
 Eurosport 1
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd235buUjSiOsdTYuVRqUfQBQQ810x8mpXg&usqp=CAU" group-title="deportes", Eurosport 1
-http://bokiraja.online:2082/live/paco3008/Jfjm9VznCk22/204124.ts
+http://premiumultra.xyz:8080/Sanmartin/Sanmartin1234/60365
 
 Eurosport 2
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPof6UUYu5jzdH_nXAUcfDAHl3beHUho5nfg&usqp=CAU" group-title="deportes", Eurosport 2
-http://bokiraja.online:2082/live/paco3008/Jfjm9VznCk22/204125.ts
+http://premiumultra.xyz:8080/Sanmartin/Sanmartin1234/578
 
 Teledeporte
 #EXTINF:-1 tvg-id="teledeporte.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="deportes", Teledeporte
@@ -471,160 +474,6 @@ https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/
 Supersport rugby
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="deportes", SuperSport Rugby
 http://gotv.vip:8880/live/juvenal/juvenal123/54815.ts
-
-
-ESPN Deportes
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/bba8fb76-57ff-3c63-998b-90fef8f4f8b6.png" group-title="deportes", ESPN Deportes
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d846f13c5bd43f3a456d9e958447f17:47e59e0ccb28b0ffa7ce830fd2519539
-https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
-
-ESPN
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=591cdbc97034330b849614a6efbfdfd4:d664407707d260f93908121d84df4eba
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://1108-vos.dtvott.com/DASH/manifest.mpd
-
-ESPN 2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3Msv8QTfC7xU3gazwnhvXA","kid":"BrOt-6mEXHySRwT9i43NZA"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-ESPN 3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1920px-ESPN3_logo.svg.png" group-title="deportes", ESPN 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nc7cS0VlTLirpI5BWVkGPw","kid":"ggJY42ThVwGxMzWc-GMDrw"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
-
-ESPN EXTRA
-#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ca7eacbf7addc05b52_espn-extra.png" group-title="deportes", ESPN EXTRA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=457942dd5b773c8cafad4f486867cde4:d5a09694df94467f59aa46e24537d216
-https://1261-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-Fox Deportes
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png" group-title="deportes", Fox Deportes
-http://gotv.vip:8880/live/juvenal/juvenal123/1383.ts
-
-Fox Sports Premium
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/large.LOGO_FOX_PREMIUM-2019.png.d6c443db5ff9d9842233f9a87042b340.png" group-title="deportes", Fox Sports Premium
-http://gotv.vip:8880/live/juvenal/juvenal123/65670.ts
-
-TUDN
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/800px-TUDN_Logo.svg.png" group-title="deportes", TUDN
-http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/244018.ts
-
-SporTV
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-5-1.png" group-title="deportes", SporTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f62db627bd93b718154cc8629e92976:09e37739a090140734904513ee2f4ce3
-https://0068-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-Premiere
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="deportes", Premiere
-http://gotv.vip:8880/live/juvenal/juvenal123/36564.ts
-
-Claro Sports 1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ra6cEhC6dGhKIv38sRgGW2B759FXNbjgOw&usqp=CAU" group-title="deportes", Claro Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
-
-Claro Sports 2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Ra6cEhC6dGhKIv38sRgGW2B759FXNbjgOw&usqp=CAU" group-title="deportes", Claro Sports 2
-http://138.59.177.34:8000/play/a01j/index.m3u8
-
-CDO
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="deportes", CDO
-http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/154.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="deportes", CDO Premium
-http://premiumultra.xyz:8080/Sanmartin/Sanmartin1234/26000
-
-TNT Sports Chile
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png" group-title="deportes", TNT Sports Chile
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"G5mE3GayWf6K5ZfLT8H0ww","k":"_bv1o5EJNJ17apl-g_ueSw"}]}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd
-
-Fox soccer plus
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="deportes", Fox Soccer Plus
-http://gotv.vip:8880/live/juvenal/juvenal123/1385.ts
-
-FS1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="deportes", FS1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=322e03cb37854abdb33fc10ce83a6084:685d1f88bb343563748303a5a49bada5
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(82547-FS1HD)/manifest.mpd
-
-FS2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="deportes", FS2
-http://gotv.vip:8880/live/juvenal/juvenal123/1308.ts
-
-TSN 1🥎
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png" group-title="deportes", TSN 1
- http://gotv.vip:8880/live/juvenal/juvenal123/339.ts
-
-TSN 2🥎
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="deportes", TSN 2
- http://gotv.vip:8880/live/juvenal/juvenal123/340.ts
-
-TSN 3🥎
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/1280px-TSN3.svg.png" group-title="deportes", TSN 3
- http://gotv.vip:8880/live/juvenal/juvenal123/341.ts
-
-TSN 4🥎
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="deportes", TSN 4
- http://gotv.vip:8880/live/juvenal/juvenal123/342.ts
-
-TSN 5🥎
-#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/TSN5_Logo.png" group-title="deportes", TSN 5
- http://gotv.vip:8880/live/juvenal/juvenal123/343.ts
-
-NBA TV
-#EXTINF:-1 tvg-id="1677dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="deportes", NBA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4czKtAGp9MTUkm6xPU9TFQ","kid":"BTVZ0SK4XyuJJe6KYhIlAg"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
 HBO
@@ -691,10 +540,6 @@ HBO SIGNATURE
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 https://dtvott-cbc.akamaized.net/dash_live_1143/manifest.mpd
-
-Cine AR
-#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58e1c72423ee1_logo-sin-bajada-copia-copia.png.1791df79095f4e3a2ad9811ee5b17580.png" group-title="películas", Cine AR
-http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/81320
 
 Cinemax
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="películas", Cinemax
@@ -763,14 +608,6 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT--http-reconnect=true
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 
-Sony Movies🥎
-#EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png" group-title="películas", Sony Movies
- http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/251046
-
-Sony cine
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="películas", Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
 Warner Channel
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="películas", Warner Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -786,11 +623,6 @@ http://138.255.102.3:25461/live/restreamin/U9ydnT8kwL/266.ts
 Studio Universal
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1200px-Logo_Studio_Universal_svg.png.4c30bd27e7971a8f85a7dc0b5f034ede.png" group-title="películas", Studio Universal
 http://gotv.vip:8880/live/juvenal/juvenal123/116.ts
-
-
-Universal Reality
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.7d6eeaa83b77834a29fc03cb8f88ff63.png" group-title="películas", Universal Reality
-http://gotv.vip:8880/live/juvenal/juvenal123/73.ts
 
 Universal Cinema
 #EXTINF:-1 tvg-id="1572dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="películas", Universal Cinema
@@ -816,7 +648,7 @@ https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
 
 Universal Premiere
 #EXTINF:-1 tvg-id="571dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="películas", Universal Premiere
-http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/141415.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/75.ts
 
 A&E
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3szqiPDiW-lTX-Q8n8LRmVj4KNpOOtty_xQ&usqp=CAU" group-title="películas", A&E
@@ -890,149 +722,3 @@ Paramount
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
-
-Lifetime
-#EXTINF:-1 tvg-id="228dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="Estilo de vida", Lifetime
-http://gotv.vip:8880/live/juvenal/juvenal123/95.ts
-
-Gourmet 
-#EXTINF:-1 tvg-id="232dtv.cl" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="Estilo de vida", El Gourmet
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"r7N478TJN5makjenNPmmeg","k":"O2ygLlsFicqw3TLbRTCIhA"}]}
-https://1093-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-Foodnetwork
-#EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Estilo de vida", Food Network
-http://gotv.vip:8880/live/juvenal/juvenal123/67.ts
-
-Mas Chic
-#EXTINF:-1 tvg-id="230dtv.cl" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68c41ede02cb91875fe_maschic.png" group-title="Estilo de vida", Mas Chic
-http://gotv.vip:8880/live/juvenal/juvenal123/96.ts
-
-HGTV
-#EXTINF:-1 tvg-id="hgtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Estilo de vida", HGTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "jEbk4IkHgNeBbjiIt8c4xw","kid": "vfrEhtUlXSOWlFEC0dOITw"}],"type": "temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd
-
-TLC
-#EXTINF:-1 tvg-id="740dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" group-title="Estilo de vida", TLC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IVjc-L7gN6S-e-vVvi8-mg","kid":"Y20CYfHnUIaHkeQmLIP0SA"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
-
-Animal Planet
-#EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png" group-title="Documentales", Animal Planet
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YYt1LTPD5EQgIZtcGLD3SA","kid":"FJw3HfJ6VqGIBScgQTgVkg"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
-
-National Geographic
-#EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="https://i.natgeofe.com/n/4da26b5c-18ee-413f-96dd-4cf3fb4a68a0/2fl-white.png" group-title="Documentales", National Geographic
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WKx5T26qRfvzGXhx9LM66g","kid":"jj7YgA-QWLWvdIMIHn9_VQ"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-Discovery Channel
-#EXTINF:-1 tvg-id="732dtv.ar" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-2-1.png" group-title="Documentales", Discovery Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"drE/2KKY0YisUlI4eyKGhw","kid":"gveqrknlVsGYXaBGIzffQw"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
-
-Discovery Home & Health
-#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Documentales", Discovery Home & Health
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2VSYMMKdX_DFxwEDbrnLpA","kid":"y6GQdDeaWzyHXNGs4Btsvg"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://dtvott-cbc.akamaized.net/dash_live_1074/manifest.mpd
-
-Discovery Theater 
-#EXTINF:-1 tvg-id="1731dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentales", Discovery Theater 
-http://gotv.vip:8880/live/juvenal/juvenal123/50.ts
-
-Discovery World
-#EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Documentales", Discovery World
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=650b2a2c9d993175a95cff9f4379bf77:1261346c61c4ec61927dead8fc0cc057
-https://1082-vos.dtvott.com/DASH/manifest.mpd
-
-Discovery Science
-#EXTINF:-1 tvg-id="discovery-science.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1256266003_DiscoveryScience.png.e138efa601a4a48f46f4c00916294aa8.png" group-title="Documentales", Discovery Science
-http://66.70.176.103:8081/LATINO%7CDISCOVERYSCIENCER/LATINO%7CDISCOVERYSCIENCER/chunks.m3u8|User-Agent=blackghost.app/4.9 (Linux;Android 9) ExoPlayerLib/2.14.0
-
-Discovery Turbo
-#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Documentales", Discovery Turbo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"deZqTteIDHFlXSTlLK070w","kid":"0y2BXR9_UyW6c1YlNGYskg"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd
-
-History
-#EXTINF:-1 tvg-id="1742dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/1325251773_logo(11).png.2d83180927d4295b60730dbf97df5321.png" group-title="Documentales", History
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7x0IlKk29zk-x7-jj_YYyw","kid":"DcZPmxmrUa6IlZr-yW52MQ"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-History 2
-#EXTINF:-1 tvg-id="744dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="Documentales", History 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1tUYlJz3NMPgMyjdpbRZZg","kid":"mL8dUQy0UUWULl1MHV8hHQ"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-TruTV
-#EXTINF:-1 tvg-id="220dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/s10153_h3_ba.png.b9008428baa049b400a6947dd993d8eb.png" group-title="Documentales", TruTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct" group-title="Lista 27 solo OTT", "k": "rcrQFSObMJn9QOYCDrV6GA" group-title="Lista 27 solo OTT", "kid": "Q4TIUEa1Wvq9iQU3AtPTKA"}] group-title="Lista 27 solo OTT", "type": "temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
-
-
-
-
-
-
