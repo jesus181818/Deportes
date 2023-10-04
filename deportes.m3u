@@ -38,7 +38,7 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 A24
 
-#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_02/1550442810653.png.36a9c714f121b216133d810e568e02d7.png" group-title="noticias", A24
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2019_03/large.566331441_A24(2019-2).png.ac49f8e22f6a26e7e23cbd79bf3bda61.png" group-title="noticias", A24
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -410,7 +410,7 @@ HBO 2
 https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
 
 HBO PLUS
-#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="películas", HBO PLUS
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="películas", HBO PLUS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "G9sxcikGatLXTEgUoTjhNg","kid": "Z5WjA6noUX+8o4N2wK8vdg"}],"type": "temporary"}
 #EXTVLCOPT:network-caching=1000
@@ -419,15 +419,15 @@ HBO PLUS
 https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd
 
 HBO MUNDI
-#EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.1200px-HBO_Mundi_svg.png.ef2593b818107c6a7eca3d235e0039ff.png.4b95b4aad6d12d806ae269bbffa500fb.png" group-title="películas", HBO MUNDI
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_01/small.1200px-HBO_Mundi_svg.png.b58bca8f149c9c60bbf0876099a77c0e.png" group-title="películas", HBO MUNDI
 http://gotv.vip:8880/hernan/hernan/12273
 
 HBO POP
-#EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1986800355_HBOPOP(varianteblanca).png.307e4bfaea022003758c873d39d77dcc.png" group-title="películas", HBO POP
+#EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2020_02/large.1986800355_HBOPOP(varianteblanca).png.307e4bfaea022003758c873d39d77dcc.png" group-title="películas", HBO POP
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/58808.ts
 
 HBO FAMILY
-#EXTINF:-1 tvg-id="1534dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.small.HBO_Family.png.bc8b7b2a9415321ed885ae5b7fc6a46f.png.e927ae27067f2db42a7a6cc7c9977de4.png" group-title="películas", HBO FAMILY
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2021_05/large.HBO_Family.png.eb78aea9ecfd553b2e5005d2e9a0ae26.png" group-title="películas", HBO FAMILY
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/1940.ts
 
 HBO XTREME
@@ -453,7 +453,7 @@ Space
 https://1193-vos.dtvott.com/DASH/manifest.mpd
 
 Cinecanal
-#EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.300px-CinecanalLA.png.d7148496039272330a21020818e03e28.png" group-title="películas", Cinecanal
+#EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2021_05/small.300px-CinecanalLA.png.dd856898eb75b822b80fd6c9f08300c8.png" group-title="películas", Cinecanal
 http://gotv.vip:8880/live/juvenal/juvenal123/36.ts
 
 TNT
@@ -465,7 +465,7 @@ TNT SERIES
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/1958.ts
 
 FX
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.fx_logo_2008_2013_white_by_danielmedia20_deduzht-fullview.png.1accf497fbbcefd6f2013de8065f03c4.png" group-title="películas", FX
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://i.imgur.io/pdxEwCO_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="películas", FX
 http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/1274
 
 STAR CHANNEL
@@ -478,6 +478,10 @@ STAR CHANNEL
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
+
+Paramount
+#EXTINF:-1 tvg-id="510dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="películas", Paramount
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/1946.ts
 
 Sony Channel
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="películas", Sony Channel
@@ -492,7 +496,7 @@ Universal TV
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/4905.ts
 
 Studio Universal
-#EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1200px-Logo_Studio_Universal_svg.png.4c30bd27e7971a8f85a7dc0b5f034ede.png" group-title="películas", Studio Universal
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2021_05/large.1200px-Logo_Studio_Universal_svg.png.dbdb32cb4ddb0e3b05eb593d095b9dcc.png" group-title="películas", Studio Universal
 http://gotv.vip:8880/live/juvenal/juvenal123/116.ts
 
 Universal Cinema
@@ -507,7 +511,7 @@ Universal Cinema
 https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
 
 Universal Comedy
-#EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title="películas", Universal Comedy
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_03/small.1490211344_UniversalComedy-Claro.png.1f11f8f685c8a939f19f7098388fff98.png" group-title="películas", Universal Comedy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -529,29 +533,29 @@ https://1003-vos.dtvott.com/DASH/manifest.mpd
 
 
 AXN
-#EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.5ac2806d93e3825075b97fb9ad8de7e4.png" group-title="películas", AXN
+#EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_12/large.small.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.8fb6d1877edea33881bb14210d46fa24.png.64fd695ba831beb9775d90f31b0fe57f.png" group-title="películas", AXN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c152bb4696563d6d9369c375e328a8fd:c077f09e3a9dfef0580c9ae9f29e3bf2
 https://1019-vos.dtvott.com/DASH/manifest.mpd
 
 DHE
-#EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/large.DHE2019.png.be75a2c42509ce867904653d7cac2714.png" group-title="películas", DHE
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_12/large.DHE2019.png.4218a51e2b4cbbc5187d9619b25f2a0d.png" group-title="películas", DHE
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/1907.ts
 
 Golden
-#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.984186640_GoldenLA(2020).png.6fcc5fccc997bf89d8476be008573fb9.png" group-title="películas", Golden
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2021_08/large.984186640_GoldenLA(2020).png.6f043bb2947a9427eb07ea82ef23a0c1.png" group-title="películas", Golden
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/58789.ts
 
 Golden Premiere
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.71ced96b61f7fac778f2f9c5f64e52e0.png" group-title="películas", Golden Premiere
+#EXTINF:-1 tvg-id="" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.f1af32f93b89d9fd6c90952f26512fcb.png" group-title="películas", Golden Premiere
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/4892.ts
 
 Golden Edge
-#EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.949364663_GoldenEdgeLA(2020).png.47e88463b6cad6b9a1c0cc9e31e3964b.png" group-title="películas", Golden Edge
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2021_08/large.949364663_GoldenEdgeLA(2020).png.0500b2bc796821a2f713d7c6a5639c4b.png" group-title="películas", Golden Edge
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/1932.ts
 
 Golden Plus
-#EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.92231216_GoldenPlus2020.png.3a950b6243d15066046ac5765ece2282.png" group-title="películas", Golden Plus
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2021_08/large.92231216_GoldenPlus2020.png.6a9608c0f0d69079d2792842cdd2d1af.png" group-title="películas", Golden Plus
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/58791.ts
 
 AMC
@@ -559,16 +563,11 @@ AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8|license_type=clearkey&license_key=https://cdn4.xaxa.live/keys/hgtv.json
 
 
-Syfy
-#EXTINF:-1 tvg-id="219dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.Module08_LOGO_Issues_25_CROPPED-2152x973.png.aaac514edb92c50d88635303c37fce0d.png" group-title="películas", Syfy
+Usa Network
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="películas", Usa Network
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/58828.ts
 
 
 Comedy Central
-#EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/small.279164273_Sinttulo-2.png.973c12b8dcf916ec1caca304df1efeb0.png" group-title="películas", Comedy Central
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2018_12/small.279164273_Sinttulo-2.png.fe903947064357f77d9d7077904193a5.png" group-title="películas", Comedy Central
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/106216.ts
-
-
-Paramount
-#EXTINF:-1 tvg-id="510dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="películas", Paramount
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/1946.ts
