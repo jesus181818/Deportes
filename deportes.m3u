@@ -42,7 +42,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 C5N
 
-#EXTINF:-1 tvg-id="717dtv.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="noticias", C5N
+#EXTINF:-1 tvg-id="717dtv.ar" tvg-name="C5N" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large_C5N.png.0a7ee3f34cc40364ab1a7b3d2922fe7a.png" group-title="noticias", C5N
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 Crónica
@@ -149,7 +149,7 @@ TNT sports
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/66283.ts
 
 Tyc sports
-#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://tus11.tycsports.com/img/logo_tyc.png" group-title="deportes", Tyc Sports
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="http://www.elojo360.com/images/logos/tyc.png" group-title="deportes", Tyc Sports
 http://gotv.vip:8880/live/juvenal/juvenal123/348.ts
 
 
@@ -180,13 +180,13 @@ Espn 2
 http://gotv.vip:8880/live/juvenal/juvenal123/65661.ts
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Chi 
-http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218705.ts
+
 
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Per
 
 
 #EXTINF:-1 tvg-id="622dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Col
-
+http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218698.ts
 
 Espn 3
 
@@ -343,7 +343,7 @@ HBO
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/1938.ts
 
 HBO 2
-#EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.HBO2_logo.png.0ee2d4ef988bae392cf4d9e2a24fb682.png" group-title="películas", HBO 2
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.HBO2_logo.png.f9f7d75666d7056c3177e5158be845e2.png" group-title="películas", HBO 2
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/4894.ts
 
 HBO PLUS
@@ -472,7 +472,7 @@ Golden Plus
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/58791.ts
 
 AMC
-#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.amc_us_hd.png.e0fb77496e5732121c56cda732daf483.png" group-title="películas", AMC
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://www.amctv.com.br/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.png" group-title="películas", AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8|license_type=clearkey&license_key=https://cdn4.xaxa.live/keys/hgtv.json
 
 
