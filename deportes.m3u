@@ -43,7 +43,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 C5N
 
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="noticias", C5N
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/7454.ts
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 Crónica
 
@@ -240,12 +240,12 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/27775.ts
 Fox Sports 2
 
 #EXTINF:-1 tvg-id="3082dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIvuG-kbvY9EB-Wh49uarALGbNFGVEv-ZtA&usqp=CAU" group-title="deportes", Fox Sports 2
-http://gotv.vip:8880/live/juvenal/juvenal123/65665.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/66272.ts
 
 Fox Sports 3 
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
-http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/455
+http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/143.ts
 
 DirecTV Sports
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
@@ -253,11 +253,11 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/3121.ts
 
 DirecTV Sports 2 
 #EXTINF:-1 tvg-id="612" tvg-name="DTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
-http://gotv.vip:8880/live/juvenal/juvenal123/350.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/559.ts
 
 DirecTV Sports 3
 #EXTINF:-1 tvg-id="613" tvg-name="DTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
-http://gotv.vip:8880/live/juvenal/juvenal123/352.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/2746.ts
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
