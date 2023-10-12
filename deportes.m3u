@@ -42,7 +42,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 C5N
 
-#EXTINF:-1 tvg-id="717dtv.ar" tvg-name="C5N" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large_C5N.png.0a7ee3f34cc40364ab1a7b3d2922fe7a.png" group-title="noticias", C5N
+#EXTINF:-1 tvg-id="717dtv.ar" tvg-name="C5N" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large_C5N.png.150ffea72f12c551a8a5f54fa0e71d8e.png" group-title="noticias", C5N
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 Crónica
@@ -191,7 +191,7 @@ http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218698.ts
 Espn 3
 
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1920px-ESPN3_logo.svg.png" group-title="deportes", ESPN 3
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/98839.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/570.ts
 
 
 Espn 4
@@ -204,7 +204,7 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/94067.ts
 
 Espn extra
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/101210.ts
+http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218702.ts
 
 
 Fox sports
@@ -257,15 +257,15 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/559.ts
 
 DirecTV Sports 3
 #EXTINF:-1 tvg-id="613" tvg-name="DTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/2746.ts
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/471
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/26387.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/587.ts
 
 Movistar LaLiga TV
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar LaLiga TV
-http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/110185.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/26520.ts
 
 
 Movistar Liga de campeones
@@ -276,7 +276,7 @@ http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/147931.ts
 #Vamos por Movistar+
 
 #EXTINF:-1 tvg-id="mplus#vamos.es" tvg-logo="https://yt3.googleusercontent.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="deportes", #Vamos por Movistar+
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/26527.ts
+http://gotv.vip:8880/live/juvenal/juvenal123/139966.ts
 
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn1.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN
@@ -286,7 +286,7 @@ http://gotv.vip:8880/live/juvenal/juvenal123/20587.ts
 http://gotv.vip:8880/live/juvenal/juvenal123/20588.ts
 
 #EXTINF:-1 tvg-id="dazn3.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/1_0_19_74D8_3F8_1_C00000_0_0_0-2.png?ssl=1" group-title="deportes", DAZN 3
-http://gotv.vip:8880/live/juvenal/juvenal123/20589.ts
+
 
 #EXTINF:-1 tvg-id="dazn4.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?ssl=1" group-title="deportes", DAZN 4
 
@@ -296,7 +296,7 @@ DAZN LaLiga
 http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/144035.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliganuevo.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN LaLiga 2
-http://daleplay.club:8080/live/AlexRivera/tNcNm6avPBLQ/144037.ts
+
 
 DAZN F1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/daznformula.png?resize=440%2C264&ssl=1" group-title="deportes", DAZN F1
@@ -343,7 +343,7 @@ HBO
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/1938.ts
 
 HBO 2
-#EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.HBO2_logo.png.f9f7d75666d7056c3177e5158be845e2.png" group-title="películas", HBO 2
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.HBO2_logo.png.9524effdf8c725710b3fe98db32190e6.png" group-title="películas", HBO 2
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/4894.ts
 
 HBO PLUS
