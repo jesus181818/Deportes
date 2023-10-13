@@ -27,7 +27,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 El nueve
 
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="noticias", El Nueve
-https://ythls.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
+http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/473.ts
 
 A24
 
@@ -43,7 +43,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 C5N
 
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-name="C5N" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large_C5N.png.150ffea72f12c551a8a5f54fa0e71d8e.png" group-title="noticias", C5N
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/17901.ts
 
 Crónica
 
@@ -150,7 +150,14 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/66283.ts
 
 Tyc sports
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="http://www.elojo360.com/images/logos/tyc.png" group-title="deportes", Tyc Sports
-http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/267.ts
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453 
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
 
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="http://www.elojo360.com/images/logos/tyc.png" group-title="deportes", Tyc Sports Internacional
 http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/148.ts
@@ -189,7 +196,7 @@ http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218698.ts
 
 
 #EXTINF:-1 tvg-id="622dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Col
-http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218699.ts
+
 
 Espn 3
 
@@ -207,7 +214,15 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/94067.ts
 
 Espn extra
 #EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
-http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218702.ts
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd
+
 
 
 Fox sports
@@ -252,11 +267,26 @@ http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/143.ts
 
 DirecTV Sports
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/3121.ts
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fa59463176f3dc2964b91b4f7ae1d7c:81d5b95cc9057d6b0f85c78e6f0e41e7
+https://1059-vos.dtvott.com/DASH/manifest.mpd
+
 
 DirecTV Sports 2 
 #EXTINF:-1 tvg-id="612" tvg-name="DTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/559.ts
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab020a1710d630168de21698375a439c:235898cdb10b0cdba35ea2ce94fbb1fb 
+https://1063-vos.dtvott.com/DASH/manifest.mpd
 
 DirecTV Sports 3
 #EXTINF:-1 tvg-id="613" tvg-name="DTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
@@ -488,7 +518,7 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/58828.ts
 
 Movistar Acción
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Acción 
-http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/819.ts
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12308
 
 Movistar Cine
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/800px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Cine
@@ -496,11 +526,11 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/26463.ts
 
 Movistar Comedia
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/800px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Comedia 
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/32527.ts
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/25808
 
 Movistar Suspenso
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/800px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Suspenso 
-http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/223472.ts
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60167
 
 Comedy Central
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2018_12/small.279164273_Sinttulo-2.png.fe903947064357f77d9d7077904193a5.png" group-title="películas", Comedy Central
