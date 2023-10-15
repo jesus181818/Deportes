@@ -278,7 +278,7 @@ https://1059-vos.dtvott.com/DASH/manifest.mpd
 
 
 DirecTV Sports 2 
-#EXTINF:-1 tvg-id="612" tvg-name="DTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
+#EXTINF:-1 tvg-id="612dtv.ar" tvg-name="DTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -289,14 +289,14 @@ DirecTV Sports 2
 https://1063-vos.dtvott.com/DASH/manifest.mpd
 
 DirecTV Sports 3
-#EXTINF:-1 tvg-id="613" tvg-name="DTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
+#EXTINF:-1 tvg-id="179directv.cl" tvg-name="DTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/471
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/587.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="deportes", Movistar Deportes 2
+#EXTINF:-1 tvg-id="m+deportes2.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="deportes", Movistar Deportes 2
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60332
 
 Movistar LaLiga TV
@@ -311,7 +311,7 @@ http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218166.ts
 
 #Vamos por Movistar+
 
-#EXTINF:-1 tvg-id="mplus#vamos.es" tvg-logo="https://yt3.googleusercontent.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="deportes", #Vamos por Movistar+
+#EXTINF:-1 tvg-id="mplus#vamos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/800px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="deportes", #Vamos por Movistar+
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60323
 
 DAZN
@@ -519,32 +519,44 @@ Comedy Central
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2018_12/small.279164273_Sinttulo-2.png.fe903947064357f77d9d7077904193a5.png" group-title="películas", Comedy Central
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/24907
 
+Movistar+
+#EXTINF:-1 tvg-id="m+.es" tvg-logo="https://los40.com/resizer/FdvRmP_YBc0h9r4DIRrAj0W0efY=/1200x544/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/FBNGJSNLI5MWLEISVQXD5PLKKA.jpg" group-title="películas", Movistar+ 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60144
+
 Movistar Acción
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Acción 
+#EXTINF:-1 tvg-id="m+accion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Acción 
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12308
 
 Movistar Cine
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/800px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Cine
+#EXTINF:-1 tvg-id="m+estrenos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/800px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Cine
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12447
 
 Movistar Comedia
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/800px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Comedia 
+#EXTINF:-1 tvg-id="m+comedia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/800px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Comedia 
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/25808
 
+Movistar Drama
+#EXTINF:-1 tvg-id="m+drama.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/800px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Drama 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/25790
+
 Movistar Suspenso
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/800px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Suspenso 
+#EXTINF:-1 tvg-id="m+suspense.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/800px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Suspenso 
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60167
+
+Movistar Documentales
+#EXTINF:-1 tvg-id="m+documentales.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="películas", Movistar Documentales 
+http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/223478.ts
 
 Comedy Central 
 #EXTINF:-1 tvg-id="" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2018_12/small.279164273_Sinttulo-2.png.fe903947064357f77d9d7077904193a5.png" group-title="películas", Comedy Central España 
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60228
 
 AXN 
-#EXTINF:-1 tvg-id="" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_12/large.small.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.8fb6d1877edea33881bb14210d46fa24.png.64fd695ba831beb9775d90f31b0fe57f.png" group-title="películas", AXN ESPAÑA 
+#EXTINF:-1 tvg-id="axn.es" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_12/large.small.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.8fb6d1877edea33881bb14210d46fa24.png.64fd695ba831beb9775d90f31b0fe57f.png" group-title="películas", AXN ESPAÑA 
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12426
 
 AXN Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png?resize=440%2C264&ssl=1" group-title="películas", AXN Movies ESPAÑA 
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png?resize=440%2C264&ssl=1" group-title="películas", AXN Movies ESPAÑA 
 http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/110141.ts
 
 FOX
@@ -552,7 +564,7 @@ FOX
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12408
 
 Hollywood
-#EXTINF:-1 tvg-id="" tvg-logo="https://canalhollywood.es/wp-content/themes/canalhollywood/img/logo-canalhollywood.png" group-title="películas", Hollywood ESPAÑA 
+#EXTINF:-1 tvg-id="hollywood.es" tvg-logo="https://canalhollywood.es/wp-content/themes/canalhollywood/img/logo-canalhollywood.png" group-title="películas", Hollywood ESPAÑA 
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/61032
 
 Warner
@@ -565,11 +577,11 @@ http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12439
 
 
 Calle 13
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-white-es.png" group-title="películas", Calle 13 ESPAÑA 
+#EXTINF:-1 tvg-id="calle13.es" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-white-es.png" group-title="películas", Calle 13 ESPAÑA 
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60187
 
 Cosmo
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_COSMO.png/800px-LOGO_COSMO.png" group-title="películas", Cosmo ESPAÑA 
+#EXTINF:-1 tvg-id="cosmo.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_COSMO.png/800px-LOGO_COSMO.png" group-title="películas", Cosmo ESPAÑA 
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60205
 
 SYFY
@@ -580,20 +592,32 @@ Sundance TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.amcnetworks.com/sundance/logos/sundancetv.png" group-title="películas", Sundance TV ESPAÑA
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/61067
 
+Neox
+#EXTINF:-1 tvg-id="neox.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/800px-Neox_2023_logo.svg.png" group-title="películas", Neox ESPAÑA
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60102
+
+Energy
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Energy_c%C3%ADrculo.svg/2048px-Energy_c%C3%ADrculo.svg.png" group-title="películas", Energy ESPAÑA
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12327
+
 AMC
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.amctv.com.br/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.png" group-title="películas", AMC ESPAÑA 
+#EXTINF:-1 tvg-id="amc.es" tvg-logo="https://www.amctv.com.br/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.png" group-title="películas", AMC ESPAÑA 
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60212
 
+XTRM
+#EXTINF:-1 tvg-id="xtrm.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="películas", XTRM ESPAÑA 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60224
+
 MTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest?cb=20211211213253&path-prefix=es" group-title="música", MTV
+#EXTINF:-1 tvg-id="262dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest?cb=20211211213253&path-prefix=es" group-title="música", MTV
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/24929
 
 MTV Hits
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/640px-MTV_Hits_2021.svg.png" group-title="música", MTV HITS
+#EXTINF:-1 tvg-id="261dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/640px-MTV_Hits_2021.svg.png" group-title="música", MTV HITS
 http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/110093.ts
 
 MTV ESPAÑA
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest?cb=20211211213253&path-prefix=es" group-title="música", MTV ESPAÑA
+#EXTINF:-1 tvg-id="mtv.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest?cb=20211211213253&path-prefix=es" group-title="música", MTV ESPAÑA
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12446
 
 Telehit
