@@ -5,7 +5,7 @@
 America
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="noticias", America
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/7448.ts
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/15814
 
 
 Telefe
@@ -43,7 +43,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 C5N
 
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-name="C5N" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large_C5N.png.150ffea72f12c551a8a5f54fa0e71d8e.png" group-title="noticias", C5N
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/17901.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/7454.ts
 
 Crónica
 
@@ -82,7 +82,7 @@ IP
 
 
 Canal 9 imagen del Nordeste
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png" group-title="noticias", Canal 9 imágen del Nordeste
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png" group-title="noticias", Canal 9 imágen del Nordeste
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 
@@ -109,16 +109,16 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 Canal Orbe 21
 
-#EXTINF:-1 tvg-id="351dtv.cl" tvg-logo="https://canalorbe21.com/wp-content/uploads/2023/09/orbe21-logox2.png" group-title="noticias", Canal Orbe 21
+#EXTINF:-1 tvg-id="351dtv.cl" tvg-logo="https://canalorbe21.com/wp-content/uploads/2023/09/orbe21-logox2.png" group-title="religión", Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 Radio María TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-maria-argentina/fb_cover.jpg" group-title="noticias", Radio María TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-maria-argentina/fb_cover.jpg" group-title="religión", Radio María TV
 https://5f700d5b2c46f.streamlock.net/maria720/maria720/playlist.m3u8?DVR
 
 Canal Santa María
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="noticias", Canal Santa María
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="religión", Canal Santa María
 https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 
 Canal Rural
@@ -128,7 +128,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 DeportTV
 
 #EXTINF:-1 tvg-id="656dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/1024px-Deportv.svg.png" group-title="deportes", DeportTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/29348.ts
 
 El Garage
 #EXTINF:-1 tvg-id="el-garage.ar" tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="deportes", El Garage TV
@@ -296,6 +296,9 @@ Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/587.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="deportes", Movistar Deportes 2
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60332
+
 Movistar LaLiga TV
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar LaLiga TV
 http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/222423.ts
@@ -309,7 +312,7 @@ http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218166.ts
 #Vamos por Movistar+
 
 #EXTINF:-1 tvg-id="mplus#vamos.es" tvg-logo="https://yt3.googleusercontent.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="deportes", #Vamos por Movistar+
-http://gotv.vip:8880/live/juvenal/juvenal123/139966.ts
+http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218262.ts
 
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn1.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN
@@ -337,7 +340,7 @@ http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/211008.ts
 
 Sky Sports
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/hosted-accounts/sky.shorthandstories.com/man-city-table/assets/logo.png" group-title="deportes", Sky Sports
-
+http://mv0.mimundoworld.xyz:8080/javycarlos/carlosjavy/88154
 
 
 Teledeporte
@@ -350,18 +353,14 @@ https://tvup-live.secure.footprint.net/teledeporte/teledeporte.mpd|User-Agent="M
 
 GOL PLAY
 #EXTINF:-1 tvg-id="gol.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" group-title="deportes", GOL PLAY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"40d74ba9d7b35e2cb7865012adcd2e0b":"950c6078f8fdb95d8b2451e009ecc4de","d8014a9a63e15f6abf7388de45ef7e02":"1d5efa0575fc67e8c8b0ec3edc0acba7","e48455eeaeeb50ec932d208e44012e4f":"2a2e6be1ff1dda385a7db6dc0accfc6e"}
-https://tvup-live.secure.footprint.net/goltv/goltv.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60278
 
 Tennis Channel
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
-http://gotv.vip:8880/live/juvenal/juvenal123/1460.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/17835.ts
 
 Super Tennis
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="deportes", Super Tennis
@@ -369,7 +368,7 @@ Super Tennis
 
 Supersport rugby
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="deportes", SuperSport Rugby
-http://gotv.vip:8880/live/juvenal/juvenal123/54815.ts
+
 
 HBO
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://logodix.com/logo/95977.png" group-title="películas", HBO 
@@ -381,7 +380,7 @@ http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218716.ts
 
 HBO PLUS
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="películas", HBO PLUS
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/4896.ts
+http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/218726.ts
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_01/small.1200px-HBO_Mundi_svg.png.b58bca8f149c9c60bbf0876099a77c0e.png" group-title="películas", HBO MUNDI
@@ -405,7 +404,7 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/1942.ts
 
 Cinemax
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="películas", Cinemax
-http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/336.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/58751.ts
 
 Space
 #EXTINF:-1 tvg-id="518dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="películas", Space
@@ -455,7 +454,7 @@ http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/68.ts
 
 Universal TV
 #EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/800px-Universal_TV_logo.svg.png" group-title="películas", Universal TV
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/4905.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/58835.ts
 
 Studio Universal
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2021_05/large.1200px-Logo_Studio_Universal_svg.png.dbdb32cb4ddb0e3b05eb593d095b9dcc.png" group-title="películas", Studio Universal
@@ -475,7 +474,7 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/95796.ts
 
 A&E
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3szqiPDiW-lTX-Q8n8LRmVj4KNpOOtty_xQ&usqp=CAU" group-title="películas", A&E
-http://gotv.vip:8880/live/juvenal/juvenal123/6.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/67213.ts
 
 
 AXN
@@ -494,7 +493,7 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/58789.ts
 
 Golden Premiere
 #EXTINF:-1 tvg-id="" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.f1af32f93b89d9fd6c90952f26512fcb.png" group-title="películas", Golden Premiere
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/4892.ts
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/58792.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.f1af32f93b89d9fd6c90952f26512fcb.png" group-title="películas", Golden Premiere 2
 http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/207464.ts
@@ -516,13 +515,17 @@ Usa Network
 #EXTINF:-1 tvg-id="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="películas", Usa Network
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/58828.ts
 
+Comedy Central
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2018_12/small.279164273_Sinttulo-2.png.fe903947064357f77d9d7077904193a5.png" group-title="películas", Comedy Central
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/24907
+
 Movistar Acción
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Acción 
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12308
 
 Movistar Cine
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/800px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Cine
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/26463.ts
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12447
 
 Movistar Comedia
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/800px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Comedia 
@@ -532,10 +535,71 @@ Movistar Suspenso
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/800px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Suspenso 
 http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60167
 
-Comedy Central
-#EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2018_12/small.279164273_Sinttulo-2.png.fe903947064357f77d9d7077904193a5.png" group-title="películas", Comedy Central
-http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/109.ts
-
+Comedy Central 
 #EXTINF:-1 tvg-id="" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2018_12/small.279164273_Sinttulo-2.png.fe903947064357f77d9d7077904193a5.png" group-title="películas", Comedy Central España 
-http://proiptvdigic.com:80/live/yuu14/qTWAZnYapk9g/782.ts
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60228
 
+AXN 
+#EXTINF:-1 tvg-id="" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2022_12/large.small.dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png.8fb6d1877edea33881bb14210d46fa24.png.64fd695ba831beb9775d90f31b0fe57f.png" group-title="películas", AXN ESPAÑA 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12426
+
+AXN Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png?resize=440%2C264&ssl=1" group-title="películas", AXN Movies ESPAÑA 
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/110141.ts
+
+FOX
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/810/273/png-transparent-fox-broadcasting-company-television-channel-fox-news-fox-television-animals-text.png" group-title="películas", FOX ESPAÑA 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12408
+
+Hollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://canalhollywood.es/wp-content/themes/canalhollywood/img/logo-canalhollywood.png" group-title="películas", Hollywood ESPAÑA 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/61032
+
+Warner
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="películas", Warner Channel ESPAÑA 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60190
+
+Paramount
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="películas", Paramount ESPAÑA 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12439
+
+
+Calle 13
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-white-es.png" group-title="películas", Calle 13 ESPAÑA 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60187
+
+Cosmo
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_COSMO.png/800px-LOGO_COSMO.png" group-title="películas", Cosmo ESPAÑA 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60205
+
+SYFY
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.syfy.es/sites/all/themes/pint_themes/base_syfywire/logo.png" group-title="películas", SYFY ESPAÑA 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60210
+
+Sundance TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.amcnetworks.com/sundance/logos/sundancetv.png" group-title="películas", Sundance TV ESPAÑA
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/61067
+
+AMC
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.amctv.com.br/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.png" group-title="películas", AMC ESPAÑA 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/60212
+
+MTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest?cb=20211211213253&path-prefix=es" group-title="música", MTV
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/24929
+
+MTV Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/640px-MTV_Hits_2021.svg.png" group-title="música", MTV HITS
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/110093.ts
+
+MTV ESPAÑA
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest?cb=20211211213253&path-prefix=es" group-title="música", MTV ESPAÑA
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/12446
+
+Telehit
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/640px-Telehit_logo_2020.png" group-title="música", Telehit
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/47269
+
+Telehit Música 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjQxBSeQ0S4TWaJOhgRryWf859-xUWS-ySQ&usqp=CAU" group-title="música", Telehit Música 
+http://octubre2023.ultrapremiumoficial.xyz:8080/971881825tv/d646pdje/47268
