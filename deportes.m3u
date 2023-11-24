@@ -48,12 +48,12 @@ https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 Crónica
 
 #EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/800px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="noticias", Crónica 
-https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 Canal 26
 
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-name="CA26HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="noticias", Canal 26
-http://200.115.193.177/live/26hd-720/playlist.m3u8
+http://svtv.xyz:8080/live/MariaDiaz/RFZQJtZ/24034.ts
 
 La Nación+
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="noticias", La Nación+
@@ -436,9 +436,7 @@ http://svtv.xyz:8080/live/MariaDiaz/RFZQJtZ/440946.ts
 
 Space
 #EXTINF:-1 tvg-id="518dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="películas", Space
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3af71d7c21a381fb6f41a1564293b06:b21e3b466e6d399618bdae6cd9dd5242
-https://1193-vos.dtvott.com/DASH/manifest.mpd
+http://svtv.xyz:8080/live/MariaDiaz/RFZQJtZ/440906.ts
 
 Cinecanal
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/small.300px-CinecanalLA.png.f70a40b1c42227867d1093684e91c1be.png" group-title="películas", Cinecanal
@@ -507,9 +505,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4037.ts
 
 AXN
 #EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://la.axn.com/themes/custom/responsive_sony_axn/logo.png" group-title="películas", AXN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c152bb4696563d6d9369c375e328a8fd:c077f09e3a9dfef0580c9ae9f29e3bf2
-https://1019-vos.dtvott.com/DASH/manifest.mpd
+http://svtv.xyz:8080/live/MariaDiaz/RFZQJtZ/440954.ts
 
 DHE
 #EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/Logotipo-DHE-124x66-px.png" group-title="películas", DHE
