@@ -141,12 +141,12 @@ http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1531.ts
 Espn premium
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
-http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/154049.ts
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/8330.ts
 
 TNT sports
 
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/166829.ts
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1155814.ts
 
 Tyc sports
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="http://www.elojo360.com/images/logos/tyc.png" group-title="deportes", Tyc Sports
@@ -422,7 +422,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4109.ts
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_01/large.1200px-HBO_Mundi_svg.png.f85477c6bb6fbf693035aae52684f9fc.png" group-title="películas", HBO MUNDI
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1143815.ts
+http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/52878.ts
 
 HBO POP
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1986800355_HBOPOP(varianteblanca).png.a7a608512df4e3de4d6e7d3cbdc7a4a1.png" group-title="películas", HBO POP
@@ -450,11 +450,11 @@ http://jaciptv.com/live/8752ALsv/ewjK5VvjD77u/169821.ts
 
 Cinemax
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="películas", Cinemax
-http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1444.ts
+http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1904.ts
 
 Space
 #EXTINF:-1 tvg-id="518dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="películas", Space
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4099.ts
+http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/26904.ts
 
 Cinecanal
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/small.300px-CinecanalLA.png.f70a40b1c42227867d1093684e91c1be.png" group-title="películas", Cinecanal
@@ -495,7 +495,7 @@ Sony Channel
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="películas", Sony Channel
 http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4048.ts
 
-Sony Movies
+Sony Movies🟢
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="películas", Sony Movies
 http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1143816.ts
 
@@ -565,7 +565,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1155791.ts
 
 Golden Plus
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.92231216_GoldenPlus2020.png.9d28f761f6b2d784bafade6a479e053e.png" group-title="películas", Golden Plus
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1148196.ts
+http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1476.ts
 
 AMC
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://www.amctv.com.br/wp-content/themes/amc-global-redesign/assets/images/amc/placeholder_16x9.png" group-title="películas", AMC
