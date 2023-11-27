@@ -141,7 +141,7 @@ http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/81322.ts
 Espn premium
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/8330.ts
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/81254.ts
 
 TNT sports
 
@@ -175,7 +175,7 @@ Espn
 https://edge-mix01-mps.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1080110.ts
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/52968.ts
 
 #EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
 
@@ -197,7 +197,7 @@ Espn 2
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Chi 
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/156137.ts
+
 
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Per
 http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/156139.ts
@@ -493,11 +493,11 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(P
 
 Sony Channel
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="películas", Sony Channel
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4048.ts
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/1261.ts
 
 Sony Movies
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="películas", Sony Movies
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1143816.ts
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/312826.ts
 
 Sony Cine
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="películas", Sony Cine
@@ -578,7 +578,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/3958.ts
 
 Comedy Central
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/small.279164273_Sinttulo-2.png.f8efe6e8af25fa164fe3c4eca079ea0c.png" group-title="películas", Comedy Central
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/251017.ts
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/291369.ts
 
 Movistar+
 #EXTINF:-1 tvg-id="#0.es" tvg-logo="https://los40.com/resizer/FdvRmP_YBc0h9r4DIRrAj0W0efY=/1200x544/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/FBNGJSNLI5MWLEISVQXD5PLKKA.jpg" group-title="películas", Movistar+ 
