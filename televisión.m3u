@@ -1,1 +1,6 @@
 television
+Espn premium
+
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/812543.ts
+
