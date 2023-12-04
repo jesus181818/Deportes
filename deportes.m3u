@@ -146,7 +146,7 @@ http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/81254.ts
 TNT sports
 
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1155814.ts
+http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/589461.ts
 
 Tyc sports
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="http://www.elojo360.com/images/logos/tyc.png" group-title="deportes", Tyc Sports
@@ -276,7 +276,7 @@ https://edge-mix01-mps.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A
 Fox Sports
 
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
-http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/218484.ts
+ http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/218484.ts
 
 Fox Sports 2
 
@@ -294,7 +294,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 Fox Sports 3 
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/312793.ts
+http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/592093.ts
 
 DirecTV Sports
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
@@ -310,14 +310,7 @@ https://1059-vos.dtvott.com/DASH/manifest.mpd
 
 DirecTV Sports 2 
 #EXTINF:-1 tvg-id="612dtv.ar" tvg-name="DTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab020a1710d630168de21698375a439c:235898cdb10b0cdba35ea2ce94fbb1fb 
-https://1063-vos.dtvott.com/DASH/manifest.mpd
+http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/589320.ts
 
 DirecTV Sports 3
 #EXTINF:-1 tvg-id="179directv.cl" tvg-name="DTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
@@ -391,7 +384,7 @@ https://tvup-live.secure.footprint.net/teledeporte/teledeporte.mpd|User-Agent="M
 
 GOL PLAY
 #EXTINF:-1 tvg-id="gol.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" group-title="deportes", GOL PLAY
-http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336890
+http://flashprinttv.com:2086/live/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336891.ts
 
 Tennis Channel
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
@@ -418,7 +411,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1155794.ts
 
 HBO PLUS
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="películas", HBO PLUS
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4109.ts
+http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/602592.ts
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_01/large.1200px-HBO_Mundi_svg.png.f85477c6bb6fbf693035aae52684f9fc.png" group-title="películas", HBO MUNDI
@@ -477,7 +470,7 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXH
 
 STAR CHANNEL
 #EXTINF:-1 tvg-id="202dtv.co" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_12/small.StarChannel_Logo2021_FondoOscuro.png.e8870be3c80ce32ae67d75e716a79744.png" group-title="películas", STAR CHANNEL
-http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1454.ts
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/147538.ts
 
 Paramount
 #EXTINF:-1 tvg-id="510dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="películas", Paramount
@@ -495,9 +488,13 @@ Sony Channel
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="películas", Sony Channel
 http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/1261.ts
 
+Sony Channel
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="películas", Sony Channel ENG
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4048.ts
+
 Sony Movies
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="películas", Sony Movies
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/312826.ts
+
 
 Sony Cine
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="películas", Sony Cine
