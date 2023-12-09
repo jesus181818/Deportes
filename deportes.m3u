@@ -112,6 +112,7 @@ Canal Orbe 21
 #EXTINF:-1 tvg-id="351dtv.cl" tvg-logo="https://canalorbe21.com/wp-content/uploads/2023/09/orbe21-logox2.png" group-title="religión", Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
+
 Radio María TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-maria-argentina/fb_cover.jpg" group-title="religión", Radio María TV
@@ -120,6 +121,22 @@ https://5f700d5b2c46f.streamlock.net/maria720/maria720/playlist.m3u8?DVR
 Canal Santa María
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="religión", Canal Santa María
 https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
+
+EWTN
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="religión", EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+Vatican News
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/uo7x-iJfe-PaqLaTmA16USLIBVBr_fd0XrTjlFEc0mCHhkLAQ6V1xyP4qK_ZRKBNKI8" group-title="religión", Vatican News
+https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
+
+TV FAMILIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tvfamilia_logo.png" group-title="religión", TV Familia
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+
+Canal Diocesano
+#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png" group-title="religión", Canal Diocesano
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 
 Canal Rural
 #EXTINF:-1 tvg-id="728dtv.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logocanalrural2016.png/revision/latest?cb=20170805004919" group-title="noticias", Canal Rural
@@ -411,7 +428,7 @@ Supersport rugby
 
 HBO
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://logodix.com/logo/95977.png" group-title="películas", HBO 
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1173791.ts
+http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/592277.ts
 
 HBO 2
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.HBO2_logo.png.9524effdf8c725710b3fe98db32190e6.png" group-title="películas", HBO 2
@@ -423,7 +440,7 @@ http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/602592.ts
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_01/large.1200px-HBO_Mundi_svg.png.f85477c6bb6fbf693035aae52684f9fc.png" group-title="películas", HBO MUNDI
-http://budtvlight.com:25461/live/bud-654331/1f2971ce77/30347.ts
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1143815.ts
 
 HBO POP
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1986800355_HBOPOP(varianteblanca).png.a7a608512df4e3de4d6e7d3cbdc7a4a1.png" group-title="películas", HBO POP
@@ -443,7 +460,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(H
 
 HBO XTREME
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Xtreme.webp" group-title="películas", HBO XTREME
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/156161.ts
+http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1910.ts
 
 HBO SIGNATURE
 #EXTINF:-1 tvg-id="528dtv.cl" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Signature.webp" group-title="películas", HBO SIGNATURE
@@ -466,7 +483,7 @@ https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/Cin
 
 TNT
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88e30824-3c9a-4957-b6ab-394cb783aa20/ddie1xl-d42ee9a6-bbc9-48d4-9ddc-e5fe97ddcd89.png/v1/fill/w_894,h_894/tnt__2016__logo_by_darkvoidpictures_ddie1xl-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDk5OSIsInBhdGgiOiJcL2ZcLzg4ZTMwODI0LTNjOWEtNDk1Ny1iNmFiLTM5NGNiNzgzYWEyMFwvZGRpZTF4bC1kNDJlZTlhNi1iYmM5LTQ4ZDQtOWRkYy1lNWZlOTdkZGNkODkucG5nIiwid2lkdGgiOiI8PTUwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.pjATDnVoPKhiV8BFlhxVJ_gePnUJoXrbrDDQra23DfM" group-title="películas", TNT
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTHD)/index.m3u8
+http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/592388.ts
 
 TNT SERIES
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="películas", TNT SERIES
@@ -474,7 +491,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4050.ts
 
 FX
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://i.imgur.io/pdxEwCO_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="películas", FX
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/1275.ts
 
 STAR CHANNEL
 #EXTINF:-1 tvg-id="202dtv.co" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_12/small.StarChannel_Logo2021_FondoOscuro.png.e8870be3c80ce32ae67d75e716a79744.png" group-title="películas", STAR CHANNEL
@@ -548,7 +565,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4037.ts
 
 AXN
 #EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://la.axn.com/themes/custom/responsive_sony_axn/logo.png" group-title="películas", AXN
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/156119.ts
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/1254.ts
 
 DHE
 #EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/Logotipo-DHE-124x66-px.png" group-title="películas", DHE
@@ -556,7 +573,7 @@ http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/251018.ts
 
 Golden
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es" group-title="películas", Golden
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/312797.ts
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1155790.ts
 
 Golden Premiere
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_11/small.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.c3468a32b3d09c90eabdacd7e3c6211f.png" group-title="películas", Golden Premiere
@@ -567,7 +584,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1148844.ts
 
 Golden Edge
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.949364663_GoldenEdgeLA(2020).png.01c36a23cfa9246d911f519739ac22ef.png" group-title="películas", Golden Edge
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/312796.ts
+http://budtvlight.com:25461/live/bud-654331/1f2971ce77/93203.ts
 
 Golden Plus
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.92231216_GoldenPlus2020.png.9d28f761f6b2d784bafade6a479e053e.png" group-title="películas", Golden Plus
@@ -580,11 +597,11 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8|license_type=clearkey&lic
 
 Usa Network
 #EXTINF:-1 tvg-id="219dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="películas", Usa Network
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/3958.ts
+http://budtvlight.com:25461/live/bud-654331/1f2971ce77/30377.ts
 
 Comedy Central
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/small.279164273_Sinttulo-2.png.f8efe6e8af25fa164fe3c4eca079ea0c.png" group-title="películas", Comedy Central
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/291369.ts
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4039.ts
 
 Movistar+
 #EXTINF:-1 tvg-id="#0.es" tvg-logo="https://los40.com/resizer/FdvRmP_YBc0h9r4DIRrAj0W0efY=/1200x544/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/FBNGJSNLI5MWLEISVQXD5PLKKA.jpg" group-title="películas", Movistar+ 
