@@ -27,12 +27,12 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 El nueve
 
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="noticias", El Nueve
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/81272.ts
+https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 
 A24
 
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_03/large.566331441_A24(2019-2).png.d38ebaa943b38f6ce977695f46c94b8a.png" group-title="noticias", A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 TN 
 
@@ -53,7 +53,7 @@ https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 Canal 26
 
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-name="CA26HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="noticias", Canal 26
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/81310.ts
+http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/589395.ts
 
 La Nación+
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="noticias", La Nación+
@@ -105,7 +105,7 @@ http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 Telemax
 
 #EXTINF:-1 tvg-id="726dtv.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/large.blanco_terminado.png.525ceb746e22d1d89b8e1ff4da617438.png" group-title="noticias", Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/81288.ts
 
 Canal Orbe 21
 
@@ -149,7 +149,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/29348.ts
 
 El Garage
 #EXTINF:-1 tvg-id="el-garage.ar" tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="deportes", El Garage TV
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/81322.ts
+http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1531.ts
 
 
 
@@ -163,7 +163,7 @@ http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/81254.ts
 TNT sports
 
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/589461.ts
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1155814.ts
 
 Tyc sports
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="http://www.elojo360.com/images/logos/tyc.png" group-title="deportes", Tyc Sports
@@ -183,7 +183,7 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/ch
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1001.ts
+
 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -193,14 +193,14 @@ http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1001.ts
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6IS3EasRG+uKe6HnvL3Jvw","k":"y4nuOWFZnj5kilqtYIlfNA"}],"type":"temporary"}
  https://edge-mix01-mps.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
-#EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
-
-
 #EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/156145.ts
 
+#EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
+http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1001.ts
 
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1080110.ts
+
 
 
 Espn 2
@@ -319,7 +319,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 Fox Sports 3 
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
-http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/592093.ts
+http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/312854.ts
 
 DirecTV Sports
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
@@ -335,7 +335,7 @@ https://1059-vos.dtvott.com/DASH/manifest.mpd
 
 DirecTV Sports 2 
 #EXTINF:-1 tvg-id="612dtv.ar" tvg-name="DTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
-http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/589320.ts
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1091367.ts
 
 DirecTV Sports 3
 #EXTINF:-1 tvg-id="179directv.cl" tvg-name="DTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
@@ -350,14 +350,14 @@ https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1920px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar Deportes 
-http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/439958
+http://flashprinttv.com:2086/live/rqzyfnVC7L7v/Q7CsgL8ZUb9K/442148.ts
 
 #EXTINF:-1 tvg-id="m+deportes2.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="deportes", Movistar Deportes 2
 http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/481507
 
 Movistar LaLiga TV
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="deportes", Movistar LaLiga TV
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/32365.ts
+http://flashprinttv.com:2086/live/rqzyfnVC7L7v/Q7CsgL8ZUb9K/452539.ts
 
 
 Movistar Liga de campeones
@@ -531,7 +531,7 @@ http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/156191.ts
 
 Universal TV
 #EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/800px-Universal_TV_logo.svg.png" group-title="películas", Universal TV
-http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/592395.ts
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4054.ts
 
 Studio Universal
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_09/large.1695387832464.png.78fb7ca03b4120ceb8eeba07170a5556.png" group-title="películas", Studio Universal
@@ -556,7 +556,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1119202.ts
 
 Universal Premiere
 #EXTINF:-1 tvg-id="571dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="películas", Universal Premiere
-http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/602757.ts
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1119204.ts
 
 A&E
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3szqiPDiW-lTX-Q8n8LRmVj4KNpOOtty_xQ&usqp=CAU" group-title="películas", A&E
@@ -605,7 +605,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4039.ts
 
 Movistar+
 #EXTINF:-1 tvg-id="#0.es" tvg-logo="https://los40.com/resizer/FdvRmP_YBc0h9r4DIRrAj0W0efY=/1200x544/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/FBNGJSNLI5MWLEISVQXD5PLKKA.jpg" group-title="películas", Movistar+ 
-http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336301
+http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336302
 
 Movistar Acción
 #EXTINF:-1 tvg-id="m+accion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Acción 
@@ -617,7 +617,7 @@ http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336292
 
 Movistar Comedia
 #EXTINF:-1 tvg-id="m+comedia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/800px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Comedia 
-http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336296
+http://flashprinttv.com:2086/live/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336297.ts
 
 Movistar Drama
 #EXTINF:-1 tvg-id="m+drama.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/800px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Drama 
@@ -633,7 +633,7 @@ http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/451957
 
 Comedy Central 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/small.279164273_Sinttulo-2.png.f8efe6e8af25fa164fe3c4eca079ea0c.png" group-title="películas", Comedy Central España 
-http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336333
+http://flashprinttv.com:2086/live/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336334.ts
 
 AXN 
 #EXTINF:-1 tvg-id="axn.es" tvg-logo="https://la.axn.com/themes/custom/responsive_sony_axn/logo.png" group-title="películas", AXN ESPAÑA 
@@ -694,7 +694,7 @@ XTRM
 
 MTV
 #EXTINF:-1 tvg-id="262dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="música", MTV
-http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/602754.ts
+http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4083.ts
 
 MTV Hits
 #EXTINF:-1 tvg-id="261dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/640px-MTV_Hits_2021.svg.png" group-title="música", MTV HITS
