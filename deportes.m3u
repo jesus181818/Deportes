@@ -194,7 +194,7 @@ Espn
  https://edge-mix01-mps.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/156145.ts
+http://budtvlight.com:25461/live/bud-654331/1f2971ce77/79935.ts
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1001.ts
@@ -428,7 +428,7 @@ Supersport rugby
 
 HBO
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://logodix.com/logo/95977.png" group-title="películas", HBO 
-http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/592277.ts
+http://budtvlight.com:25461/live/bud-654331/1f2971ce77/3299.ts
 
 HBO 2
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.HBO2_logo.png.9524effdf8c725710b3fe98db32190e6.png" group-title="películas", HBO 2
@@ -440,7 +440,7 @@ http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/602592.ts
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_01/large.1200px-HBO_Mundi_svg.png.f85477c6bb6fbf693035aae52684f9fc.png" group-title="películas", HBO MUNDI
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1143815.ts
+http://budtvlight.com:25461/live/bud-654331/1f2971ce77/30347.ts
 
 HBO POP
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1986800355_HBOPOP(varianteblanca).png.a7a608512df4e3de4d6e7d3cbdc7a4a1.png" group-title="películas", HBO POP
@@ -515,7 +515,7 @@ http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/1261.ts
 
 Sony Channel
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="películas", Sony Channel ENG
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4048.ts
+
 
 Sony Movies
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="películas", Sony Movies
@@ -527,7 +527,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 Warner Channel
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="películas", Warner Channel
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/156191.ts
+http://budtvlight.com:25461/live/bud-654331/1f2971ce77/37964.ts
 
 Universal TV
 #EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/800px-Universal_TV_logo.svg.png" group-title="películas", Universal TV
