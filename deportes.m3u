@@ -183,23 +183,11 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/ch
 Espn
 
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d846f13c5bd43f3a456d9e958447f17:47e59e0ccb28b0ffa7ce830fd2519539
-https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=56f12bf8ad1b47f99bb92deae2165d54:5c4d0306c4c45054169531dcc75cb8b7
+#EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
+https://anedgesgo.express.com.ar/live/c1eds/ESPN_HD/SA_DASH_cipix/ESPN_HD.mpd
 
-
- #EXTVLCOPT:network-caching=1000
- #EXTVLCOPT:http-user-agent="FireFox"
- #KODIPROP:inputstreamaddon=inputstream.adaptive 
- #KODIPROP:inputstream.adaptive.manifest_type=dash 
- #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
- #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6IS3EasRG+uKe6HnvL3Jvw","k":"y4nuOWFZnj5kilqtYIlfNA"}],"type":"temporary"}
-  https://edge-mix01-mps.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
 
@@ -208,7 +196,14 @@ https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.
 http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181842.ts
 
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
-
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
 
 
 Espn 2
@@ -388,10 +383,14 @@ http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181933.ts
 
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn1.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/53380.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-037/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn2.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN 2
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/34608.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-038/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="dazn3.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/1_0_19_74D8_3F8_1_C00000_0_0_0-2.png?ssl=1" group-title="deportes", DAZN 3
 
@@ -401,7 +400,9 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/34608.ts
 
 DAZN LaLiga
 #EXTINF:-1 tvg-id="daznlalige.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliganuevo.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN LaLiga
-http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/119552
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliganuevo.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN LaLiga 2
 
