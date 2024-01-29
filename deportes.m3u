@@ -158,34 +158,13 @@ http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1531.ts
 Espn premium
 
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
-http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181854.ts
-
-#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:edef8ba979d64acea3c827dcd51d21ed
-https://edge-live01-mun.cvattv.com.ar/live/c7eds/Fox_Sports_Premium_HD/SA_Live_dash_enc/Fox_Sports_Premium_HD.mpd
-
-#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM 3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:4c230dbc7f6a4bfa6ad0aa73ff792374
-https://edge-live01-mun.cvattv.com.ar/live/c7eds/Fox_Sports_Premium_HD/SA_Live_dash_enc/Fox_Sports_Premium_HD.mpd
-
+http://nxt.plus:8080/live/27setgs/87hgd14/11476.ts
 
 
 TNT sports
 
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1155814.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/25121.ts
 
 Tyc sports
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8wjzn31605555626.png" group-title="deportes", Tyc Sports
@@ -215,7 +194,7 @@ Espn
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
 
 #EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
-
+http://45.173.201.50:4000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181842.ts
@@ -317,7 +296,7 @@ http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181863.ts
 
 Fox Sports 3
 #EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.3a337eb99ea1ba9a71f63fc2b9c20d1f.png" group-title="deportes", Fox Sports 3
-http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181867.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/81342.ts
 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -331,7 +310,7 @@ http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181867.ts
 Fox Sports
 
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
-http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/218484.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/24404.ts
 
 Fox Sports 2
 
@@ -349,7 +328,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 Fox Sports 3 
 
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
-http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181868.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/24405.ts
 
 
 
@@ -393,18 +372,18 @@ Movistar Deportes
 http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181877.ts
 
 #EXTINF:-1 tvg-id="m+deportes2.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="deportes", Movistar Deportes 2
-http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/228393.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/60437.ts
 
 Movistar LaLiga TV
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/23v0bw1692438187.png" group-title="deportes", Movistar LaLiga TV
-http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181928.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/65683.ts
 
 #EXTINF:-1 tvg-id="mpluslaliga2.es" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/23v0bw1692438187.png" group-title="deportes", Movistar LaLiga TV 2
-http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181928.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/168252.ts
 
 Movistar Liga de campeones
 #EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/hktwpa1654941198.png" group-title="deportes", Movistar Liga de Campeones 
-http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181930.ts
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 
 
 #Vamos por Movistar+
@@ -414,8 +393,10 @@ http://motivatv.club/live/Orlando/1234/1036971.ts
 
 
 LaLiga
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f6rnxx1660315163.png" group-title="deportes", LaLiga
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png" group-title="deportes", LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"genyhEnIU1uYm38mtaVF1g","k":"GdSpWKcHeIgBj7pIEiKJKA"},{"kty":"oct","kid":"QQoGrUu7WlaoodQFgdh63g","k":"8k9xINtJlqasnk+C57sYjw"}]}
+https://tvup-live.akamaized.net/laligatv/laligatv.mpd
 
 DAZN
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn1.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN
@@ -471,12 +452,55 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
 http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/129.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel 2
+http://nxt.plus:8080/live/27setgs/87hgd14/26923.ts
+
 Super Tennis
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="deportes", Super Tennis
 
 
 Supersport rugby
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="deportes", SuperSport Rugby
+
+
+TNT Sports
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/cwsassets/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="deportes", TNT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
+#https://linear014-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport1)/manifest_hd.mpd
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/cwsassets/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="deportes", TNT Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee
+http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/cwsassets/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="deportes", TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d81e9c8dd58b72ebd87d54a78009:01924a06ecbe6296e756e35acdd7c30e
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/cwsassets/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="deportes", TNT Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
+
+
+Premier Sports 1
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt1ac9efd6d52a6051/6144b5cd8ab9337efb403df1/PS_Logo_LANDSCAPE_4.png" group-title="deportes", Premier Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
 
 
 HBO
