@@ -157,17 +157,17 @@ http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1531.ts
 
 Espn premium
 
-#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
+#EXTINF:-1 tvg-id="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
 http://nxt.plus:8080/live/27setgs/87hgd14/11476.ts
 
 
 TNT sports
 
-#EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
+#EXTINF:-1 tvg-id="TNT Sport Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
 http://nxt.plus:8080/live/27setgs/87hgd14/25121.ts
 
 Tyc sports
-#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8wjzn31605555626.png" group-title="deportes", Tyc Sports
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8wjzn31605555626.png" group-title="deportes", Tyc Sports
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -183,7 +183,7 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/ch
 
 Espn
 
-#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
