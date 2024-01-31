@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.2 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Fox Sports Premium">
+    <display-name lang="es">Fox Sports Premium</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TNT Sport Premium">
+    <display-name lang="es">TNT Sport Premium</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TyC Sports">
+    <display-name lang="es">TyC Sports</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20240131233000 -0300" stop="20240201003000 -0300" channel="ESPN">
+    <title lang="es">Aston Villa vs. Newcastle Utd., Fecha 22, Villa Park</title>
+  </programme>
+  <programme start="20240201003000 -0300" stop="20240201013000 -0300" channel="ESPN">
+    <title lang="es">Nottingham Forest vs. Arsenal, Fecha 22, City Ground</title>
+  </programme>
+  <programme start="20240201013000 -0300" stop="20240201020000 -0300" channel="ESPN">
+    <title lang="es">La Liga World</title>
+  </programme>
+  <programme start="20240201020000 -0300" stop="20240201040000 -0300" channel="ESPN">
+    <title lang="es">Salernitana vs. Roma, Fecha 22, Estadio Arechi</title>
+  </programme>
+  <programme start="20240201040000 -0300" stop="20240201050000 -0300" channel="ESPN">
+    <title lang="es">ESPN F10</title>
+  </programme>
+  <programme start="20240201050000 -0300" stop="20240201060000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20240201060000 -0300" stop="20240201070000 -0300" channel="ESPN">
+    <title lang="es">PGA Tour Highlights</title>
+  </programme>
+  <programme start="20240201070000 -0300" stop="20240201080000 -0300" channel="ESPN">
+    <title lang="es">Goles de la Ligue 1</title>
+  </programme>
+  <programme start="20240201080000 -0300" stop="20240201083000 -0300" channel="ESPN">
+    <title lang="es">Spirit of Yachting</title>
+  </programme>
+  <programme start="20240201083000 -0300" stop="20240201090000 -0300" channel="ESPN">
+    <title lang="es">La Liga World</title>
+  </programme>
+  <programme start="20240201090000 -0300" stop="20240201100000 -0300" channel="ESPN">
+    <title lang="es">Nottingham Forest vs. Arsenal, Fecha 22, City Ground</title>
+  </programme>
+  <programme start="20240201100000 -0300" stop="20240201110000 -0300" channel="ESPN">
+    <title lang="es">Aston Villa vs. Newcastle Utd., Fecha 22, Villa Park</title>
+  </programme>
+  <programme start="20240201110000 -0300" stop="20240201120000 -0300" channel="ESPN">
+    <title lang="es">F Europa</title>
+  </programme>
+  <programme start="20240201120000 -0300" stop="20240201162000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20240201162000 -0300" stop="20240201182500 -0300" channel="ESPN">
+    <title lang="es">Tottenham Hotspur vs. Brentford, Fecha 22, Tottenham Hotspur Stadium</title>
+  </programme>
+  <programme start="20240201182500 -0300" stop="20240201220000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20240201220000 -0300" stop="20240201223000 -0300" channel="ESPN">
+    <title lang="es">Acción de la NBA</title>
+  </programme>
+  <programme start="20240201223000 -0300" stop="20240202010000 -0300" channel="ESPN">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20240131232500 -0300" stop="20240201012500 -0300" channel="Fox Sports Premium">
+    <title lang="es">Gimnasia (LP) vs. Ind. Rivadavia, Fecha 2</title>
+  </programme>
+  <programme start="20240201012500 -0300" stop="20240201032500 -0300" channel="Fox Sports Premium">
+    <title lang="es">Rosario Central vs. Banfield, Fecha 2</title>
+  </programme>
+  <programme start="20240201032500 -0300" stop="20240201052500 -0300" channel="Fox Sports Premium">
+    <title lang="es">Vélez Sarsfield vs. Independiente, Fecha 2</title>
+  </programme>
+  <programme start="20240201052500 -0300" stop="20240201055500 -0300" channel="Fox Sports Premium">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20240201055500 -0300" stop="20240201064500 -0300" channel="Fox Sports Premium">
+    <title lang="es">Independiente vs. Racing Club, Fecha 12, Estadio Lib. de América</title>
+  </programme>
+  <programme start="20240201064500 -0300" stop="20240201124500 -0300" channel="Fox Sports Premium">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20240201124500 -0300" stop="20240201144500 -0300" channel="Fox Sports Premium">
+    <title lang="es">Rosario Central vs. Banfield, Fecha 2</title>
+  </programme>
+  <programme start="20240201144500 -0300" stop="20240201164500 -0300" channel="Fox Sports Premium">
+    <title lang="es">Vélez Sarsfield vs. Independiente, Fecha 2</title>
+  </programme>
+  <programme start="20240201164500 -0300" stop="20240201185500 -0300" channel="Fox Sports Premium">
+    <title lang="es">Argentinos Jrs. vs. Dep. Riestra, Fecha 2</title>
+  </programme>
+  <programme start="20240201185500 -0300" stop="20240201211000 -0300" channel="Fox Sports Premium">
+    <title lang="es">Belgrano vs. San Lorenzo, Fecha 2</title>
+  </programme>
+  <programme start="20240201211000 -0300" stop="20240201233000 -0300" channel="Fox Sports Premium">
+    <title lang="es">Barracas Central vs. River Plate, Fecha 2</title>
+  </programme>
+  <programme start="20240201233000 -0300" stop="20240202012500 -0300" channel="Fox Sports Premium">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20240131233000 -0300" stop="20240201010000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Sports en CNN Radio</title>
+  </programme>
+  <programme start="20240201010000 -0300" stop="20240201030000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Vélez Sarsfield vs. Independiente, Fecha 2</title>
+  </programme>
+  <programme start="20240201030000 -0300" stop="20240201043000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Sports en CNN Radio</title>
+  </programme>
+  <programme start="20240201043000 -0300" stop="20240201050000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20240201050000 -0300" stop="20240201053000 -0300" channel="TNT Sport Premium">
+    <title lang="es">¿Te acordás de mí?</title>
+  </programme>
+  <programme start="20240201053000 -0300" stop="20240201060000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20240201060000 -0300" stop="20240201063000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Gol fem</title>
+  </programme>
+  <programme start="20240201063000 -0300" stop="20240201083000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Lanús vs. Newell’s, Fecha 2</title>
+  </programme>
+  <programme start="20240201083000 -0300" stop="20240201100000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Sports en CNN Radio</title>
+  </programme>
+  <programme start="20240201100000 -0300" stop="20240201120000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Vélez Sarsfield vs. Independiente, Fecha 2</title>
+  </programme>
+  <programme start="20240201120000 -0300" stop="20240201140000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Pelota parada</title>
+  </programme>
+  <programme start="20240201140000 -0300" stop="20240201150000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20240201150000 -0300" stop="20240201163000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Fútbol</title>
+  </programme>
+  <programme start="20240201163000 -0300" stop="20240201164500 -0300" channel="TNT Sport Premium">
+    <title lang="es">Match Day</title>
+  </programme>
+  <programme start="20240201164500 -0300" stop="20240201190000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Def. y Justicia vs. Platense, Fecha 2</title>
+  </programme>
+  <programme start="20240201190000 -0300" stop="20240201193000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Match Day</title>
+  </programme>
+  <programme start="20240201193000 -0300" stop="20240201194500 -0300" channel="TNT Sport Premium">
+    <title lang="es">Match Day</title>
+  </programme>
+  <programme start="20240201194500 -0300" stop="20240201220000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Racing Club vs. Tigre, Fecha 2</title>
+  </programme>
+  <programme start="20240201220000 -0300" stop="20240201223000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Match Day</title>
+  </programme>
+  <programme start="20240201223000 -0300" stop="20240201230000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Vino para quedarse</title>
+  </programme>
+  <programme start="20240201230000 -0300" stop="20240201233000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Confesiones</title>
+  </programme>
+  <programme start="20240201233000 -0300" stop="20240202010000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Sports en CNN Radio</title>
+  </programme>
+  <programme start="20240131233000 -0300" stop="20240201010000 -0300" channel="TyC Sports">
+    <title lang="es">La noche de TyC Sports</title>
+  </programme>
+  <programme start="20240201010000 -0300" stop="20240201020000 -0300" channel="TyC Sports">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20240201020000 -0300" stop="20240201040000 -0300" channel="TyC Sports">
+    <title lang="es">Chile vs. Argentina, Fecha 4</title>
+  </programme>
+  <programme start="20240201040000 -0300" stop="20240201050000 -0300" channel="TyC Sports">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20240201050000 -0300" stop="20240201070000 -0300" channel="TyC Sports">
+    <title lang="es">Chile vs. Argentina, Fecha 4</title>
+  </programme>
+  <programme start="20240201070000 -0300" stop="20240201090000 -0300" channel="TyC Sports">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20240201090000 -0300" stop="20240201103000 -0300" channel="TyC Sports">
+    <title lang="es">Superfútbol</title>
+  </programme>
+  <programme start="20240201103000 -0300" stop="20240201120000 -0300" channel="TyC Sports">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20240201120000 -0300" stop="20240201140000 -0300" channel="TyC Sports">
+    <title lang="es">Dale al medio</title>
+  </programme>
+  <programme start="20240201140000 -0300" stop="20240201160000 -0300" channel="TyC Sports">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20240201160000 -0300" stop="20240201180000 -0300" channel="TyC Sports">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20240201180000 -0300" stop="20240201195000 -0300" channel="TyC Sports">
+    <title lang="es">Presión alta</title>
+  </programme>
+  <programme start="20240201195000 -0300" stop="20240201233000 -0300" channel="TyC Sports">
+    <title lang="es">Relatos: Racing vs. Tigre / Barracas Central vs. River</title>
+  </programme>
+  <programme start="20240201233000 -0300" stop="20240202010000 -0300" channel="TyC Sports">
+    <title lang="es">La noche de TyC Sports</title>
+  </programme>
+</tv>
