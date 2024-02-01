@@ -5,7 +5,7 @@
 America
 
 #EXTINF:-1 tvg-id="AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="noticias", America
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/81276.ts
+https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
 
 Telefe
@@ -74,7 +74,7 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 Encuentro
 
 #EXTINF:-1 tvg-id="Encuentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal_encuentro_2020.png/800px-Canal_encuentro_2020.png" group-title="noticias", Encuentro
-
+http://nxt.plus:8080/live/27setgs/87hgd14/171110.ts
 
 IP
 
@@ -151,9 +151,18 @@ El Garage
 #EXTINF:-1 tvg-id="ElGarageTV.mx" tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="deportes", El Garage TV
 http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1531.ts
 
+Gran Hermano 
+#EXTINF:-1 tvg-id="0005" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", Gran Hermano 24hs
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349289.ts
 
+#EXTINF:-1 tvg-id="0005" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", Gran Hermano 24hs Cámara 1
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349290.ts
 
+#EXTINF:-1 tvg-id="0005" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", Gran Hermano 24hs Cámara 2
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349291.ts
 
+#EXTINF:-1 tvg-id="0005" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", Gran Hermano 24hs Cámara 3
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349292.ts
 
 Espn premium
 
@@ -177,13 +186,13 @@ Tyc sports
 #KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453 
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
 
-#EXTINF:-1 tvg-id="TyCSports.co" tvg-logo="http://www.elojo360.com/images/logos/tyc.png" group-title="deportes", Tyc Sports Internacional
+#EXTINF:-1 tvg-id="TyCSportsInternacionalUSA(Spanish).us" tvg-logo="http://www.elojo360.com/images/logos/tyc.png" group-title="deportes", Tyc Sports Internacional
 http://200.116.199.180:8000/play/a04n
 
 
 Espn
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
+#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -193,10 +202,10 @@ Espn
 #KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212 
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
 
-#EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
+#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
 http://45.173.201.50:4000/play/a04b/index.m3u8
 
-#EXTINF:-1 tvg-id="1175dtv.cl" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
+#EXTINF:-1 tvg-id="0411" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 http://181.78.208.254:8010/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
@@ -309,12 +318,12 @@ http://nxt.plus:8080/live/27setgs/87hgd14/81342.ts
 
 Fox Sports
 
-#EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
+#EXTINF:-1 tvg-id="0416" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
 http://nxt.plus:8080/live/27setgs/87hgd14/24404.ts
 
 Fox Sports 2
 
-#EXTINF:-1 tvg-id="FoxSports2.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIvuG-kbvY9EB-Wh49uarALGbNFGVEv-ZtA&usqp=CAU" group-title="deportes", Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIvuG-kbvY9EB-Wh49uarALGbNFGVEv-ZtA&usqp=CAU" group-title="deportes", Fox Sports 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -333,15 +342,15 @@ http://nxt.plus:8080/live/27setgs/87hgd14/24405.ts
 
 
 DirecTV Sports
-#EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
+#EXTINF:-1 tvg-id="0431" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
 http://nxt.plus:8080/live/27setgs/87hgd14/116424.ts
 
 DirecTV Sports 2 
-#EXTINF:-1 tvg-id="612dtv.ar" tvg-name="DTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
+#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
 http://nxt.plus:8080/live/27setgs/87hgd14/203176.ts
 
 DirecTV Sports 3
-#EXTINF:-1 tvg-id="179directv.cl" tvg-name="DTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
+#EXTINF:-1 tvg-id="0433" tvg-name="DSports Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -353,7 +362,7 @@ https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd
 
 
 DirecTV Sports Motor
-#EXTINF:-1 tvg-id="614dtv.cl" tvg-name="DTS+" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1686055067116" group-title="deportes", DirecTV Sports Motor
+#EXTINF:-1 tvg-id="0434" tvg-name="DSports Motor" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1686055067116" group-title="deportes", DirecTV Sports Motor
 http://budtvlight.com:25461/live/bud-654331/1f2971ce77/116982.ts
 
 Movistar Deportes
@@ -662,52 +671,57 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8|license_type=clearkey&lic
 
 
 Usa Network
-#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="películas", Usa Network
+#EXTINF:-1 tvg-id="USANetwork.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="películas", Usa Network
 http://budtvlight.com:25461/live/bud-654331/1f2971ce77/30377.ts
 
 Comedy Central
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/small.279164273_Sinttulo-2.png.f8efe6e8af25fa164fe3c4eca079ea0c.png" group-title="películas", Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/small.279164273_Sinttulo-2.png.f8efe6e8af25fa164fe3c4eca079ea0c.png" group-title="películas", Comedy Central
 http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4039.ts
 
+Love Nature
+#EXTINF:-1 tvg-id="0605" tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="", Love Nature
+http://nxt.plus:8080/live/27setgs/87hgd14/118112.ts
+
+
 Movistar+
-#EXTINF:-1 tvg-id="#0.es" tvg-logo="https://los40.com/resizer/FdvRmP_YBc0h9r4DIRrAj0W0efY=/1200x544/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/FBNGJSNLI5MWLEISVQXD5PLKKA.jpg" group-title="películas", Movistar+ 
+#EXTINF:-1 tvg-id="MovistarPlusplus(src01).es" tvg-logo="https://los40.com/resizer/FdvRmP_YBc0h9r4DIRrAj0W0efY=/1200x544/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/FBNGJSNLI5MWLEISVQXD5PLKKA.jpg" group-title="películas", Movistar+ 
 http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336302
 
 Movistar Originales
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Originales 
-http://flashprinttv.com:2086/live/rqzyfnVC7L7v/Q7CsgL8ZUb9K/454825.ts
+#EXTINF:-1 tvg-id="MplusOriginales(src01).es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Originales 
+http://nxt.plus:8080/live/27setgs/87hgd14/60285.ts
 
 Movistar Acción
-#EXTINF:-1 tvg-id="m+accion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/640px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Acción 
-http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336293
+#EXTINF:-1 tvg-id="MplusACCION(src01).es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/640px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Acción 
+http://nxt.plus:8080/live/27setgs/87hgd14/172488.ts
 
 Movistar Cine
-#EXTINF:-1 tvg-id="m+estrenos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Cine
-http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336292
+#EXTINF:-1 tvg-id="MplusCine(src01).es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Cine
+http://nxt.plus:8080/live/27setgs/87hgd14/172489.ts
 
 Movistar Comedia
-#EXTINF:-1 tvg-id="m+comedia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Comedia 
-http://flashprinttv.com:2086/live/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336297.ts
+#EXTINF:-1 tvg-id="MplusCOMEDIA(src01).es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Comedia 
+http://nxt.plus:8080/live/27setgs/87hgd14/172497.ts
 
 Movistar Drama
-#EXTINF:-1 tvg-id="m+drama.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Drama 
-http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336300
+#EXTINF:-1 tvg-id="MplusDRAMA(src01).es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Drama 
+http://nxt.plus:8080/live/27setgs/87hgd14/172503.ts
 
 Movistar Suspenso
-#EXTINF:-1 tvg-id="m+suspense.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Suspenso 
-http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336303
+#EXTINF:-1 tvg-id="MplusSuspense(src01).es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Suspenso 
+http://nxt.plus:8080/live/27setgs/87hgd14/172523.ts
 
 Movistar Series
-#EXTINF:-1 tvg-id="m+series.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/2560px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="películas", Movistar Series 
-http://flashprinttv.com:2086/live/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336312.ts
+#EXTINF:-1 tvg-id="MplusSERIES(src01).es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/2560px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="películas", Movistar Series 
+http://nxt.plus:8080/live/27setgs/87hgd14/172521.ts
 
 Movistar Documentales
-#EXTINF:-1 tvg-id="m+documentales.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Documentales 
+#EXTINF:-1 tvg-id="MplusDocumentales(src01).es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Documentales 
 http://flashprinttv.com:2086/rqzyfnVC7L7v/Q7CsgL8ZUb9K/451957
 
 Comedy Central 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/small.279164273_Sinttulo-2.png.f8efe6e8af25fa164fe3c4eca079ea0c.png" group-title="películas", Comedy Central España 
-http://flashprinttv.com:2086/live/rqzyfnVC7L7v/Q7CsgL8ZUb9K/336334.ts
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/small.279164273_Sinttulo-2.png.f8efe6e8af25fa164fe3c4eca079ea0c.png" group-title="películas", Comedy Central España 
+http://nxt.plus:8080/live/27setgs/87hgd14/172499.ts
 
 AXN 
 #EXTINF:-1 tvg-id="axn.es" tvg-logo="https://la.axn.com/themes/custom/responsive_sony_axn/logo.png" group-title="películas", AXN ESPAÑA 
@@ -768,7 +782,7 @@ XTRM
 
 MTV
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="música", MTV
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4083.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/43548.ts
 
 MTV Hits
 #EXTINF:-1 tvg-id="MTV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/640px-MTV_Hits_2021.svg.png" group-title="música", MTV HITS
