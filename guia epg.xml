@@ -36457,15 +36457,19 @@ Celia era una de las grandes promesas del golf español hasta que fue brutalment
     <title lang="en">UEFA Champions League • Galatasaray (Tur) vs. Bayern Munich (Ale), Fecha Grupo A, RAMS Park</title>
     <desc lang="en">Temporada 2023-2024 Ep: Galatasaray (Tur) vs. Bayern Munich (Ale), Fecha 3 Grupo A, RAMS Park. Vive los partidos de la 69º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Wembley de Londres, Inglaterra.</desc>
   </programme>
-<programme start="20240201000000 -0300" stop="202402102359000 -0300" channel="105">
+<programme start="20240201000000 -0300" stop="20240210235900 -0300" channel="105">
     <title lang="en">Gran Hermano Argentina 24 hrs</title>
     <desc lang="en">Disfruta en exclusivo de todo lo que pase en la casa más famosa del mundo, las 24 hrs.</desc>
   </programme>
-  <programme start="20240211000000 -0300" stop="202402192359000 -0300" channel="105">
+  <programme start="20240211000000 -0300" stop="20240219235900 -0300" channel="105">
     <title lang="en">Gran Hermano Argentina 24 hrs</title>
     <desc lang="en">Disfruta en exclusivo de todo lo que pase en la casa más famosa del mundo, las 24 hrs.</desc>
   </programme>
-  <programme start="20240220000000 -0300" stop="202402282359000 -0300" channel="105">
+  <programme start="20240220000000 -0300" stop="20240228235900 -0300" channel="105">
+    <title lang="en">Gran Hermano Argentina 24 hrs</title>
+    <desc lang="en">Disfruta en exclusivo de todo lo que pase en la casa más famosa del mundo, las 24 hrs.</desc>
+  </programme>
+    <programme start="20240301000000 -0300" stop="20240331235900 -0300" channel="105">
     <title lang="en">Gran Hermano Argentina 24 hrs</title>
     <desc lang="en">Disfruta en exclusivo de todo lo que pase en la casa más famosa del mundo, las 24 hrs.</desc>
   </programme>
