@@ -2,9 +2,11 @@
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentinapremium.xml"
-
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/venezuelapremium.xml"
+
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentinapremium2.xml"
+
+
 
 :D
 
