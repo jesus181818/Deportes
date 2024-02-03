@@ -2,7 +2,7 @@
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentinapremium2.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentinapremium.xml"
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/venezuelapremium.xml"
 
@@ -211,7 +211,7 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/ch
 #EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
 http://45.173.201.50:4000/play/a04b/index.m3u8
 
-#EXTINF:-1 tvg-id="0411" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
 http://181.78.208.254:8010/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
@@ -273,7 +273,7 @@ Espn 4
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN4.do" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
 http://nxt.plus:8080/live/27setgs/87hgd14/763.ts
 
 Espn extra
