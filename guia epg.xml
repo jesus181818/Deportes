@@ -366,6 +366,12 @@
   </channel>
 <channel id="ESPNPremium.ar"><display-name>FOX Sports Premium</display-name><url>https://mi.tv</url></channel>
 </channel>
+<channel id="ESPN4.do">
+<display-name>ESPN 4</display-name>
+</channel>
+<channel id="ESPNEXTRA.co">
+<display-name>ESPN EXTRA</display-name>
+</channel>
 <programme start="20240201000000 +0000" stop="20240201015000 +0000" channel="AMC.ar">
 <title lang="es" >El maestro del dinero</title>
 <desc lang="es">Lee Gates, un famoso presentador de televisión, es conocido por ser uno de los gurús de Wall Street. Pero cuando el joven Kyle Budwell pierde todo el dinero de su familia en una mala inversión por consejo de Gates, decide secuestrar al periodista.</desc>

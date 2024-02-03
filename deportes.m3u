@@ -2,6 +2,8 @@
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
+#EXTM3U url-tvg="http://nxt.plus:8080/xmltv.php?username=27setgs&password=87hgd14"
+
 :D
 
 America
@@ -28,7 +30,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 El nueve
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="noticias", El Nueve
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="Canal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="noticias", El Nueve
 https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 
 A24
@@ -111,7 +113,7 @@ http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/81288.ts
 
 Canal Orbe 21
 
-#EXTINF:-1 tvg-id="Orbe 21" tvg-name="Orbe 21" tvg-logo="https://canalorbe21.com/wp-content/uploads/2023/09/orbe21-logox2.png" group-title="religión", Canal Orbe 21
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="Canal Orbe 21" tvg-logo="https://canalorbe21.com/wp-content/uploads/2023/09/orbe21-logox2.png" group-title="religión", Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 
@@ -269,11 +271,11 @@ Espn 4
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN4.do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.do" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
 http://nxt.plus:8080/live/27setgs/87hgd14/763.ts
 
 Espn extra
-#EXTINF:-1 tvg-id="ESPNEXTRA.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
+#EXTINF:-1 tvg-id="ESPNEXTRA.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -320,12 +322,12 @@ http://nxt.plus:8080/live/27setgs/87hgd14/81342.ts
 
 Fox Sports
 
-#EXTINF:-1 tvg-id="0416" tvg-name="" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports HD" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
 http://nxt.plus:8080/live/27setgs/87hgd14/24404.ts
 
 Fox Sports 2
 
-#EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIvuG-kbvY9EB-Wh49uarALGbNFGVEv-ZtA&usqp=CAU" group-title="deportes", Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIvuG-kbvY9EB-Wh49uarALGbNFGVEv-ZtA&usqp=CAU" group-title="deportes", Fox Sports 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -338,21 +340,21 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 
 Fox Sports 3 
 
-#EXTINF:-1 tvg-id="FoxSports3(ConoSur).co" tvg-name="Fox Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="FOX Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
 http://nxt.plus:8080/live/27setgs/87hgd14/24405.ts
 
 
 
 DirecTV Sports
-#EXTINF:-1 tvg-id="0431" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DSPORTS 1 | CL ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
 http://nxt.plus:8080/live/27setgs/87hgd14/116424.ts
 
 DirecTV Sports 2 
-#EXTINF:-1 tvg-id="0432" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
+#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-name="DSPORTS 2 | CL ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
 http://nxt.plus:8080/live/27setgs/87hgd14/203176.ts
 
 DirecTV Sports 3
-#EXTINF:-1 tvg-id="0433" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
+#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-name="DSPORTS+ | CL ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
