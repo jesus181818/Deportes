@@ -166,8 +166,8 @@ http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349292.ts
 
 Espn premium
 
-#EXTINF:-1 tvg-id="Fox Sports Premium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
-http://nxt.plus:8080/live/27setgs/87hgd14/11476.ts
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="FOX Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
+http://nxt.plus:8080/live/27setgs/87hgd14/213179.ts
 
 
 TNT sports
@@ -267,8 +267,8 @@ Espn 4
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="608dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
-
+#EXTINF:-1 tvg-id="ESPN4.do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
+http://nxt.plus:8080/live/27setgs/87hgd14/763.ts
 
 Espn extra
 #EXTINF:-1 tvg-id="ESPNEXTRA.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
@@ -370,7 +370,7 @@ Movistar Deportes
 http://nxt.plus:8080/live/27setgs/87hgd14/23245.ts
 
 #EXTINF:-1 tvg-id="MplusDEPORTES2(src01).es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="deportes", Movistar Deportes 2
-http://nxt.plus:8080/live/27setgs/87hgd14/60437.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/27023.ts
 
 Movistar LaLiga TV
 #EXTINF:-1 tvg-id="MplusLALIGATV(src01).es" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/23v0bw1692438187.png" group-title="deportes", Movistar LaLiga TV
@@ -393,8 +393,9 @@ http://motivatv.club/live/Orlando/1234/1036971.ts
 LaLiga
 #EXTINF:-1 tvg-id="LaLigaTV.es" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png" group-title="deportes", LaLiga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"genyhEnIU1uYm38mtaVF1g","k":"GdSpWKcHeIgBj7pIEiKJKA"},{"kty":"oct","kid":"QQoGrUu7WlaoodQFgdh63g","k":"8k9xINtJlqasnk+C57sYjw"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qj3kUHKOUO281HqwOSAPbg","k":"SxsbjrdYUpX8bJrQVLrGRw"},{"kty":"oct","kid":"OITRjYctULWc6vA1MM3bzA","k":"RfWtZ1v02QVgQqkBIzAsDw"},{"kty":"oct","kid":"OJbBik/NVO+rr5sb2xgw9Q","k":"478TyNRjr15btWehw+oXJQ"}]}
 https://tvup-live.akamaized.net/laligatv/laligatv.mpd
+
 
 DAZN
 #EXTINF:-1 tvg-id="DAZN1(src01).es" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn1.png?fit=440%2C264&ssl=1" group-title="deportes", DAZN

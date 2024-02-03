@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.2 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"><tv generator-info-name="m3u4u" generator-info-url="https://m3u4u.com/">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.2 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"><tv generator-info-name="m3u4u" generator-info-url="https://m3u4u.com/"><tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.8.4" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
 
   <channel id="ESPN">
     <display-name lang="es">ESPN</display-name>
@@ -364,6 +364,8 @@
     <icon src="https://i.ibb.co/f2hYTrF/0605.png" />
     <url>http://www.theuselessweb.com</url>
   </channel>
+<channel id="ESPNPremium.ar"><display-name>FOX Sports Premium</display-name><url>https://mi.tv</url></channel>
+</channel>
 <programme start="20240201000000 +0000" stop="20240201015000 +0000" channel="AMC.ar">
 <title lang="es" >El maestro del dinero</title>
 <desc lang="es">Lee Gates, un famoso presentador de televisión, es conocido por ser uno de los gurús de Wall Street. Pero cuando el joven Kyle Budwell pierde todo el dinero de su familia en una mala inversión por consejo de Gates, decide secuestrar al periodista.</desc>
