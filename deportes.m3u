@@ -2,7 +2,9 @@
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
-#EXTM3U url-tvg="http://nxt.plus:8080/xmltv.php?username=27setgs&password=87hgd14"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentinapremium2.xml"
+
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/venezuelapremium.xml"
 
 :D
 
@@ -148,7 +150,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 DeportTV
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/1024px-Deportv.svg.png" group-title="deportes", DeportTV
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/1024px-Deportv.svg.png" group-title="deportes", DeportTV
 http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/29348.ts
 
 El Garage
@@ -196,7 +198,7 @@ http://200.116.199.180:8000/play/a04n
 
 Espn
 
-#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -288,7 +290,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(E
 
 
 Fox sports
-#EXTINF:-1 tvg-id="FOXSports(ConoSurArgentina).do" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.3d8fc53c1c8466b57f586e960951d014.png" group-title="deportes", Fox Sports
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.3d8fc53c1c8466b57f586e960951d014.png" group-title="deportes", Fox Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a5ee0465846b56021136c6c69741375:a273d74c9c9269c0793862da41cf41b9
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS)/master.mpd
@@ -296,7 +298,7 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/ch
 
 
 Fox sports 2
-#EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1344882745_FOXSports2ARG(2023-).png.151d074ee66613e39857d27da0a0f06c.png" group-title="deportes", Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1344882745_FOXSports2ARG(2023-).png.151d074ee66613e39857d27da0a0f06c.png" group-title="deportes", Fox Sports 2
 http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181863.ts
  
 #EXTVLCOPT:network-caching=1000
@@ -308,7 +310,7 @@ http://boxdigital.xyz:8080/live/221102101/JFFLgUaWKJJD/181863.ts
  https://edge-mix01-mps.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
 Fox Sports 3
-#EXTINF:-1 tvg-id="FoxSports3(ConoSur).ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.3a337eb99ea1ba9a71f63fc2b9c20d1f.png" group-title="deportes", Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="FOX Sports 3" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.3a337eb99ea1ba9a71f63fc2b9c20d1f.png" group-title="deportes", Fox Sports 3
 http://nxt.plus:8080/live/27setgs/87hgd14/81342.ts
 
 #EXTVLCOPT:network-caching=1000
@@ -322,12 +324,12 @@ http://nxt.plus:8080/live/27setgs/87hgd14/81342.ts
 
 Fox Sports
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports HD" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
+#EXTINF:-1 tvg-id="FOXSports(ConoSurArgentina).do" tvg-name="Fox Sports" tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/inline/s3/image/2018-12/FOX_Sports_logo.jpg?VersionId=3pXcc85wTcuwPJwsGT45_1Unk2I0KFp5&itok=RvhakVHq" group-title="deportes", Fox Sports
 http://nxt.plus:8080/live/27setgs/87hgd14/24404.ts
 
 Fox Sports 2
 
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIvuG-kbvY9EB-Wh49uarALGbNFGVEv-ZtA&usqp=CAU" group-title="deportes", Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2(ConoSur).co" tvg-name="Fox Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIvuG-kbvY9EB-Wh49uarALGbNFGVEv-ZtA&usqp=CAU" group-title="deportes", Fox Sports 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -340,21 +342,21 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 
 Fox Sports 3 
 
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="FOX Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3(ConoSur).co" tvg-name="Fox Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
 http://nxt.plus:8080/live/27setgs/87hgd14/24405.ts
 
 
 
 DirecTV Sports
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DSPORTS 1 | CL ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
+#EXTINF:-1 tvg-id="DIRECTV SPORTS" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
 http://nxt.plus:8080/live/27setgs/87hgd14/116424.ts
 
 DirecTV Sports 2 
-#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-name="DSPORTS 2 | CL ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
 http://nxt.plus:8080/live/27setgs/87hgd14/203176.ts
 
 DirecTV Sports 3
-#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-name="DSPORTS+ | CL ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
+#EXTINF:-1 tvg-id="DIRECTV SPORTS +" tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -639,7 +641,7 @@ Universal Premiere
 http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1119204.ts
 
 A&E
-#EXTINF:-1 tvg-id="A&amp;E HD" tvg-name="A&amp;E HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3szqiPDiW-lTX-Q8n8LRmVj4KNpOOtty_xQ&usqp=CAU" group-title="películas", A&E
+#EXTINF:-1 tvg-id="AESouth.us" tvg-name="AandE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3szqiPDiW-lTX-Q8n8LRmVj4KNpOOtty_xQ&usqp=CAU" group-title="películas", A&E
 http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4037.ts
 
 
