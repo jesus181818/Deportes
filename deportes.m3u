@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://m3u4u.com/xml/5g28ne1wz9tvwwpxnzpe"
+﻿#EXTM3U url-tvg="http://m3u4u.com/epg/5g28ne1wz9tvwwpxnzpe"
 
 #EXTM3U url-tvg="https://www.bevy.be/generate/SYwYv6PDuZ.xml"
 
@@ -259,7 +259,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(E
 
 
 Espn 4
-#EXTINF:-1 tvg-id="ESPN4SUR.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -274,7 +274,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 http://nxt.plus:8080/live/27setgs/87hgd14/763.ts
 
 Espn extra
-#EXTINF:-1 tvg-id="ESPNEXTRA.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
+#EXTINF:-1 tvg-id="ESPN EXTRA HD.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="deportes", ESPN EXTRA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -326,7 +326,7 @@ http://nxt.plus:8080/live/27setgs/87hgd14/24404.ts
 
 Fox Sports 2
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2.co" tvg-name="Fox Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIvuG-kbvY9EB-Wh49uarALGbNFGVEv-ZtA&usqp=CAU" group-title="deportes", Fox Sports 2
+#EXTINF:-1 tvg-id="Fox Sports 2.co" tvg-name="Fox Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIvuG-kbvY9EB-Wh49uarALGbNFGVEv-ZtA&usqp=CAU" group-title="deportes", Fox Sports 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -339,7 +339,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 
 Fox Sports 3 
 
-#EXTINF:-1 tvg-id="FOX SPORTS 3.co" tvg-name="Fox Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
+#EXTINF:-1 tvg-id="Fox Sports 3.co" tvg-name="Fox Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UT7rnuPSiZ3YdDKnE4M0MaEdfl6pdm1jAw&usqp=CAU" group-title="deportes", Fox Sports 3
 http://nxt.plus:8080/live/27setgs/87hgd14/24405.ts
 
 
