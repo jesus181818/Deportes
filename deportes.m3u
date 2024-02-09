@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://m3u4u.com/epg/5g28ne1wz9tvwwpxnzpe"
+﻿#EXTM3U url-tvg="http://m3u4u.com/xml/5g28ne1wz9tvwwpxnzpe"
 
 #EXTM3U url-tvg="https://www.bevy.be/generate/SYwYv6PDuZ.xml"
 
@@ -270,7 +270,7 @@ Espn 4
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN4.do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png" group-title="deportes", ESPN 4
 http://nxt.plus:8080/live/27setgs/87hgd14/763.ts
 
 Espn extra
