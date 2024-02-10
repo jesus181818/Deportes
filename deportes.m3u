@@ -1,7 +1,8 @@
-﻿#EXTM3U url-tvg="http://m3u4u.com/xml/5g28ne1wz9tvwwpxnzpe"
+﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/jesus181818/Deportes/main/guia%20epg.xml"
 
 #EXTM3U url-tvg="https://www.bevy.be/generate/SYwYv6PDuZ.xml"
 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/jesus181818/Deportes/main/programacion.xml"
 
 :D
 
@@ -155,16 +156,16 @@ El Garage
 http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1531.ts
 
 Gran Hermano 
-#EXTINF:-1 tvg-id="105" tvg-name="GHMUHD" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", Gran Hermano 24hs
+#EXTINF:-1 tvg-id="gh" tvg-name="gran hermano" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", Gran Hermano 24hs
 http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349289.ts
 
-#EXTINF:-1 tvg-id="105" tvg-name="GHMUHD" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", GH Cámara 1
+#EXTINF:-1 tvg-id="gh" tvg-name="gran hermano" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", GH Cámara 1
 http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349290.ts
 
-#EXTINF:-1 tvg-id="105" tvg-name="GHMUHD" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", GH Cámara 2
+#EXTINF:-1 tvg-id="gh" tvg-name="gran hermano" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", GH Cámara 2
 http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349291.ts
 
-#EXTINF:-1 tvg-id="105" tvg-name="GHMUHD" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", GH Cámara 3
+#EXTINF:-1 tvg-id="gh" tvg-name="gran hermano" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", GH Cámara 3
 http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349292.ts
 
 Espn premium
