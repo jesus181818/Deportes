@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.8.4" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="gh"><display-name lang="es">gran hermano</display-name><icon src="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png"/></channel>
-<programme start="20240210013000 +0000" stop="20240511024500 +0000" channel="Gran Hermano"><title lang="es">Gran hermano en vivo las 24hs</title>Disfruta en exclusivo de todo lo que pase en la casa más famosa del mundo, las 24 hs.<desc lang="es"></desc><date>2023</date><icon src="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png"/><rating system="INCAA"><value>R</value></rating></programme>
-</tv>
