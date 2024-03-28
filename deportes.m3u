@@ -148,7 +148,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 El Garage
 #EXTINF:-1 tvg-id="EL GARAGE" tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="deportes", El Garage TV
-http://zeuspro.xyz:8080/live/elwepaman/CphvdYcr8A/1531.ts
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/1531.ts
 
 Gran Hermano 
 #EXTINF:-1 tvg-id="gh" tvg-name="gran hermano" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", Gran Hermano 24hs
@@ -166,13 +166,13 @@ http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349292.ts
 Espn premium
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
-http://209.45.101.38:8000/play/a0bu
+http://nxt.plus:8080/live/27setgs/87hgd14/213179.ts
 
 
 TNT sports
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://209.45.101.38:8000/play/a0aw
+http://nxt.plus:8080/live/27setgs/87hgd14/25121.ts
 
 Tyc sports
 #EXTINF:-1 tvg-id="TYC SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8wjzn31605555626.png" group-title="deportes", Tyc Sports
@@ -202,10 +202,10 @@ Espn
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
-
+http://38.56.109.19/play/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
-http://190.61.43.5:8004/play/a02w/index.m3u8
+http://200.59.188.3:8000/play/a01p
 
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
 #EXTVLCOPT:network-caching=1000
@@ -330,18 +330,11 @@ http://nxt.plus:8080/live/27setgs/87hgd14/81342.ts
 
 DirecTV Sports
 #EXTINF:-1 tvg-id="DIRECTV SPORTS" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e1c0dd8d951335d9d8c534d29277c91:978f073eee32606a3f2544306fb1a7b3
-https://1059-vos-da-mt.dtvott.com/DASH/manifest.mpd
+http://nxt.plus:8080/live/27setgs/87hgd14/160612.ts
 
 DirecTV Sports 2 
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
-http://nxt.plus:8080/live/27setgs/87hgd14/203176.ts
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/154273.ts
 
 DirecTV Sports 3
 #EXTINF:-1 tvg-id="DIRECTV SPORTS +" tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
@@ -368,20 +361,20 @@ http://nxt.plus:8080/live/27setgs/87hgd14/168252.ts
 
 Movistar Liga de campeones
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/hktwpa1654941198.png" group-title="deportes", Movistar Liga de Campeones 
-http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
+http://nxt.plus:8080/live/27setgs/87hgd14/160243.ts
 
 
 #Vamos por Movistar+
 
 #EXTINF:-1 tvg-id="M+ #Vamos" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f6rnxx1660315163.png" group-title="deportes", #Vamos por Movistar+
-http://motivatv.club/live/Orlando/1234/1036971.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/15318.ts
 
 
 LaLiga
 #EXTINF:-1 tvg-id="LaLigaTV.es" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png" group-title="deportes", LaLiga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qj3kUHKOUO281HqwOSAPbg","k":"SxsbjrdYUpX8bJrQVLrGRw"},{"kty":"oct","kid":"OITRjYctULWc6vA1MM3bzA","k":"RfWtZ1v02QVgQqkBIzAsDw"},{"kty":"oct","kid":"OJbBik/NVO+rr5sb2xgw9Q","k":"478TyNRjr15btWehw+oXJQ"}]}
-https://tvup-live.akamaized.net/laligatv/laligatv.mpd
+ https://tvup-live.akamaized.net/laligatv/laligatv.mpd
 
 
 DAZN
@@ -421,18 +414,18 @@ Sky Sports
 
 Teledeporte
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="deportes", Teledeporte
-http://zeuspro.xyz:8080//live/elwepaman/CphvdYcr8A/117135.ts
+ http://zeuspro.xyz:8080//live/elwepaman/CphvdYcr8A/117135.ts
 
 GOL PLAY
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" group-title="deportes", GOL PLAY
-http://zeuspro.xyz:8080//live/elwepaman/CphvdYcr8A/117131.ts
+ http://zeuspro.xyz:8080//live/elwepaman/CphvdYcr8A/117131.ts
 
 Tennis Channel
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
-http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/129.ts
+ http://rasaiptv.com:8080/live/ALDETECHMARYANEZ18/18MARCELOYANEZ/129.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel 2
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
