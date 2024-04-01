@@ -148,7 +148,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 El Garage
 #EXTINF:-1 tvg-id="EL GARAGE" tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="deportes", El Garage TV
-http://pe.shortgod.com/volve24/tv9.php?id=9664
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/1531.ts
 
 Gran Hermano 
 #EXTINF:-1 tvg-id="gh" tvg-name="gran hermano" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", Gran Hermano 24hs
@@ -501,7 +501,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(H
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_01/large.1200px-HBO_Mundi_svg.png.f85477c6bb6fbf693035aae52684f9fc.png" group-title="películas", HBO MUNDI
-http://budtvlight.com:25461/live/bud-654331/1f2971ce77/30347.ts
+
 
 HBO POP
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1986800355_HBOPOP(varianteblanca).png.a7a608512df4e3de4d6e7d3cbdc7a4a1.png" group-title="películas", HBO POP
@@ -528,7 +528,7 @@ http://8.242.175.221:8000/play/a02x/index.m3u8
 
 HBO SIGNATURE
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Signature.webp" group-title="películas", HBO SIGNATURE
-http://zeuspro.xyz:8080//live/elwepaman/CphvdYcr8A/52879.ts
+
 
 Cinemax mx
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="películas", Cinemax
@@ -615,12 +615,12 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(U
 
 Universal Comedy
 #EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1490211344_UniversalComedy-Claro.png.6187403ad73ed4ac7cc015ca9c8def58.png" group-title="películas", Universal Comedy
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1119202.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/24328.ts
 
 
 Universal Premiere
 #EXTINF:-1 tvg-id="571dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="películas", Universal Premiere
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/1119204.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/14491.ts
 
 A&E
 #EXTINF:-1 tvg-id="AandE" tvg-name="AandE" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402265_9A16CAF7C07017A3.png" group-title="películas", A&E
@@ -641,7 +641,7 @@ http://8.242.175.221:8000/play/a01s/index.m3u8
 
 Golden Premiere
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_11/small.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.c3468a32b3d09c90eabdacd7e3c6211f.png" group-title="películas", Golden Premiere
-http://nxt.plus:8080/live/27setgs/87hgd14/59490.ts
+http://nxt.plus:8080/live/27setgs/87hgd14/196524.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_11/small.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.c3468a32b3d09c90eabdacd7e3c6211f.png" group-title="películas", Golden Premiere 2
 http://nxt.plus:8080/live/27setgs/87hgd14/59491.ts
@@ -661,10 +661,7 @@ http://177.128.115.21:8080/live/Binet/6UkGawEA4z/6.ts
 
 Usa Network
 #EXTINF:-1 tvg-id="SY FY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="películas", Usa Network
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=CCCCC
-https://vivo.lamtv.tv:8081/a/0097/playlist.m3u8
+http://nxt.plus:8080/live/27setgs/87hgd14/18736.ts
 
 Comedy Central
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/small.279164273_Sinttulo-2.png.f8efe6e8af25fa164fe3c4eca079ea0c.png" group-title="películas", Comedy Central
