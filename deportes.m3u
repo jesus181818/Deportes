@@ -166,13 +166,13 @@ http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349292.ts
 Espn premium
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
-http://nxt.plus:8080/live/27setgs/87hgd14/213179.ts
+https://supporttv.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
 
 
 TNT sports
 
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://nxt.plus:8080/live/27setgs/87hgd14/213178.ts
+https://supporttv.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 
 Tyc sports
 #EXTINF:-1 tvg-id="TYC SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8wjzn31605555626.png" group-title="deportes", Tyc Sports
@@ -317,7 +317,7 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/ch
 
 Fox sports 2
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/800px-Fox_Sports_2_Argentina_2023.svg.png" group-title="deportes", Fox Sports 2
-http://nxt.plus:8080/live/27setgs/87hgd14/81341.ts
+http://45.5.151.151:8000/play/a0ce/index.m3u8
 
 
 Fox Sports 3
