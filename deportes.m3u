@@ -3,7 +3,7 @@
 
 America
 
-#EXTINF:-1 tvg-id="AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="noticias", America
+#EXTINF:-1 tvg-id="AMERICA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="noticias", America
 https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
 
@@ -25,7 +25,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 El nueve
 
-#EXTINF:-1 tvg-id="CANAL 9" tvg-name="CANAL 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="noticias", El Nueve
+#EXTINF:-1 tvg-id="EL NUEVE" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="noticias", El Nueve
 https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 
 A24
@@ -51,7 +51,7 @@ https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 Canal 26
 
-#EXTINF:-1 tvg-id="Canal 26" tvg-name="CA26HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="noticias", Canal 26
+#EXTINF:-1 tvg-id="CANAL 26" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="noticias", Canal 26
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
@@ -60,7 +60,7 @@ https://edge-live01-bel.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26
  http://dns.k4livetv.com/live/Alienhost400/WCwuhHbSJAjY/589395.ts
 
 La Nación+
-#EXTINF:-1 tvg-id="LA NACION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="noticias", La Nación+
+#EXTINF:-1 tvg-id="LA NACION +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="noticias", La Nación+
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 Ciudad Magazine
@@ -113,7 +113,7 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 Ciudad TV Resistencia
 
 #EXTINF:-1 tvg-logo="http://ciudadtv.com.ar/imgs/logo2.png" group-title="noticias", Ciudad TV Resistencia
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+ http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 
 Telemax
 
@@ -157,7 +157,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 DeportTV
 
-#EXTINF:-1 tvg-id="DXTV" tvg-name="DXTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/1024px-Deportv.svg.png" group-title="deportes", DeportTV
+#EXTINF:-1 tvg-id="DEPORTV" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/1024px-Deportv.svg.png" group-title="deportes", DeportTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
@@ -186,20 +186,18 @@ http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349292.ts
 Espn premium
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN PREMIUM
-http://45.5.151.151:8000/play/a0fe/index.m3u8
- #KODIPROP:inputstream.adaptive.license_type=clearkey
- #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
- https://edge-live13-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+https://edge-live13-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
  http://45.5.151.151:8000/play/a0fe/index.m3u8
 
 
 TNT sports
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="deportes", TNT SPORTS
-http://45.5.151.151:8000/play/a002/index.m3u8
- #KODIPROP:inputstream.adaptive.license_type=clearkey
- #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
- https://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+https://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
  http://45.5.151.151:8000/play/a002/index.m3u8
 
 Tyc sports
@@ -233,7 +231,7 @@ Espn
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
 
 #EXTINF:-1 tvg-id="ESPN HD.cl" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
-http://8.242.175.221:8000/play/a03x/index.m3u8
+http://190.108.85.20:9999/play/a00a
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
  http://177.128.115.21:8080/live/Binet/6UkGawEA4z/36.ts
@@ -246,7 +244,7 @@ http://8.242.175.221:8000/play/a03x/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
+ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
 
 
 Espn 2
@@ -476,21 +474,33 @@ Supersport rugby
 
 HBO arg
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://logodix.com/logo/95977.png" group-title="películas", HBO 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24c2a4df8e8ddd176661ca6e0d61b26b:b1b13889f71a96902c28582302163a5c
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_HD_MX)/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
+https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
+ #KODIPROP:inputstream.adaptive.license_type=clearkey
+ #KODIPROP:inputstream.adaptive.license_key=24c2a4df8e8ddd176661ca6e0d61b26b:b1b13889f71a96902c28582302163a5c
+ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_HD_MX)/manifest.mpd
 
 HBO 2
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.HBO2_logo.png.9524effdf8c725710b3fe98db32190e6.png" group-title="películas", HBO 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d23487b5b881e44ba0fab9759fd85a3:029c7f128993034adfe4bc4e95140424
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO2_HD_MX)/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
+https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd
+ #KODIPROP:inputstream.adaptive.license_type=clearkey
+ #KODIPROP:inputstream.adaptive.license_key=2d23487b5b881e44ba0fab9759fd85a3:029c7f128993034adfe4bc4e95140424
+ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO2_HD_MX)/manifest.mpd
 
 HBO PLUS
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="películas", HBO PLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c6e933f315578b5111e2292faf99f70:3446f35947957d3701c49fd1729f216f
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_PLUS_HD_MX)/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd
+ #KODIPROP:inputstream.adaptive.license_type=clearkey
+ #KODIPROP:inputstream.adaptive.license_key=8c6e933f315578b5111e2292faf99f70:3446f35947957d3701c49fd1729f216f
+ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_PLUS_HD_MX)/manifest.mpd
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_01/large.1200px-HBO_Mundi_svg.png.f85477c6bb6fbf693035aae52684f9fc.png" group-title="películas", HBO MUNDI
@@ -508,14 +518,18 @@ https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
 
 HBO FAMILY
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/small.HBO_Family.png.2afb38473c7d287d978a8fd53fa5f8c6.png" group-title="películas", HBO FAMILY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4ScBEQi2tblkag3rOl1xvQ","kid":"HX7TgVy643hc6_5rQvPGVQ"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd
+ #KODIPROP:inputstreamaddon=inputstream.adaptive
+ #KODIPROP:inputstream.adaptive.manifest_type=mpd
+ #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+ #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4ScBEQi2tblkag3rOl1xvQ","kid":"HX7TgVy643hc6_5rQvPGVQ"}],"type":"temporary"}
+ #EXTVLCOPT:network-caching=1000
+ #EXTVLCOPT:http-user-agent="FireFox"
+ #EXTVLCOPT--http-reconnect=true
+ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd
 
 
 HBO XTREME
@@ -527,17 +541,17 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mp
  http://8.242.175.221:8000/play/a02x/index.m3u8
 
 HBO SIGNATURE
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Signature.webp" group-title="películas", HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO SIGNATURE HD" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Signature.webp" group-title="películas", HBO SIGNATURE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd
 
-Cinemax arg
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="películas", Cinemax
+Cinemax chile
+#EXTINF:-1 tvg-id="CINEMAX SUR.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="películas", Cinemax
 http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-Space arg
+Space arg☑️
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="películas", Space
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -546,20 +560,20 @@ Space arg
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
  http://177.128.115.21:8080/live/Binet/6UkGawEA4z/146.ts
 
-Cinecanal arg
+Cinecanal ☑️
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/small.300px-CinecanalLA.png.f70a40b1c42227867d1093684e91c1be.png" group-title="películas", Cinecanal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
 
 
-TNT arg
+TNT arg☑️
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88e30824-3c9a-4957-b6ab-394cb783aa20/ddie1xl-d42ee9a6-bbc9-48d4-9ddc-e5fe97ddcd89.png/v1/fill/w_894,h_894/tnt__2016__logo_by_darkvoidpictures_ddie1xl-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDk5OSIsInBhdGgiOiJcL2ZcLzg4ZTMwODI0LTNjOWEtNDk1Ny1iNmFiLTM5NGNiNzgzYWEyMFwvZGRpZTF4bC1kNDJlZTlhNi1iYmM5LTQ4ZDQtOWRkYy1lNWZlOTdkZGNkODkucG5nIiwid2lkdGgiOiI8PTUwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.pjATDnVoPKhiV8BFlhxVJ_gePnUJoXrbrDDQra23DfM" group-title="películas", TNT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd
 
-TNT SERIES
+TNT SERIES☑️
 #EXTINF:-1 tvg-id="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="películas", TNT SERIES
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -567,23 +581,23 @@ TNT SERIES
 https://edge-live17-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd
  http://177.128.115.21:8080/live/Binet/6UkGawEA4z/127.ts
 
-FX
-#EXTINF:-1 tvg-id="FX HD.co" tvg-logo="https://i.imgur.io/pdxEwCO_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="películas", FX
+FX☑️
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://i.imgur.io/pdxEwCO_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="películas", FX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ab9c42c713e0fb5517dc77cc19d6755:d8c271b82387e609b6c19e5e79240aff
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd
  http://177.128.115.21:8080/live/Binet/6UkGawEA4z/45.ts
 
-STAR CHANNEL arg
+STAR CHANNEL ☑️
 #EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_12/small.StarChannel_Logo2021_FondoOscuro.png.e8870be3c80ce32ae67d75e716a79744.png" group-title="películas", STAR CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
  http://177.128.115.21:8080/live/Binet/6UkGawEA4z/69.ts
 
-Paramount arg
-#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="películas", Paramount
+Paramount ☑️
+#EXTINF:-1 tvg-id="PARAMOUNT.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="películas", Paramount
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -594,7 +608,7 @@ Paramount arg
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(PARAMOUNT_HD)/manifest.mpd
 
 
-Sony Channel chile
+Sony Channel ☑️
 #EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="películas", Sony Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -609,21 +623,21 @@ Sony Channel
 
 Sony Movies mx
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="películas", Sony Movies
-http://45.5.151.151:8000/play/a0im/index.m3u8
+ http://45.5.151.151:8000/play/a0im/index.m3u8
 
 Sony Cine es
 #EXTINF:-1 tvg-id="SonyCine(Spanish).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="películas", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-Warner Channel 
+Warner Channel☑️
 #EXTINF:-1 tvg-id="WARNER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="películas", Warner Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
 https://edge-live15-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd
  http://177.128.115.21:8080/live/Binet/6UkGawEA4z/87.ts
 
-Universal TV col
-#EXTINF:-1 tvg-id="Universal TV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/800px-Universal_TV_logo.svg.png" group-title="películas", Universal TV
+Universal TV
+#EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/800px-Universal_TV_logo.svg.png" group-title="películas", Universal TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6mHDwa3ucbXC6XROQdS3Xw","kid":"bPmhPW/WWg8uHO45aaq59Q"}],"type":"temporary"}
@@ -678,7 +692,7 @@ https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
 DHE arg
 #EXTINF:-1 tvg-id="DHE" tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/Logotipo-DHE-124x66-px.png" group-title="películas", DHE
-http://38.56.109.19/play/a00f/index.m3u8
+http://190.108.85.20:9999/play/a00u
 
 Golden
 #EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es" group-title="películas", Golden
@@ -712,7 +726,7 @@ Usa Network
 #EXTINF:-1 tvg-id="SY FY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="películas", Usa Network
 http://nxt.plus:8080/live/jesus01/jesus01/18736.ts
 
-Comedy Central
+Comedy Central☑️
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_12/small.279164273_Sinttulo-2.png.f8efe6e8af25fa164fe3c4eca079ea0c.png" group-title="películas", Comedy Central
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
@@ -726,7 +740,7 @@ http://8.242.175.221:8000/play/a044/index.m3u8
 
 Movistar+
 #EXTINF:-1 tvg-id="M+ #0" tvg-logo="https://los40.com/resizer/FdvRmP_YBc0h9r4DIRrAj0W0efY=/1200x544/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/FBNGJSNLI5MWLEISVQXD5PLKKA.jpg" group-title="películas", Movistar+ 
-http://5.188.182.226:8080/live/agalache25/pVQggNA2KWv3/43814.ts
+ http://5.188.182.226:8080/live/agalache25/pVQggNA2KWv3/43814.ts
 
 Movistar Originales
 #EXTINF:-1 tvg-id="MplusOriginales(src01).es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="películas", Movistar Originales 
