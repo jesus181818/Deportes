@@ -202,38 +202,52 @@ https://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/T
 
 Tyc sports
 #EXTINF:-1 tvg-id="TYC SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8wjzn31605555626.png" group-title="deportes", Tyc Sports
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453 
-https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+https://edge-live13-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+ #EXTVLCOPT:network-caching=1000
+ #EXTVLCOPT:http-user-agent="FireFox"
+ #EXTVLCOPT--http-reconnect=true
+ #KODIPROP:inputstreamaddon=inputstream.adaptive
+ #KODIPROP:inputstream.adaptive.manifest_type=mpd
+ #KODIPROP:inputstream.adaptive.license_type=clearkey
+ #KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453 
+ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
 
 #EXTINF:-1 tvg-id="TyCSportsPanregional.ar" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8wjzn31605555626.png" group-title="deportes", Tyc Sports Internacional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
+
  http://177.128.115.21:8080/live/Binet/6UkGawEA4z/174.ts
 
 
 Espn
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Arg
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212 
-https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
-#EXTINF:-1 tvg-id="ESPN HD.cl" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
-http://8.242.175.221:8000/play/a03x/index.m3u8
+ #EXTVLCOPT:network-caching=1000
+ #EXTVLCOPT:http-user-agent="FireFox"
+ #EXTVLCOPT--http-reconnect=true
+ #KODIPROP:inputstreamaddon=inputstream.adaptive
+ #KODIPROP:inputstream.adaptive.manifest_type=mpd
+ #KODIPROP:inputstream.adaptive.license_type=clearkey
+ #KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212 
+ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
+#EXTINF:-1 tvg-id="ESPN HD.pe" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
+http://181.78.208.237:8000/play/a04w/index.m3u8
+
+ http://8.242.175.221:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN HD.cl" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
+http://181.78.208.237:8000/play/a01k/index.m3u8
+
  http://177.128.115.21:8080/live/Binet/6UkGawEA4z/36.ts
 
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
@@ -250,14 +264,18 @@ http://8.242.175.221:8000/play/a03x/index.m3u8
 Espn 2
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=579fc0cd11842bce9c045a0d55aa4872:bf54d928e27061a13fafdde934146472 
-https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
+ #EXTVLCOPT:network-caching=1000
+ #EXTVLCOPT:http-user-agent="FireFox"
+ #EXTVLCOPT--http-reconnect=true
+ #KODIPROP:inputstreamaddon=inputstream.adaptive
+ #KODIPROP:inputstream.adaptive.manifest_type=mpd
+ #KODIPROP:inputstream.adaptive.license_type=clearkey
+ #KODIPROP:inputstream.adaptive.license_key=579fc0cd11842bce9c045a0d55aa4872:bf54d928e27061a13fafdde934146472 
+ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="deportes", ESPN 2 Chi 
 
@@ -342,8 +360,11 @@ http://181.78.208.237:8000/play/a068/index.m3u8
 Fox sports
 #EXTINF:-1 tvg-id="FOX SPORTS HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/800px-Fox_Sports_Argentina_2023.svg.png" group-title="deportes", Fox Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a5ee0465846b56021136c6c69741375:a273d74c9c9269c0793862da41cf41b9
-https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+https://edge-live15-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+ #KODIPROP:inputstream.adaptive.license_type=clearkey
+ #KODIPROP:inputstream.adaptive.license_key=6a5ee0465846b56021136c6c69741375:a273d74c9c9269c0793862da41cf41b9
+ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS)/master.mpd
 
 
 
@@ -381,12 +402,14 @@ https://vivo.lamtv.tv:8081/a/0273/playlist.m3u8
 
 DirecTV Sports 3
 #EXTINF:-1 tvg-id="DIRECTV SPORTS +" tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
-http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/154275.ts
+
+ http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/154275.ts
 
 
 DirecTV Sports Motor
 #EXTINF:-1 tvg-id="0434" tvg-name="DSports Motor" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1686055067116" group-title="deportes", DirecTV Sports Motor
-http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/352478.ts
+
+ http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/352478.ts
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/jw11fx1654941293.png" group-title="deportes", Movistar Deportes 
