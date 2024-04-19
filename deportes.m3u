@@ -231,7 +231,7 @@ Espn
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
 
 #EXTINF:-1 tvg-id="ESPN HD.cl" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
-http://190.108.85.20:9999/play/a00a
+http://8.242.175.221:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
  http://177.128.115.21:8080/live/Binet/6UkGawEA4z/36.ts
@@ -313,7 +313,8 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 Espn 6
 
 #EXTINF:-1 tvg-id="Fox Sports 3.co" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/800px-ESPN_6_logo.svg.png" group-title="deportes", ESPN 6
-http://8.242.175.221:8000/play/a010/index.m3u8
+http://181.78.208.237:8000/play/a05l/index.m3u8
+ http://8.242.175.221:8000/play/a010/index.m3u8
  #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
  #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PprYdgvURfGRnYLq9kfB_g","k":"8MGO-YMkXMHtLsUkHdaNig"},{"kty":"oct","kid":"PnoSPvDdT-aYZGSRh2dYTw","k":"DmWJOEQIs9zZkXc8QEf30w"}]}
  https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTTTV/dash/manifest.mpd
@@ -333,7 +334,8 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 Espn Premium 
 
 #EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN Premium
-http://8.242.175.221:8000/play/a02u/index.m3u8
+http://181.78.208.237:8000/play/a068/index.m3u8
+ http://8.242.175.221:8000/play/a02u/index.m3u8
 
 
 
@@ -365,11 +367,17 @@ https://edge-live15-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/Fo
 
 DirecTV Sports
 #EXTINF:-1 tvg-id="DIRECTV SPORTS" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
-http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/361902.ts
+https://vivo.lamtv.tv:8081/a/0336/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=CCCCC
 
 DirecTV Sports 2 
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
-http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/154273.ts
+https://vivo.lamtv.tv:8081/a/0273/playlist.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=CCCCC
 
 DirecTV Sports 3
 #EXTINF:-1 tvg-id="DIRECTV SPORTS +" tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
@@ -378,7 +386,7 @@ http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/154275.ts
 
 DirecTV Sports Motor
 #EXTINF:-1 tvg-id="0434" tvg-name="DSports Motor" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1686055067116" group-title="deportes", DirecTV Sports Motor
-http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/116982.ts
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/352478.ts
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/jw11fx1654941293.png" group-title="deportes", Movistar Deportes 
@@ -440,17 +448,17 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 
 DAZN F1
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/daznformula.png?resize=440%2C264&ssl=1" group-title="deportes", DAZN F1
-http://nxt.plus:8080/live/27setgs/87hgd14/60439.ts
+http://nxt.plus:8080/live/jesus01/jesus01/60439.ts
 
 
 
 Teledeporte
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="deportes", Teledeporte
- http://zeuspro.xyz:8080//live/elwepaman/CphvdYcr8A/117135.ts
+http://zeuspro.xyz:8080//live/corredorjuan1/gYUDJ6CnMQ/117135.ts
 
 GOL PLAY
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" group-title="deportes", GOL PLAY
- http://zeuspro.xyz:8080//live/elwepaman/CphvdYcr8A/117131.ts
+http://zeuspro.xyz:8080//live/corredorjuan1/gYUDJ6CnMQ/117131.ts
 
 Tennis Channel
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="deportes", Tennis Channel
@@ -598,14 +606,17 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
 
 Paramount ☑️
 #EXTINF:-1 tvg-id="PARAMOUNT.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="películas", Paramount
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CVsnjP5lpeRnufKmk9sNEg","kid":"oo_eaQjgsNAxMkmGYX1pow"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(PARAMOUNT_HD)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd
+ #KODIPROP:inputstreamaddon=inputstream.adaptive
+ #KODIPROP:inputstream.adaptive.manifest_type=mpd
+ #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+ #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CVsnjP5lpeRnufKmk9sNEg","kid":"oo_eaQjgsNAxMkmGYX1pow"}],"type":"temporary"}
+ #EXTVLCOPT:network-caching=1000
+ #EXTVLCOPT:http-user-agent="FireFox"
+ #EXTVLCOPT--http-reconnect=true
+ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(PARAMOUNT_HD)/manifest.mpd
 
 
 Sony Channel ☑️
