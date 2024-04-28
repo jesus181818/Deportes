@@ -172,7 +172,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Ga
 
 Gran Hermano 
 #EXTINF:-1 tvg-id="gh" tvg-name="gran hermano" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", Gran Hermano 24hs
-http://nxt.plus:8080/live/jesus01/jesus01/214280.ts
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349289.ts
 
 #EXTINF:-1 tvg-id="gh" tvg-name="gran hermano" tvg-logo="https://www.directvgo.com/documents/91224/1703310/dgogranhermano.png" group-title="En vivo", GH Cámara 1
 http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/349290.ts
@@ -189,7 +189,7 @@ Espn premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 https://edge-live13-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
- http://45.5.151.151:8000/play/a0fe/index.m3u8
+
 
 
 TNT sports
@@ -198,7 +198,7 @@ TNT sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
- http://45.5.151.151:8000/play/a002/index.m3u8
+
 
 Tyc sports
 #EXTINF:-1 tvg-id="TYC SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8wjzn31605555626.png" group-title="deportes", Tyc Sports
@@ -206,21 +206,12 @@ Tyc sports
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 https://edge-live13-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
- #EXTVLCOPT:network-caching=1000
- #EXTVLCOPT:http-user-agent="FireFox"
- #EXTVLCOPT--http-reconnect=true
- #KODIPROP:inputstreamaddon=inputstream.adaptive
- #KODIPROP:inputstream.adaptive.manifest_type=mpd
- #KODIPROP:inputstream.adaptive.license_type=clearkey
- #KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453 
- https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
+
 
 #EXTINF:-1 tvg-id="TyCSportsPanregional.ar" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8wjzn31605555626.png" group-title="deportes", Tyc Sports Internacional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
-
- http://177.128.115.21:8080/live/Binet/6UkGawEA4z/174.ts
 
 
 Espn
@@ -241,14 +232,12 @@ https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD
  https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
 
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Per
-http://181.78.208.237:8000/play/a04w/index.m3u8
+http://38.56.118.88:4000/play/a00j/index.m3u8
 
- http://8.242.175.221:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN HD.cl" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Chi
-http://181.78.208.237:8000/play/a01k/index.m3u8
 
- http://177.128.115.21:8080/live/Binet/6UkGawEA4z/36.ts
+
 
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="deportes", ESPN Col
 #EXTVLCOPT:network-caching=1000
@@ -331,11 +320,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 Espn 6
 
 #EXTINF:-1 tvg-id="Fox Sports 3.co" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/800px-ESPN_6_logo.svg.png" group-title="deportes", ESPN 6
-http://181.78.208.237:8000/play/a05l/index.m3u8
- http://8.242.175.221:8000/play/a010/index.m3u8
- #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
- #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PprYdgvURfGRnYLq9kfB_g","k":"8MGO-YMkXMHtLsUkHdaNig"},{"kty":"oct","kid":"PnoSPvDdT-aYZGSRh2dYTw","k":"DmWJOEQIs9zZkXc8QEf30w"}]}
- https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTTTV/dash/manifest.mpd
+http://38.56.118.88:4000/play/a07t/index.m3u8
 
 Espn 7
 
@@ -352,9 +337,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(F
 Espn Premium 
 
 #EXTINF:-1 tvg-id="ESPN Premium HD.cl" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="deportes", ESPN Premium
-http://181.78.208.237:8000/play/a068/index.m3u8
- http://8.242.175.221:8000/play/a02u/index.m3u8
-
+http://38.56.118.88:4000/play/a07u/index.m3u8
 
 
 Fox sports
@@ -373,7 +356,7 @@ Fox sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd
- http://45.5.151.151:8000/play/a0ce/index.m3u8
+
 
 
 Fox Sports 3
@@ -388,32 +371,25 @@ https://edge-live15-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/Fo
 
 DirecTV Sports
 #EXTINF:-1 tvg-id="DIRECTV SPORTS" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="deportes", DirecTV Sports
-https://vivo.lamtv.tv:8081/a/0336/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=CCCCC
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/361902.ts
 
 DirecTV Sports 2 
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="deportes", DirecTV Sports 2
-https://vivo.lamtv.tv:8081/a/0273/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=CCCCC
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/154271.ts
 
 DirecTV Sports 3
 #EXTINF:-1 tvg-id="DIRECTV SPORTS +" tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/DSportsM%C3%A1s.png" group-title="deportes", DirecTV Sports +
+http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/154275.ts
 
- http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/154275.ts
 
 
 DirecTV Sports Motor
 #EXTINF:-1 tvg-id="0434" tvg-name="DSports Motor" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1686055067116" group-title="deportes", DirecTV Sports Motor
 
- http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/352478.ts
 
 Movistar Deportes
 #EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/jw11fx1654941293.png" group-title="deportes", Movistar Deportes 
-http://nxt.plus:8080/live/jesus01/jesus01/23245.ts
+http://nxt.plus:8080/live/jesus01/jesus01/23243.ts
 
 #EXTINF:-1 tvg-id="M+ Deportes 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="deportes", Movistar Deportes 2
 http://nxt.plus:8080/live/jesus01/jesus01/27023.ts
@@ -700,7 +676,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(U
 
 Universal Comedy
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1490211344_UniversalComedy-Claro.png.6187403ad73ed4ac7cc015ca9c8def58.png" group-title="películas", Universal Comedy
-http://zeuspro.xyz:8080/live/corredorjuan1/gYUDJ6CnMQ/153306.ts
+http://nxt.plus:8080/live/jesus01/jesus01/24328.ts
 
 
 Universal Premiere
